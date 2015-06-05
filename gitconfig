@@ -1,0 +1,7 @@
+[user]
+	email = billsix@gmail.com
+	name = William Emerison Six
+[push]
+	default = matching
+[core]
+	editor = emacs
