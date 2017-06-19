@@ -11,3 +11,4 @@
  flag)
 
 (advice-add 'set-window-dedicated-p :override #'set-window-undedicated-p)
+(add-hook 'before-save-hook 'delete-trailing-whitespace)
