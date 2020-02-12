@@ -1,0 +1,15 @@
+# To install a VM
+
+# virt-install \
+#   --name=ubuntu19.10 \
+#   --os-type=ubuntu19.04 \
+#   --memory 4096 \
+#   --vcpus 2 \
+#   --virt-type kvm \
+#   --graphics spice --ram=1024 \
+#   --disk path=~/vms/ubuntu/ubuntu19.10.img,size=40  \
+#   --cdrom /mnt/nfs/OSes/Ubuntu/ubuntu-19.10-desktop-amd64.iso
+
+# To clone a VM
+# virt-clone --original {Domain-Vm-Name-Here} \
+# --name {New-Domain-Vm-Name-Here} --file {/var/lib/libvirt/images/File.Name.here}
