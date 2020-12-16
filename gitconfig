@@ -5,6 +5,7 @@
 	default = simple
 [core]
 	editor = emacs -nw
+	hooksPath = .githooks
 [alias]
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
         squash = "!f() { git reset --soft $1 && git commit ${2:+-m \"$2\"}; }; f"
