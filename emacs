@@ -33,3 +33,5 @@
             (downcase-region start (1+ start)))
         (replace-regexp "\\([A-Z]\\)" "_\\1" nil (1+ start) end)
         (downcase-region start (cdr (bounds-of-thing-at-point 'symbol)))))))
+
+;;; (set-face-attribute 'default nil :height 180)
