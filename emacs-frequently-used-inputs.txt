@@ -31,7 +31,8 @@ M-x - prompt for emacs command, typed in the bottom of the screen
   on prompt, type apropos and hit enter.  This is a search for functions
   on prompt, type cd and hit enter.  This changes the current working directory
   on prompt, type compile and hit enter.  This calls make in the current working directory
-  on prompt, type ispell to to spell checking
+  on prompt, type ispell to spell checking
+  on prompt, type grep to search filesystem at current working directory
 
 
 M-/ - word complete, kind of like autocomplete, but less smart.
