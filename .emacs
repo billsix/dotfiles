@@ -6,11 +6,6 @@
 (setq inhibit-startup-message t)        ; Disable startup message
 (setq-default indent-tabs-mode nil)
 
-(defun set-window-undedicated-p (window flag)
- "Never set window dedicated."
- flag)
-
-(advice-add 'set-window-dedicated-p :override #'set-window-undedicated-p)
 (add-hook 'before-save-hook 'delete-trailing-whitespace)
 
 
@@ -33,5 +28,3 @@
             (downcase-region start (1+ start)))
         (replace-regexp "\\([A-Z]\\)" "_\\1" nil (1+ start) end)
         (downcase-region start (cdr (bounds-of-thing-at-point 'symbol)))))))
-
-;;; (set-face-attribute 'default nil :height 180)
