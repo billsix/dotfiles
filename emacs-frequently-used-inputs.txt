@@ -1,0 +1,43 @@
+C-x s  - Save
+C-x f  - Open File
+C-x c  - Close File
+
+C-x 3 - Open new window, split vertically
+C-x 2 - Open new window, split horizontally
+C-x o - Switch windows
+C-x 0 - Close current window
+
+C-s - search forward
+C-r - search backwards
+
+C-a - move cursor to beginning of line
+C-e - move cursor to the end of the line
+
+M-b  - move cursor back one word
+M-f  - move cursor forward one word
+
+C-M-b - go backwards to the matching brace/parenthesis
+C-M-f - go forwards to the matching brace/parenthesis
+
+
+C-space - start marking region
+        -  move cursor around to mark region
+M-w  - copy currently highlighted region
+C-w  - cut currently highlighted region
+C-y - paste
+C-k - cut from the cursor to the end of the line
+
+M-x - prompt for emacs command, typed in the bottom of the screen
+  on prompt, type apropos and hit enter.  This is a search for functions
+  on prompt, type cd and hit enter.  This changes the current working directory
+  on prompt, type compile and hit enter.  This calls make in the current working directory
+  on prompt, type ispell to to spell checking
+
+
+M-/ - word complete, kind of like autocomplete, but less smart.
+    - keep holding M and type / to try new completions
+
+
+C-x ( - Start recording macro
+C-x ) - Stop recording macro
+C-x e - replay macro
