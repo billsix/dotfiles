@@ -27,6 +27,10 @@ C-w  - cut currently highlighted region
 C-y - paste
 C-k - cut from the cursor to the end of the line
 
+C-l - wherever the cursor is is the file, move that to the middle of
+      the screen, vertically.  Press it a second time to make it go
+      to the top of the screen
+
 M-x - prompt for emacs command, typed in the bottom of the screen
   on prompt, type apropos and hit enter.  This is a search for functions
   on prompt, type cd and hit enter.  This changes the current working directory
