@@ -13,3 +13,5 @@
 # To clone a VM
 # virt-clone --original {Domain-Vm-Name-Here} \
 # --name {New-Domain-Vm-Name-Here} --file {/var/lib/libvirt/images/File.Name.here}
+
+# to get resolution to change, edit /etc/default/grub, and add "-vga std" to end of GRUB_CMDLINE_LINUX_DEFAULT, and run "/sbin/update-grub"
