@@ -37,7 +37,32 @@ M-x - prompt for emacs command, typed in the bottom of the screen
   on prompt, type compile and hit enter.  This calls make in the current working directory
   on prompt, type ispell to spell checking
   on prompt, type grep to search filesystem at current working directory
-
+  on prompt, type gdb, and then enter the program to be debugged.
+     once in gdb
+       set args
+         to set the args
+       run
+         to run the program
+       n
+         next
+       s
+         step
+       bt
+         back trace
+       up
+         go up once stack frame
+       down
+         go down one stack frame
+       c
+         continue (until next breakpoint
+       C-x-a-b
+         set breakpoint
+       break main
+         set breakpoint at function main
+       <enter>
+         just hit enter to repeat the previous command
+       to scroll through history, instead of using the up arrow and down arrow,
+         hold control and use those arrows
 
 M-/ - word complete, kind of like autocomplete, but less smart.
     - keep holding M and type / to try new completions
