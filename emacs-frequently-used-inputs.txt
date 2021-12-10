@@ -64,6 +64,31 @@ M-x - prompt for emacs command, typed in the bottom of the screen
        to scroll through history, instead of using the up arrow and down arrow,
          hold control and use those arrows
 
+       set disassemble-next-line on
+         - do this first
+         - enables printing of assembly instructions when stepi is input
+       x/20x $sp
+         - print stack, from the stack pointer, 20 words --
+         -last x means hex.  use d for signed ints, u for unsigned ints
+       p $w1
+         -print contents of register, in this case, $w1
+       info registers
+         -print all registers -
+       stepi
+         -step instruction
+       disassemble
+         -show a bunch of instructions around the $pc
+       disassemble [functionname]
+         -show assembly of entire procedure
+       info frame
+         -shows the local variables
+       up
+         - go up a stack frame
+       down
+         - go down a stack frame
+
+
+
 M-/ - word complete, kind of like autocomplete, but less smart.
     - keep holding M and type / to try new completions
 
