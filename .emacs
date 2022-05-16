@@ -60,9 +60,10 @@
         yafolding
         ))
 
-(when (cl-find-if-not #'package-installed-p package-selected-packages)
-  (package-refresh-contents)
-  (mapc #'package-install package-selected-packages))
+(if nil ;; change to true if I want the packages installed
+    (when (cl-find-if-not #'package-installed-p package-selected-packages)
+      (package-refresh-contents)
+      (mapc #'package-install package-selected-packages)))
 
 ;; sample `helm' configuration use https://github.com/emacs-helm/helm/ for details
 (helm-mode)
