@@ -58,12 +58,17 @@
 
         fold-this
         yafolding
+
+        org-modern
         ))
 
-(if nil ;; change to true if I want the packages installed
-    (when (cl-find-if-not #'package-installed-p package-selected-packages)
-      (package-refresh-contents)
-      (mapc #'package-install package-selected-packages)))
+(defun install-or-upgrade-my-packages ()
+  (when (cl-find-if-not #'package-installed-p package-selected-packages)
+    (package-refresh-contents)
+    (mapc #'package-install package-selected-packages)))
+
+;; to run the function, C-x C-e with cursor after this commented-out function
+;; (install-or-upgrade-my-packages)
 
 ;; sample `helm' configuration use https://github.com/emacs-helm/helm/ for details
 (helm-mode)
@@ -96,3 +101,5 @@
 ;; theme
 (load-theme 'material t)
 ;;(load-theme 'the-matrix t)
+(visual-line-mode t)
+(global-visual-line-mode t)
