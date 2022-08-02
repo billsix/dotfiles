@@ -60,6 +60,14 @@
         yafolding
 
         org-modern
+
+        discover
+        yafolding
+        fold-this
+        better-defaults
+        magit
+        markdown-mode
+        markdown-preview-mode
         ))
 
 (defun install-or-upgrade-my-packages ()
