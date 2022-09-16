@@ -117,3 +117,5 @@
 ;;(load-theme 'the-matrix t)
 (visual-line-mode t)
 (global-visual-line-mode t)
+(global-linum-mode t)
+(set-buffer-file-coding-system 'unix)
