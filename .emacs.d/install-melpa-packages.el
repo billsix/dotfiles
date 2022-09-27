@@ -39,5 +39,3 @@
 (when (cl-find-if-not #'package-installed-p package-selected-packages)
   (package-refresh-contents)
   (mapc #'package-install package-selected-packages))
-
-(install-or-upgrade-my-packages)
