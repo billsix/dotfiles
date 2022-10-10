@@ -1,6 +1,16 @@
 (elpy-enable)
 (blacken-mode)
 
+(require 'flymake-python-pyflakes)
+(add-hook 'python-mode-hook 'flymake-python-pyflakes-load)
+
+(setq flymake-python-pyflakes-executable "flake8")
+
+
+(when (load "flycheck" t t)
+  (setq elpy-modules (delq 'elpy-module-flymake elpy-modules))
+  (add-hook 'elpy-mode-hook 'flycheck-mode))
+
 
 ;;; because I can't remember to use camelcase in python
 (defun toggle-camelcase-underscores ()
