@@ -21,3 +21,5 @@
 	ui = auto
 [fetch]
 	prune = true
+[commit]
+	gpgsign = true
