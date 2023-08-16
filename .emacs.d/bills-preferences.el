@@ -11,7 +11,7 @@
 
 (visual-line-mode t)
 (global-visual-line-mode t)
-(global-linum-mode t)
+(global-display-line-numbers-mode t)
 (set-buffer-file-coding-system 'unix)
 
 (setq make-backup-files nil)
