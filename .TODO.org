@@ -1,0 +1,66 @@
+* Projects
+** Model View Projection
+*** TODO Finish the chapter on the perspective projection
+*** TODO Make the content for VAO, VBO, shaders, etc, from my class git repo
+** Spimulator
+*** TODO Make visualization
+**** TODO Make parser on C that uses clang parsing the AST
+**** TODO Visualize, highlighting code during execution
+***** TODO using stack only
+***** TODO using an few registers as possible
+***** TODO add some optimizations
+* Books To Read
+** Fiction
+*** TODO Reacher, by Lee Child
+** Non-Fiction
+*** TODO Five Days at Memorial
+** Language
+*** TODO The Language Construction Kit
+** Life Improvement
+*** TODO Dare To Forgive
+
+<2023-08-21 Mon> Up to chapter 13
+
+*** TODO Stop Walking On Eggshells
+*** TODO A Lasting Promise
+*** TODO Should I Stay or Should I go?
+*** TODO No Contact
+*** TODO 12 Rules for Life, by Jordan Peterson
+*** TODO Deep Work
+** Computers
+*** TODO Learn to Program with Assebly, Jonathan Bartlett
+*** TODO Profession Cuda C Pgromamming, by Wrox
+*** TODO Code, Second Editon
+*** TODO Getting Started with LLVM Core Libraries
+*** VMs
+**** TODO Vagrant
+**** TODO Docker
+*** Graphics
+**** TODO Vulkan Cookbook
+*** Computer Architecture
+**** TODO Modern Computer Architecture and Organization
+(His programming from the ground up book was great)
+** Math
+*** TODO Logicomix, by Apostolos Doxiadis and Christos H. Papadimitriou
+*** TODO An Introduction to Geometric Algebra and Geometric Calculus, M.D. Taylor
+** Science
+*** TODO Origin Of Time, by Stephen Hawking
+*** TODO Chasing New Horizons
+** SciFi
+*** TODO Snow Crash
+*** TODO Foundation, by Asimov
+*** TODO Diasporo, by Greg Egan
+** MISC
+*** TODO Scattered Minds, Gabor Mate
+*** TODO Thinking Fast and Slow, Daniel Kahneman
+*** TODO FLOW, Mihaly Csikszentmihalyi
+*** TODO Everything is Fucked, Mark Manson
+** Religion
+*** The Complete Guide to the Bible, Stephen M. Miller
+*** The Good News Bible
+
+* Exercise
+
+I need to exercise and lose weight.
+
+** TODO 90 Day Challenge
