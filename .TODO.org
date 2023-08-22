@@ -58,6 +58,8 @@ See if I can do the same to Stokes.
 *** TODO Learn to Program with Assebly, Jonathan Bartlett
 *** TODO Profession Cuda C Pgromamming, by Wrox
 
+**** Current page
+67
 **** <2023-08-21 Mon> Up to page 46
 ***** Learned today about GPU memory, and pushing data from main memory to GPU memory.
 ***** Learned about task-parallell vs data parallel, and the advantages of hetergenious computing.
@@ -68,7 +70,7 @@ all threads have finished their work on the GPU before the CPU should resume.
 **** <2023-08-22 Tue> Through page 61
 ***** Learned that for matrix addition, that the block and grid size affects perfomance
 I'm not quite sure why, but the book says chapter 3 will explain it from a hardware perspective
-
+**** Through
 *** TODO Code, Second Editon
 *** TODO Getting Started with LLVM Core Libraries
 *** TODO Software Design For Flexibility, by Hanson and Sussman
