@@ -1,3 +1,5 @@
+* Computers
+** TODO get nvprof working with Cuda 11 on my Gentoo machine
 * Projects
 ** Model View Projection
 *** TODO Finish the chapter on the perspective projection
