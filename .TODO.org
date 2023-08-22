@@ -41,6 +41,11 @@ See if I can do the same to Stokes.
 *** TODO 12 Rules for Life, by Jordan Peterson
 *** TODO Deep Work
 *** TODO Never Split The Difference
+** Divorce
+*** TODO Difficult Questions Kids Ask and are too afraid to ask about Divorce, by Meg Schneider
+*** TODO Dinosaurs Divorce, by Laurie Brow and Marc Brown
+** For Kids
+*** Social Skills, Activities for Kids,by Natasha Daniels
 ** Logic/CS/Philosophy
 *** TODO Godel Escher and Back
 *** TODO Sophie's World
