@@ -9,6 +9,19 @@
 ***** TODO using stack only
 ***** TODO using an few registers as possible
 ***** TODO add some optimizations
+** TODO graphing calculator in OpenGL, 2D and 3D
+** TODO linear algebra visualizer
+*** TODO 1D
+*** TODO 2D, rotate, scale, matrix, column space, inverse, SVD.  Caley graph
+*** TODO 3D, rotate, scale, matrix, column space, inverse, SVD.  Caley graph
+** YouTube Vidoes
+*** TODO Cross product
+Make the damn video and publish it Bill
+*** TODO Greene's Theorum
+**** TODO Show the double integral as a line integral using half of the standard equation
+**** TODO Show the vector field, rotated 90 degress to the right, crossed with the derivative of the path, reduces to the above.
+*** TODO Stoke's Theorum
+See if I can do the same to Stokes.
 * Books To Read
 ** Fiction
 *** TODO Reacher, by Lee Child
@@ -27,6 +40,13 @@
 *** TODO No Contact
 *** TODO 12 Rules for Life, by Jordan Peterson
 *** TODO Deep Work
+*** TODO Never Split The Difference
+** Logic/CS/Philosophy
+*** TODO Godel Escher and Back
+*** TODO Sophie's World
+*** TODO The Annotated Turing
+*** TODO The Universal Computer
+
 ** Computers
 *** TODO Learn to Program with Assebly, Jonathan Bartlett
 *** TODO Profession Cuda C Pgromamming, by Wrox
@@ -39,9 +59,9 @@
 Like threads, or like linux "sync", sometimes you need to make a call to block to ensure
 all threads have finished their work on the GPU before the CPU should resume.
 
-
 *** TODO Code, Second Editon
 *** TODO Getting Started with LLVM Core Libraries
+*** TODO Software Design For Flexibility, by Hanson and Sussman
 *** VMs
 **** TODO Vagrant
 **** TODO Docker
@@ -52,6 +72,23 @@ all threads have finished their work on the GPU before the CPU should resume.
 (His programming from the ground up book was great)
 ** Math
 *** TODO Logicomix, by Apostolos Doxiadis and Christos H. Papadimitriou
+*** TODO Vector Calculus, by Susan Jane Colley
+*** TODO Linear and Geometric Algebra, by Alan MacDonald
+This book is hard but good, I should start from the beginning again and do all exercises
+*** TODO Vector and Geometric Calculus, by Alan MacDonald
+*** TODO Extension Theory, by Hermann Grassman
+This is the foundation for a lot of multivariate work, and Clifford expanded
+on Grassman's and Hamilton's work to create geometric Algebra.  In particular
+I want to see the section on inner products, as for instance in Geometric Algebra,
+I still don't know how to take the dot product of a vector and a bivector, without
+resorting to upgrading them to a geometric product minus the wedge product
+*** TODO Geometric Algebra for Computer Scientists, by Dorst et. al.
+*** TODO That Geometric Algebra book that I have on Kindle, it's good.
+*** TODO Foundations of Geometric Algebra Computing, by Hildenbrand
+*** TODO Clifford Algebra to Geometric Calculus, by Hestenes and Sobczyk
+I'm looking forward to getting to understand enough of the material to take this
+book on
+*** TODO New Foundations in Mathematics, Sobczyk
 *** TODO An Introduction to Geometric Algebra and Geometric Calculus, M.D. Taylor
 ** Science
 *** TODO Origin Of Time, by Stephen Hawking
@@ -69,6 +106,8 @@ all threads have finished their work on the GPU before the CPU should resume.
 *** The Complete Guide to the Bible, Stephen M. Miller
 *** The Good News Bible
 
+** How to Become Alex Jones
+*** None Dare Call it a Conspiracy
 * Exercise
 
 I need to exercise and lose weight.
