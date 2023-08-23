@@ -76,6 +76,14 @@ and stalls are used on branches not taken in that thread affects performance, wa
 about.  Learning about how the hardware actually works is interesting, but it's a lot to take in.
 I think the grid/block/thread stuff will all make more sense once I run cuda on datasets that I care
 about, using nvprof, or the graphical visualizer.
+**** <2023-08-23 Wed> Up to chapter 4
+Chapter 3 was interesting, especially about warps.  I had no idea how much work is required
+to get optimal performance.  I'm curious now to reread my openGL books, especially the section
+that talk about compute shaders.  I remember reading those sections years ago and having no idea
+what was going on.  But now that I know a bit more about graphics hardware, and how it's used
+for general purpose computation, perhaps those sections will make more sense to me now.  Or
+perhaps I should read up on OpenCL as well.
+
 
 *** TODO Code, Second Editon
 *** TODO Getting Started with LLVM Core Libraries
