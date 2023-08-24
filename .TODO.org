@@ -1,5 +1,6 @@
 * Computers
 ** TODO get nvprof working with Cuda 11 on my Gentoo machine
+** TODO get qemacs into homebrew
 * Projects
 ** Model View Projection
 *** TODO Finish the chapter on the perspective projection
@@ -27,10 +28,22 @@ See if I can do the same to Stokes.
 * Books To Read
 ** Fiction
 *** TODO Reacher, by Lee Child
+*** TODO The Idiot, Fyodor Dostoevsky
+*** TODO The Brothers Karamozov, Fyodor Dostoevsky
 ** Non-Fiction
 *** TODO Five Days at Memorial
 ** Language
 *** TODO The Language Construction Kit
+*** TODO The Mother Tongue, Bill Bryson
+*** TODO Made In America, Bill Bryson
+*** Latin
+**** TODO Ossa Latinitatis Sola
+**** TODO Ossium Carnes Multae
+**** TODO Getting Started With Latin
+**** TODO Keep Going With Latin
+**** TODO Familia Romana
+**** TODO Roma Aeterna
+**** TODO Commentarii De Bello Gallico, by Julius M.F. Caesar
 ** Life Improvement
 *** TODO Dare To Forgive
 
@@ -43,6 +56,8 @@ See if I can do the same to Stokes.
 *** TODO 12 Rules for Life, by Jordan Peterson
 *** TODO Deep Work
 *** TODO Never Split The Difference
+*** TODO Beyond Reason, by Roger Fisher and Daniel Shapiro
+*** TODO All About Asset Allocation
 ** Divorce
 *** TODO Difficult Questions Kids Ask and are too afraid to ask about Divorce, by Meg Schneider
 *** TODO Dinosaurs Divorce, by Laurie Brow and Marc Brown
@@ -53,9 +68,13 @@ See if I can do the same to Stokes.
 *** TODO Sophie's World
 *** TODO The Annotated Turing
 *** TODO The Universal Computer
-
+*** TODO The Stoic Way Of Life
+*** TODO The Story of Philosophy, by Bryan Magee
 ** Computers
-*** TODO Learn to Program with Assebly, Jonathan Bartlett
+*** TODO Learn to Program with Assembly, Jonathan Bartlett
+(His programming from the ground up book was great)
+*** TODO Programming with 64-bit ARM Assembly Language
+*** TODO ARM Assembly Language, Fundamentals and Techniques
 *** TODO Profession Cuda C Pgromamming, by Wrox
 
 **** Current page
@@ -88,14 +107,50 @@ perhaps I should read up on OpenCL as well.
 *** TODO Code, Second Editon
 *** TODO Getting Started with LLVM Core Libraries
 *** TODO Software Design For Flexibility, by Hanson and Sussman
+*** TODO USB Complete
+*** TODO RHCSA RedHad Enterprise Linux 8
+*** TODO Introduction to programming using Lambda Calculus
+*** TODO Purely Functional Data Structures
+*** TODO The Little Typer
+*** TODO Hacking the Art of Explotation
+*** TODO The Haskell School of Music, Paul Hudak
+*** TODO The Art Of The Metaobject protocol
+*** Machine Learning
+**** TODO Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow
+**** TODO Deep Learning with Python
+*** Languages
+**** TODO Programming Rust
+**** TODO Head First Kotlin
+**** TODO Head First Go
+**** TODO Practical Haskell
+**** TODO Mastering Swift, 5th edition
+**** TODO Effective Modern C++
+**** TODO C++ Templates The Complete Guide
+*** Lang Implementations
+**** TODO CPython Internals
+**** TODO Crafting Interpreters
+**** TODO Modern Compiler Implementation in ML
+**** TODO Compiling With Continuations
+*** Linux
+**** TODO Advanced programming in the unx environment
+**** TODO Linux Kernel Development
 *** VMs
 **** TODO Vagrant
 **** TODO Docker
 *** Graphics
 **** TODO Vulkan Cookbook
+**** TODO OpenGL RedBook
+As a refresher
+**** TODO OpenGL BlueBook
+As a refresher
 *** Computer Architecture
+**** TODO Computer Organization and Design, Hennessy and Patterson
+**** TODO Digital Design and Computer Architecture
 **** TODO Modern Computer Architecture and Organization
-(His programming from the ground up book was great)
+** CS Education
+*** TODO Python For Kids, by Jason Briggs
+*** TODO Class Computer Science Problems in Python, by David Kopec
+*** TODO Daily Coding Problems, by Alex Miller and Lawrence Wu
 ** Math
 *** TODO Logicomix, by Apostolos Doxiadis and Christos H. Papadimitriou
 *** TODO Vector Calculus, by Susan Jane Colley
@@ -116,6 +171,10 @@ I'm looking forward to getting to understand enough of the material to take this
 book on
 *** TODO New Foundations in Mathematics, Sobczyk
 *** TODO An Introduction to Geometric Algebra and Geometric Calculus, M.D. Taylor
+*** TODO Elementary Differential Equations and Bounday Value Problems
+*** TODO Introduction to Linear Algebra, Gilbert Strang
+*** TODO Linear Algebra and Learning from Data, Gilbret Strang
+*** TODO Div Grad Curl and all that,  Schey
 ** Science
 *** TODO Origin Of Time, by Stephen Hawking
 *** TODO Chasing New Horizons
@@ -123,6 +182,9 @@ book on
 *** TODO Snow Crash
 *** TODO Foundation, by Asimov
 *** TODO Diasporo, by Greg Egan
+** Software
+*** TODO The Complete Guide to Blender Graphics
+*** TODO Logic Pro X 10.5
 ** MISC
 *** TODO Scattered Minds, Gabor Mate
 *** TODO Thinking Fast and Slow, Daniel Kahneman
