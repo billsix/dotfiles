@@ -30,8 +30,10 @@ See if I can do the same to Stokes.
 *** TODO Reacher, by Lee Child
 *** TODO The Idiot, Fyodor Dostoevsky
 *** TODO The Brothers Karamozov, Fyodor Dostoevsky
+*** TODO The Silkworn, Robert Gailbraith
 ** Non-Fiction
 *** TODO Five Days at Memorial
+*** TODO The Birth of Plenty
 ** Language
 *** TODO The Language Construction Kit
 *** TODO The Mother Tongue, Bill Bryson
@@ -138,6 +140,7 @@ perhaps I should read up on OpenCL as well.
 **** TODO Vagrant
 **** TODO Docker
 *** Graphics
+**** TODO Vulkan a programming guide
 **** TODO Vulkan Cookbook
 **** TODO OpenGL RedBook
 As a refresher
@@ -179,7 +182,8 @@ book on
 *** TODO Origin Of Time, by Stephen Hawking
 *** TODO Chasing New Horizons
 ** SciFi
-*** TODO Snow Crash
+*** TODO Snow Crash, by Neal Stephenson
+*** TODO Cryptonomicon, by Neal Stephenson
 *** TODO Foundation, by Asimov
 *** TODO Diasporo, by Greg Egan
 ** Software
