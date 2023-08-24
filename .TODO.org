@@ -206,3 +206,73 @@ book on
 I need to exercise and lose weight.
 
 ** TODO 90 Day Challenge
+* Video Games
+** PC
+*** FPS
+**** TODO CoD Modern Warfare 2
+**** TODO CoD Black Ops
+**** TODO CoD Vanguard
+**** TODO CoD Black Ops 4
+**** TODO CoD MW Campaign Remastered
+*** Blizzard
+**** TODO Diablo 4
+**** TODO Diablo 3
+**** TODO Warcraft 3
+**** TODO Starcraft
+**** TODO Starcraft 2
+*** Steam
+**** TODO Red Dead Redemption 2
+**** TODO Raft
+**** TODO Total War Saga: Thrones of Britannica
+**** TODO War of Rights
+**** TODO God of War (2018)
+**** TODO Final Fantasy 7 remove
+**** TODO Final Fantasy x/x-2 hd remaster
+**** TODO Halo Master Chief Collection
+**** TODO Wolfenstein The New Order
+**** TODO Wolfenstein The Old Blood
+**** TODO Dark Souls
+**** TODO Dark Souls 2
+**** TODO Dark Souls 3
+**** TODO Darksiders
+**** TODO Darksiders 2
+**** TODO Darksiders 3
+**** TODO Sekiro Shadows Die Twice
+**** TODO Eldin Ring
+**** TODO Hollow Knight
+**** TODO Ori and the Will of the Wisps
+**** TODO Baulder's Gate
+**** TODO Dragon Age Inquisition
+**** TODO Monster Hunter World
+**** TODO Civ 6
+**** TODO Stellaris
+**** TODO FEZ
+**** TODO DeadCore
+**** TODO Owlboy
+**** TODO Stealth Bastard Deluxe
+**** TODO Shantae and the Pirate's Curse
+**** TODO Steamworld Dig 1/2
+**** TODO Day of the Tentacle Remastered
+**** TODO Grim Fandango Remastered
+**** TODO Inside
+**** TODO Limbo
+**** TODO Myst
+**** TODO Riven
+**** TODO Exile
+**** TODO The Talos Principle
+**** TODO The Witness
+**** TODO Oceanhorn: Monster of the Uncharted Seas
+**** TODO Kerbal Space Program
+**** TODO  Dead Cells
+**** TODO PolyBridge
+**** TODO Battlefield 1
+**** TODO Battlefield 4
+**** TODO Battlefield 5
+**** TODO Control
+**** TODO 
+** Nintendo
+*** TODO Zelda Tears of the Kingdom
+*** TODO Pikmin 1
+*** TODO Pikmin 2
+*** TODO Pikmin 3
+*** TODO Pikmin 4
