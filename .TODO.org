@@ -20,7 +20,38 @@
 *** TODO 3D, rotate, scale, matrix, column space, inverse, SVD.  Caley graph
 ** YouTube Vidoes
 *** TODO Cross product
-Make the damn video and publish it Bill
+**** TODO Add Labels in Animation
+**** TODO Make separate PDF which has
+***** TODO 2D
+****** TODO Rotate x to y
+****** TODO Rotate a to x
+****** TODO Project a to x
+****** TODO Project a to y
+***** TODO 3D
+****** TODO Rotate x to y
+****** TODO Rotate y to z
+****** TODO Rotate z to a
+****** TODO Rotate a to xy
+****** TODO Rotate a to yz
+****** TODO Rotate a to zy
+****** TODO Rotate xy Theta
+****** TODO Rotate yz Theta
+****** TODO Rotate zx Theta
+****** TODO Project a to x
+****** TODO Project a to y
+****** TODO Project a to z
+****** TODO Project a to xy
+****** TODO Project a to yz
+****** TODO Project a to zx
+**** TODO In proof, reference previous equations
+**** TODO Add properties to proof
+***** TODO Right hand rule
+
+***** TODO Anticommutativity
+***** TODO Left distributivity
+***** TODO Right distributivity
+***** TODO Scalar multiplication
+**** TODO Make the damn video and publish it Bill
 *** TODO Greene's Theorum
 **** TODO Show the double integral as a line integral using half of the standard equation
 **** TODO Show the vector field, rotated 90 degress to the right, crossed with the derivative of the path, reduces to the above.
@@ -269,8 +300,10 @@ I need to exercise and lose weight.
 **** TODO Battlefield 4
 **** TODO Battlefield 5
 **** TODO Control
-**** TODO 
+**** TODO
 ** Nintendo
+*** TODO Zelda Skyward Sword
+Finally finish the damn game
 *** TODO Zelda Tears of the Kingdom
 *** TODO Pikmin 1
 *** TODO Pikmin 2
