@@ -1,9 +1,11 @@
 * Computers
 ** DONE get nvprof working with Cuda 11 on my Gentoo machine
 <2023-08-23 Wed> Got it built today
+*** TODO Figure out how to use nvprof
 ** TODO get qemacs into homebrew
 ** TODO Try out nushell
 ** TODO Try out exa
+** TODO modify sphinx to search for regions, rather than hard-coded line numbers
 * Projects
 ** Model View Projection
 *** TODO Finish the chapter on the perspective projection
@@ -20,6 +22,14 @@
 *** TODO 1D
 *** TODO 2D, rotate, scale, matrix, column space, inverse, SVD.  Caley graph
 *** TODO 3D, rotate, scale, matrix, column space, inverse, SVD.  Caley graph
+** TODO Craft
+*** TODO revert graphics abstraction that I made
+*** TODO figure out how the threads work
+*** TODO get multiplayer working
+*** TODO add scripting, using protobuf
+**** TODO python on linux
+**** TODO C# on windows
+**** TODO swift on mac
 ** YouTube Vidoes
 *** TODO Cross product
 **** TODO Add Labels in Animation
@@ -324,7 +334,6 @@ I need to exercise and lose weight.
 **** TODO Battlefield 4
 **** TODO Battlefield 5
 **** TODO Control
-**** TODO
 ** Nintendo
 *** TODO Zelda Skyward Sword
 Finally finish the damn game
