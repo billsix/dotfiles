@@ -66,6 +66,7 @@ See if I can do the same to Stokes.
 ** Non-Fiction
 *** TODO Five Days at Memorial
 *** TODO The Birth of Plenty
+*** TODO In the Plex by Steven Levy
 ** Language
 *** TODO The Language Construction Kit
 *** TODO The Mother Tongue, Bill Bryson
@@ -109,7 +110,7 @@ See if I can do the same to Stokes.
 (His programming from the ground up book was great)
 *** TODO Programming with 64-bit ARM Assembly Language
 *** TODO ARM Assembly Language, Fundamentals and Techniques
-*** TODO Profession Cuda C Pgromamming, by Wrox
+*** TODO Profession Cuda C Progmamming, by Wrox
 
 **** Current page
 67
@@ -146,9 +147,12 @@ perhaps I should read up on OpenCL as well.
 *** TODO Introduction to programming using Lambda Calculus
 *** TODO Purely Functional Data Structures
 *** TODO The Little Typer
+*** TODO The Little MLer
 *** TODO Hacking the Art of Explotation
 *** TODO The Haskell School of Music, Paul Hudak
 *** TODO The Art Of The Metaobject protocol
+*** TODO Puzzles for Programmers and Pros by Shasha
+*** TODO ML for the working programmer by Paulson
 *** Machine Learning
 **** TODO Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow
 **** TODO Deep Learning with Python
@@ -160,13 +164,17 @@ perhaps I should read up on OpenCL as well.
 **** TODO Mastering Swift, 5th edition
 **** TODO Effective Modern C++
 **** TODO C++ Templates The Complete Guide
+**** TODO Android Programming, the Big Nerd Ranch Guide
+**** TODO Cython by Kurt W. Smith
+**** TODO Learnig GNU Emacs by Cameron, Elliott, Loy, Raymond and Rosenblatt
 *** Lang Implementations
 **** TODO CPython Internals
 **** TODO Crafting Interpreters
 **** TODO Modern Compiler Implementation in ML
 **** TODO Compiling With Continuations
+**** TODO A Retargetable C Compiler by Fraser and Hanson
 *** Linux
-**** TODO Advanced programming in the unx environment
+**** TODO Advanced programming in the unix environment
 **** TODO Linux Kernel Development
 *** VMs
 **** TODO Vagrant
@@ -186,7 +194,20 @@ As a refresher
 *** TODO Python For Kids, by Jason Briggs
 *** TODO Class Computer Science Problems in Python, by David Kopec
 *** TODO Daily Coding Problems, by Alex Miller and Lawrence Wu
+*** TODO Squeak by Ducasse
+*** TODO Turtle Geometry by Abelson and diSessa
+** Physics
+*** TODO The Theoretical Minimum by Susskind and Hrabovsky
+*** TODO The Theoretical Minimum: Classical Mechanics by Susskind and Hrabovsky
+*** TODO The Theoretical Minimum: Quantum Mechanics by Susskind and Friedman
+*** TODO The Theoretical Minimum: Special Relativity and Classical Field Theory by Susskind and Hrabovsky
+*** TODO The Theoretical Minimum: General Relativity by Susskind and Hrabovsky
+*** TODO Basic Electricity by US Navy
+** Chemistry
+*** TODO Chemistry by Silberberg and Amatesis
 ** Math
+*** TODO Precalculus by Carter, Cuevas, Day, Malloy, Bryan, Holiday and Hovsepian
+*** TODO Calculus by Morris Kline
 *** TODO Logicomix, by Apostolos Doxiadis and Christos H. Papadimitriou
 *** TODO Vector Calculus, by Susan Jane Colley
 *** TODO Linear and Geometric Algebra, by Alan MacDonald
@@ -210,6 +231,7 @@ book on
 *** TODO Introduction to Linear Algebra, Gilbert Strang
 *** TODO Linear Algebra and Learning from Data, Gilbret Strang
 *** TODO Div Grad Curl and all that,  Schey
+*** TODO An Introduction cto Information Theory, by John R. Pierce
 ** Science
 *** TODO Origin Of Time, by Stephen Hawking
 *** TODO Chasing New Horizons
