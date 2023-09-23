@@ -2,6 +2,8 @@
 ** DONE get nvprof working with Cuda 11 on my Gentoo machine
 <2023-08-23 Wed> Got it built today
 ** TODO get qemacs into homebrew
+** TODO Try out nushell
+** TODO Try out exa
 * Projects
 ** Model View Projection
 *** TODO Finish the chapter on the perspective projection
