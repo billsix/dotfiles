@@ -115,6 +115,10 @@ See if I can do the same to Stokes.
 *** TODO Dinosaurs Divorce, by Laurie Brow and Marc Brown
 ** For Kids
 *** Social Skills, Activities for Kids,by Natasha Daniels
+*** Lauren Ipsum, A Story about computer science and other impossible things, by Carlos Bueno
+**** Current page
+***** <2023-11-02 Thu> Page 35.
+Chapter 4 with my kids was a lot of fun.  It talked about recursion, limits, and different notions of inifinty.
 ** Logic/CS/Philosophy
 *** TODO Godel Escher and Back
 *** TODO Sophie's World
