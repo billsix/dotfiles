@@ -13,6 +13,8 @@
 *** TODO Make the sections line independent
 ** Hearn Baker
 *** TODO Port code to modern build systems, windows linux and mac
+**** Status
+***** <2023-11-02 Thu> got up to chapter 8 working
 ** Spimulator
 *** TODO Make visualization
 **** TODO Make parser on C that uses clang parsing the AST
