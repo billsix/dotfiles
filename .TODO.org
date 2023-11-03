@@ -11,6 +11,8 @@
 *** TODO Finish the chapter on the perspective projection
 *** TODO Make the content for VAO, VBO, shaders, etc, from my class git repo
 *** TODO Make the sections line independent
+**** <2023-11-02 Thu>
+Got through demo 06.  Nofmt is nice to format the transformation pipeline as I see fit.
 ** Hearn Baker
 *** TODO Port code to modern build systems, windows linux and mac
 **** Status
