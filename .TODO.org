@@ -10,6 +10,9 @@
 ** Model View Projection
 *** TODO Finish the chapter on the perspective projection
 *** TODO Make the content for VAO, VBO, shaders, etc, from my class git repo
+*** TODO Make the sections line independent
+** Hearn Baker
+*** TODO Port code to modern build systems, windows linux and mac
 ** Spimulator
 *** TODO Make visualization
 **** TODO Make parser on C that uses clang parsing the AST
@@ -260,6 +263,10 @@ book on
 *** TODO Thinking Fast and Slow, Daniel Kahneman
 *** TODO FLOW, Mihaly Csikszentmihalyi
 *** TODO Everything is Fucked, Mark Manson
+**** Current page
+67
+**** <2023-11-02 Thu> page 108
+
 ** Religion
 *** The Complete Guide to the Bible, Stephen M. Miller
 *** The Good News Bible
