@@ -19,3 +19,15 @@
 (defun region-generate-sha1 ()
   (interactive)
   (kill-new (sha1 (buffer-substring (region-beginning) (region-end)))))
+
+(use-package eglot
+  :ensure t
+  :defer t
+  :hook (python-mode . eglot-ensure))
+
+(use-package eglot
+  :ensure t
+  :defer t
+  :hook (emacs-lisp-mode . eglot-ensure))
+
+(global-company-mode)
