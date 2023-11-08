@@ -15,3 +15,7 @@
 (set-buffer-file-coding-system 'unix)
 
 (setq make-backup-files nil)
+
+(defun region-generate-sha1 ()
+  (interactive)
+  (kill-new (sha1 (buffer-substring (region-beginning) (region-end)))))
