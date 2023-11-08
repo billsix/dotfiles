@@ -13,7 +13,9 @@
 ;; (load-file "~/.emacs.d/python-mode.el")
 
 ;; theme
-(load-theme 'material t)
+(load-theme 'modus-vivendi t)
+;; (load-theme 'modus-operandi t)
+;; (load-theme 'material t)
 ;;(load-theme 'the-matrix t)
 (global-auto-revert-mode)
 (setq auto-reve9rt-avoid-polling t)
