@@ -10,7 +10,10 @@
 ** Model View Projection
 *** TODO Finish the chapter on the perspective projection
 *** TODO Make the content for VAO, VBO, shaders, etc, from my class git repo
-*** TODO Make the sections line independent
+*** TODO develop better name other that "begin" "end"
+*** DONE Make the sections line independent
+*** <2023-11-23 Thu> Got that done in general
+
 **** <2023-11-02 Thu>
 Got through demo 06.  Nofmt is nice to format the transformation pipeline as I see fit.
 ** Hearn Baker
