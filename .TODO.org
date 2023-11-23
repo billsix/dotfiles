@@ -10,7 +10,8 @@
 ** Model View Projection
 *** TODO Finish the chapter on the perspective projection
 *** TODO Make the content for VAO, VBO, shaders, etc, from my class git repo
-*** TODO develop better name other that "begin" "end"
+*** DONE develop better name other that "begin" "end"
+**** <2023-11-23 Thu> doc-region-begin and doc-region-end
 *** TODO fix warning of matplotlib
 *** TODO Change suffix (and emacs mode) of preprocess files so that warnings go away when building docs
 *** DONE Make the sections line independent
