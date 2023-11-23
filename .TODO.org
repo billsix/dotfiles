@@ -7,6 +7,7 @@
 ** TODO Try out exa
 ** TODO modify sphinx to search for regions, rather than hard-coded line numbers
 * Projects
+** TODO update github page, make it informational about projects, not about me
 ** TODO quaternion
 *** TODO finish devirvation
 *** TODO make animation
@@ -24,7 +25,7 @@
 *** TODO fix warning of matplotlib
 *** TODO Change suffix (and emacs mode) of preprocess files so that warnings go away when building docs
 *** DONE Make the sections line independent
-*** <2023-11-23 Thu> Got that done in general
+**** <2023-11-23 Thu> Got that done in general
 
 **** <2023-11-02 Thu>
 Got through demo 06.  Nofmt is nice to format the transformation pipeline as I see fit.
@@ -93,8 +94,23 @@ Got a lot done
 **** TODO Show the double integral as a line integral using half of the standard equation
 **** TODO Show the vector field, rotated 90 degress to the right, crossed with the derivative of the path, reduces to the above.
 *** TODO Stoke's Theorum
-*** TODO Quaternions
 See if I can do the same to Stokes.
+*** TODO Quaternions
+*** TODO frameworks vs libraries
+
+Use hearnbakercarithers4thedition with glut vs glfw as example
+
+*** TODO Shorts
+**** TODO Cmd line
+***** TODO ls pwd cd
+***** TODO ampersand
+***** TODO pipes
+***** $()
+***** TODO up down history ctrl r
+**** TODO Emacs
+***** TODO Macros
+***** TODO Basic usage
+
 * Books To Read
 ** Fiction
 *** TODO Reacher, by Lee Child
