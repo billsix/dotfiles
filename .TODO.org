@@ -7,6 +7,15 @@
 ** TODO Try out exa
 ** TODO modify sphinx to search for regions, rather than hard-coded line numbers
 * Projects
+** TODO quaternion
+*** TODO finish devirvation
+*** TODO make animation
+** Calculus book from gutenberg
+*** TODO get working on modern systems (images on build on my rpi)
+** VLC
+*** TODO get working on mac, fix issue of expanding folders
+*** TODO Android - see if I can make download work like on iOS
+*** TODO iOS - see if I can get it to play ogg files
 ** Model View Projection
 *** TODO Finish the chapter on the perspective projection
 *** TODO Make the content for VAO, VBO, shaders, etc, from my class git repo
@@ -21,6 +30,9 @@
 Got through demo 06.  Nofmt is nice to format the transformation pipeline as I see fit.
 ** Hearn Baker
 *** TODO Port code to modern build systems, windows linux and mac
+**** <2023-11-23 Thu> https://github.com/billsix/hearnBakerCarithers4thEdition
+Got a lot done
+**** TODO got working on mac, verify on windows and on linux
 **** Status
 ***** <2023-11-02 Thu> got up to chapter 8 working
 ** Spimulator
@@ -81,6 +93,7 @@ Got through demo 06.  Nofmt is nice to format the transformation pipeline as I s
 **** TODO Show the double integral as a line integral using half of the standard equation
 **** TODO Show the vector field, rotated 90 degress to the right, crossed with the derivative of the path, reduces to the above.
 *** TODO Stoke's Theorum
+*** TODO Quaternions
 See if I can do the same to Stokes.
 * Books To Read
 ** Fiction
