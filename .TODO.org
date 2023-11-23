@@ -34,6 +34,7 @@ Got through demo 06.  Nofmt is nice to format the transformation pipeline as I s
 **** <2023-11-23 Thu> https://github.com/billsix/hearnBakerCarithers4thEdition
 Got a lot done
 **** TODO got working on mac, verify on windows and on linux
+<2023-11-23 Thu> Working on mac and Linux
 **** Status
 ***** <2023-11-02 Thu> got up to chapter 8 working
 ** Spimulator
@@ -110,7 +111,7 @@ Use hearnbakercarithers4thedition with glut vs glfw as example
 **** TODO Emacs
 ***** TODO Macros
 ***** TODO Basic usage
-
+***** TODO make/compile
 * Books To Read
 ** Fiction
 *** TODO Reacher, by Lee Child
