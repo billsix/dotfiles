@@ -9,6 +9,11 @@
 * Projects
 ** TODO update github page, make it informational about projects, not about me
 ** TODO quaternion
+*** <2023-11-24 Fri>
+Made some progress this morning, almost got a rough draft of the proof for the parrallel
+section
+*** TODO replace the repeated calculations with sine and cosine, and list out the properties better
+*** TODO do the perp section
 *** TODO finish devirvation
 *** TODO make animation
 Make view rotate while the two axes look stationary because the camera is moving
