@@ -38,6 +38,13 @@ Got a lot done
 **** Status
 ***** <2023-11-02 Thu> got up to chapter 8 working
 ** Spimulator
+*** TODO update copyright years
+*** TODO rename "in register" "in instruction"
+*** TODO Add equivalent malloc and free syscalls
+**** TODO Show why malloc matters
+Make grocery list of fixed size.  Then make grocery list of dynamic size.
+*** TODO Add tower of hanoi
+*** TODO add printing a diamond
 *** TODO Make visualization
 **** TODO Make parser on C that uses clang parsing the AST
 **** TODO Visualize, highlighting code during execution
@@ -58,6 +65,14 @@ Got a lot done
 **** TODO C# on windows
 **** TODO swift on mac
 ** YouTube Vidoes
+*** TODO Gilbert Strang's calculus
+*** TODO Gilbert Strang's linalg
+*** TODO Towers of Hanoi video
+*** TODO Spimulator videos
+
+Run the code in C in all of them.
+Then run the code in assembly
+
 *** TODO Cross product
 **** TODO Add Labels in Animation
 **** TODO Make separate PDF which has
