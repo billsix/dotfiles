@@ -65,7 +65,7 @@ Make grocery list of fixed size.  Then make grocery list of dynamic size.
 **** TODO C# on windows
 **** TODO swift on mac
 ** YouTube Vidoes
-*** TODO Gilbert Strang's calculus
+*** TODO Gilbert Strang's calculus https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/
 *** TODO Gilbert Strang's linalg
 *** TODO Towers of Hanoi video
 *** TODO Spimulator videos
