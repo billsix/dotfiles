@@ -232,6 +232,7 @@ perhaps I should read up on OpenCL as well.
 *** Machine Learning
 **** TODO Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow
 **** TODO Deep Learning with Python
+**** TODO Pytorch book I bought
 *** Languages
 **** TODO Programming Rust
 **** TODO Head First Kotlin
