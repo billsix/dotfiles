@@ -11,6 +11,7 @@
 ** TODO quaternion
 *** TODO finish devirvation
 *** TODO make animation
+Make view rotate while the two axes look stationary because the camera is moving
 ** Calculus book from gutenberg
 *** TODO get working on modern systems (images on build on my rpi)
 ** VLC
@@ -30,7 +31,8 @@
 **** <2023-11-02 Thu>
 Got through demo 06.  Nofmt is nice to format the transformation pipeline as I see fit.
 ** Hearn Baker
-*** TODO Port code to modern build systems, windows linux and mac
+*** DONE Port code to modern build systems, windows linux and mac
+**** <2023-11-23 Thu> Told new instructor I'm done unless he has new requests
 **** <2023-11-23 Thu> https://github.com/billsix/hearnBakerCarithers4thEdition
 Got a lot done
 **** TODO got working on mac, verify on windows and on linux
@@ -74,7 +76,7 @@ Run the code in C in all of them.
 Then run the code in assembly
 
 *** TODO Cross product
-**** TODO Add Labels in Animation
+**** TODO Add images from animation to the proof
 **** TODO Make separate PDF which has
 ***** TODO 2D
 ****** TODO Rotate x to y
