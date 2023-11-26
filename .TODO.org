@@ -170,6 +170,7 @@ Use hearnbakercarithers4thedition with glut vs glfw as example
 *** TODO Never Split The Difference
 *** TODO Beyond Reason, by Roger Fisher and Daniel Shapiro
 *** TODO All About Asset Allocation
+*** TODO The Power of Habit by Duhigg
 ** Divorce
 *** TODO Difficult Questions Kids Ask and are too afraid to ask about Divorce, by Meg Schneider
 *** TODO Dinosaurs Divorce, by Laurie Brow and Marc Brown
@@ -237,7 +238,7 @@ perhaps I should read up on OpenCL as well.
 *** Machine Learning
 **** TODO Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow
 **** TODO Deep Learning with Python
-**** TODO Pytorch book I bought
+**** TODO Deep Learning with PyTorch by Stevens, Antiga, Viehmann
 *** Languages
 **** TODO Programming Rust
 **** TODO Head First Kotlin
@@ -268,6 +269,7 @@ perhaps I should read up on OpenCL as well.
 As a refresher
 **** TODO OpenGL BlueBook
 As a refresher
+**** TODO Computer Graphics with OpenGL v4 by Hearn Baker
 *** Computer Architecture
 **** TODO Computer Organization and Design, Hennessy and Patterson
 **** TODO Digital Design and Computer Architecture
@@ -287,8 +289,13 @@ As a refresher
 *** TODO Basic Electricity by US Navy
 ** Chemistry
 *** TODO Chemistry by Silberberg and Amatesis
+*** TODO Organic Chemistry
 ** Math
-*** TODO Precalculus by Carter, Cuevas, Day, Malloy, Bryan, Holiday and Hovsepian
+*** TODO Textbook Pre Algebra, based off of Liam's book
+*** TODO Textbook Algebra 1
+*** TODO Textbook Geometry
+*** TODO Textbook Algebra 2
+*** TODO Textbook Precalculus by Carter, Cuevas, Day, Malloy, Bryan, Holiday and Hovsepian
 *** TODO Calculus by Morris Kline
 *** TODO Logicomix, by Apostolos Doxiadis and Christos H. Papadimitriou
 *** TODO Vector Calculus, by Susan Jane Colley
@@ -314,6 +321,8 @@ book on
 *** TODO Linear Algebra and Learning from Data, Gilbret Strang
 *** TODO Div Grad Curl and all that,  Schey
 *** TODO An Introduction cto Information Theory, by John R. Pierce
+*** TODO Methods of Multivariate Analysis by R9cencher and Christensen
+*** TODO Signals and Systems Schaums
 ** Science
 *** TODO Origin Of Time, by Stephen Hawking
 *** TODO Chasing New Horizons
