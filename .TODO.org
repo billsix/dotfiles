@@ -10,8 +10,16 @@
 <2023-08-23 Wed> Got it built today
 *** TODO Figure out how to use nvprof
 * Projects
+** Math notebooks for my kids
+*** TODO Prealgebra
+*** TODO Algebra 1
+*** TODO Geometry
+*** TODO Algebra 2
+*** TODO Precalc
 ** TODO update github page, make it informational about projects, not about me
 ** TODO quaternion
+*** <2023-11-26 Sun>
+Made better variable names
 *** <2023-11-24 Fri>
 This morning got part of it working in tex.  I need to make variable names rather that copy expressions.
 *** <2023-11-24 Fri>
@@ -452,6 +460,28 @@ book on
 I need to exercise and lose weight.
 
 ** TODO 90 Day Challenge
+* Entertainment
+** For Me
+*** Shows
+**** TODO All in the Family
+**** TODO Glee
+**** TODO Buffy
+**** TODO Firefly
+*** Movies
+**** TODO Broken Blossom
+**** TODO Birth of a Nation
+**** TODO Intolerance
+** With Kids
+*** Shows
+**** TODO BBC Planet Earth
+**** TODO BBC Frozen Planet
+**** TODO TMNT Original
+Currently on S02E05
+**** TODO Boy Meets World
+**** TODO Avatar the Last Airbender
+**** TODO Legend of Korra
+**** TODO Punky Brewster
+*** Movies
 * Video Games
 ** PC
 *** FPS
@@ -467,6 +497,7 @@ I need to exercise and lose weight.
 **** TODO Starcraft
 **** TODO Starcraft 2
 *** Steam
+**** TODO Hogwarts Legacy
 **** TODO Red Dead Redemption 2
 **** TODO Raft
 **** TODO Total War Saga: Thrones of Britannica
