@@ -1,4 +1,7 @@
 * Computers
+** TODO gaviewer, learn how to build and use
+** TODO gaigen2.5, learn how to build and use
+** TODO gasandbox, learn how to build and use
 ** DONE get nvprof working with Cuda 11 on my Gentoo machine
 <2023-08-23 Wed> Got it built today
 *** TODO Figure out how to use nvprof
@@ -10,6 +13,8 @@
 ** TODO update github page, make it informational about projects, not about me
 ** TODO quaternion
 *** <2023-11-24 Fri>
+This morning got part of it working in tex.  I need to make variable names rather that copy expressions.
+*** <2023-11-24 Fri>
 Made some progress this morning, almost got a rough draft of the proof for the parrallel
 section
 *** TODO replace the repeated calculations with sine and cosine, and list out the properties better
@@ -17,7 +22,7 @@ section
 *** TODO finish devirvation
 *** TODO make animation
 Make view rotate while the two axes look stationary because the camera is moving
-** Calculus book from gutenberg
+** TODO Calculus book from gutenberg
 *** TODO get working on modern systems (images on build on my rpi)
 ** VLC
 *** TODO get working on mac, fix issue of expanding folders
@@ -64,13 +69,14 @@ Make grocery list of fixed size.  Then make grocery list of dynamic size.
 *** TODO 2D, rotate, scale, matrix, column space, inverse, SVD.  Caley graph
 *** TODO 3D, rotate, scale, matrix, column space, inverse, SVD.  Caley graph
 ** TODO Craft
-*** TODO revert graphics abstraction that I made
-*** TODO figure out how the threads work
-*** TODO get multiplayer working
+*** TODO Start to document using sphinx
 *** TODO add scripting, using protobuf
 **** TODO python on linux
 **** TODO C# on windows
 **** TODO swift on mac
+*** TODO revert graphics abstraction that I made
+*** TODO figure out how the threads work
+*** TODO get multiplayer working
 ** YouTube Vidoes
 *** TODO Gilbert Strang's calculus https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/
 *** TODO Gilbert Strang's linalg
@@ -323,6 +329,7 @@ book on
 *** TODO An Introduction cto Information Theory, by John R. Pierce
 *** TODO Methods of Multivariate Analysis by R9cencher and Christensen
 *** TODO Signals and Systems Schaums
+*** TODO Design of Experiments
 ** Science
 *** TODO Origin Of Time, by Stephen Hawking
 *** TODO Chasing New Horizons
@@ -339,6 +346,8 @@ book on
 *** TODO Thinking Fast and Slow, Daniel Kahneman
 *** TODO FLOW, Mihaly Csikszentmihalyi
 *** TODO Everything is Fucked, Mark Manson
+<2023-11-24 Fri> Up to Page  188
+*** TODO Digital Avionics Handbook
 **** Current page
 67
 **** <2023-11-02 Thu> page 108
