@@ -9,6 +9,7 @@
 [alias]
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
         squash = "!f() { git reset --soft $1 && git commit ${2:+-m \"$2\"}; }; f"
+        dw = diff --word-diff=color
 [log]
 	decorate = true
 [pull]
