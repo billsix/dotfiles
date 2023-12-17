@@ -440,6 +440,7 @@ book on
 *** TODO Logic Pro X 10.5
 ** MISC
 *** TODO Scattered Minds, Gabor Mate
+<2023-12-17 Sun> Page 77
 *** TODO Thinking Fast and Slow, Daniel Kahneman
 *** TODO FLOW, Mihaly Csikszentmihalyi
 *** TODO Everything is Fucked, Mark Manson
