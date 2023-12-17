@@ -440,10 +440,13 @@ book on
 *** TODO Logic Pro X 10.5
 ** MISC
 *** TODO Scattered Minds, Gabor Mate
+
+I'm only reading this book because Teresa has our kids tested for ADHD
 <2023-12-17 Sun> Page 77
 *** TODO Thinking Fast and Slow, Daniel Kahneman
 *** TODO FLOW, Mihaly Csikszentmihalyi
-*** TODO Everything is Fucked, Mark Manson
+*** DONE Everything is Fucked, Mark Manson
+<2023-12-17 Sun> Finished.
 <2023-11-24 Fri> Up to Page  188
 *** TODO Digital Avionics Handbook
 **** Current page
