@@ -187,6 +187,8 @@ Then run the code in assembly
 **** TODO Add images from animation to the proof
 **** TODO Make separate PDF which has
 ***** TODO 2D
+<2023-12-26 Tue> Made some progress.
+****** TODO Make operations on Coordinate System explicit.  Make dot product of coordinates with "Coordinate System" Vector
 ****** TODO Rotate x to y
 ****** TODO Rotate a to x
 ****** TODO Project a to x
