@@ -251,8 +251,6 @@ Use hearnbakercarithers4thedition with glut vs glfw as example
 *** TODO In the Plex by Steven Levy
 ** Language
 *** TODO The Language Construction Kit
-*** TODO The Mother Tongue, Bill Bryson
-*** TODO Made In America, Bill Bryson
 *** Latin
 **** TODO Ossa Latinitatis Sola
 **** TODO Ossium Carnes Multae
@@ -262,7 +260,8 @@ Use hearnbakercarithers4thedition with glut vs glfw as example
 **** TODO Roma Aeterna
 **** TODO Commentarii De Bello Gallico, by Julius M.F. Caesar
 ** Life Improvement
-*** TODO Dare To Forgive
+*** DONE Dare To Forgive
+<2024-01-11 Thu> Good book
 
 <2023-08-21 Mon> Up to chapter 13
 
@@ -286,7 +285,6 @@ Use hearnbakercarithers4thedition with glut vs glfw as example
 ***** <2023-11-02 Thu> Page 35.
 Chapter 4 with my kids was a lot of fun.  It talked about recursion, limits, and different notions of inifinty.
 ** Logic/CS/Philosophy
-*** TODO Godel Escher and Back
 *** TODO Sophie's World
 *** TODO The Annotated Turing
 *** TODO The Universal Computer
@@ -332,14 +330,8 @@ perhaps I should read up on OpenCL as well.
 *** TODO USB Complete
 *** TODO RHCSA RedHad Enterprise Linux 8
 *** TODO Introduction to programming using Lambda Calculus
-*** TODO Purely Functional Data Structures
 *** TODO The Little Typer
-*** TODO The Little MLer
-*** TODO Hacking the Art of Explotation
 *** TODO The Haskell School of Music, Paul Hudak
-*** TODO The Art Of The Metaobject protocol
-*** TODO Puzzles for Programmers and Pros by Shasha
-*** TODO ML for the working programmer by Paulson
 *** Machine Learning
 **** TODO Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow
 **** TODO Deep Learning with Python
@@ -353,14 +345,9 @@ perhaps I should read up on OpenCL as well.
 **** TODO Effective Modern C++
 **** TODO C++ Templates The Complete Guide
 **** TODO Android Programming, the Big Nerd Ranch Guide
-**** TODO Cython by Kurt W. Smith
-**** TODO Learnig GNU Emacs by Cameron, Elliott, Loy, Raymond and Rosenblatt
 *** Lang Implementations
 **** TODO CPython Internals
 **** TODO Crafting Interpreters
-**** TODO Modern Compiler Implementation in ML
-**** TODO Compiling With Continuations
-**** TODO A Retargetable C Compiler by Fraser and Hanson
 *** Linux
 **** TODO Advanced programming in the unix environment
 **** TODO Linux Kernel Development
@@ -383,8 +370,6 @@ As a refresher
 *** TODO Python For Kids, by Jason Briggs
 *** TODO Class Computer Science Problems in Python, by David Kopec
 *** TODO Daily Coding Problems, by Alex Miller and Lawrence Wu
-*** TODO Squeak by Ducasse
-*** TODO Turtle Geometry by Abelson and diSessa
 ** Physics
 *** TODO The Theoretical Minimum by Susskind and Hrabovsky
 *** TODO The Theoretical Minimum: Classical Mechanics by Susskind and Hrabovsky
@@ -469,6 +454,8 @@ I need to exercise and lose weight.
 * Entertainment
 ** For Me
 *** Shows
+**** TODO Northern Exposure
+<2024-01-11 Thu> Currently on S01 E03
 **** TODO All in the Family
 **** TODO Glee
 **** TODO Buffy
@@ -480,10 +467,13 @@ I need to exercise and lose weight.
 ** With Kids
 *** Shows
 **** TODO BBC Planet Earth
+**** TODO BBC Planet Earth 2
 **** TODO BBC Frozen Planet
+**** TODO BBC Frozen Planet 2
 **** TODO TMNT Original
 Currently on S02E05
 **** TODO Boy Meets World
+<2024-01-11 Thu> Currently on S01 E03
 **** TODO Avatar the Last Airbender
 **** TODO Legend of Korra
 **** TODO Punky Brewster
