@@ -12,6 +12,7 @@
 * Projects
 ** Math notebooks for my kids
 *** TODO Prealgebra
+**** <2024-01-11 Thu> Got the first two notebooks done.
 *** TODO Algebra 1
 *** TODO Geometry
 *** TODO Algebra 2
@@ -427,6 +428,11 @@ book on
 *** TODO Logic Pro X 10.5
 ** MISC
 *** TODO Scattered Minds, Gabor Mate
+<2024-01-11 Thu> up to page 193.
+I find this book much more fascinating than I though I would have.
+A quote i like is "whenever we ascribe a motive to another person, 'you are doing this because...'
+we discard curiosity and immobalize compassion."
+For reasons I won't write publicly, I have observed this, but damn that sentence was written well.
 <2023-12-17 Sun> Up to page 104, this is getting interesteing
 I'm only reading this book because Teresa has our kids tested for ADHD
 <2023-12-17 Sun> Page 77
