@@ -5,14 +5,17 @@
 ** TODO get qemacs into homebrew
 ** TODO Try out nushell
 ** TODO Try out exa
-** TODO modify sphinx to search for regions, rather than hard-coded line numbers
+** DONE modify sphinx to search for regions, rather than hard-coded line numbers
+Turns out, it was already there. https://github.com/billsix/modelviewprojection/commit/93daf37105890952ad3d2bc983f1f011927506ce
 ** TODO learn about stockfish chess engine
 ** DONE get nvprof working with Cuda 11 on my Gentoo machine
 <2023-08-23 Wed> Got it built today
 *** TODO Figure out how to use nvprof
 * Projects
 ** Math notebooks for my kids
-*** TODO Prealgebra
+*** TODO Prealgebra -
+**** TODO do explicit check for negative, and articulate that in the markdown
+**** <2024-01-27 Sat> Got subtraction done last night
 **** <2024-01-11 Thu> Got the first two notebooks done.
 *** TODO Algebra 1
 *** TODO Geometry
@@ -41,8 +44,10 @@ Make view rotate while the two axes look stationary because the camera is moving
 ** Model View Projection
 *** TODO Finish the chapter on the perspective projection
 *** TODO Make the content for VAO, VBO, shaders, etc, from my class git repo
-*** TODO fix warning of matplotlib
-*** TODO Change suffix (and emacs mode) of preprocess files so that warnings go away when building docs
+*** DONE fix warning of matplotlib
+<2024-01-27 Sat> Got that done a few days ago
+*** DONE Change suffix (and emacs mode) of preprocess files so that warnings go away when building docs
+<2024-01-27 Sat> this is a moot point after https://github.com/billsix/modelviewprojection/commit/93daf37105890952ad3d2bc983f1f011927506ce
 *** DONE develop better name other that "begin" "end"
 **** <2023-11-23 Thu> doc-region-begin and doc-region-end
 *** DONE Make the sections line independent
@@ -52,94 +57,8 @@ Make view rotate while the two axes look stationary because the camera is moving
 Got through demo 06.  Nofmt is nice to format the transformation pipeline as I see fit.
 ** Hearn Baker
 *** TODO Rewrite Hearn Baker code
-**** TODO GLFW FF OpenGL
-***** TODO ch3OGLexample
-***** TODO ch4CircleVariations
-***** TODO ch4DispLstReshape
-***** TODO ch4DispLstReshape
-***** TODO ch4LineGraph
-***** TODO ch4PieChart
-***** TODO ch7CompositeTransformation2D
-***** TODO ch8ViewingProgram2D
-***** TODO ch10PerspectiveViewing3D
-***** TODO ch12Animation
-***** TODO ch13Polyhedron
-***** TODO ch13QuadricSurfaces
-***** TODO ch14BezierCurve
-***** TODO ch20GLUTMenu
-***** TODO ch20KeyboardCurveDrawing
-***** TODO ch20MouseKeyboardSquares
-***** TODO ch20MousePlotPoint
-***** TODO ch20MousePolyline
-***** TODO ch20PickOperations
-***** TODO ch23MandelbrotSet
-***** TODO ch23SelfSquaringFractal
-**** TODO GLFW OpengL 3.3
-***** TODO ch3OGLexample
-***** TODO ch4CircleVariations
-***** TODO ch4DispLstReshape
-***** TODO ch4DispLstReshape
-***** TODO ch4LineGraph
-***** TODO ch4PieChart
-***** TODO ch7CompositeTransformation2D
-***** TODO ch8ViewingProgram2D
-***** TODO ch10PerspectiveViewing3D
-***** TODO ch12Animation
-***** TODO ch13Polyhedron
-***** TODO ch13QuadricSurfaces
-***** TODO ch14BezierCurve
-***** TODO ch20GLUTMenu
-***** TODO ch20KeyboardCurveDrawing
-***** TODO ch20MouseKeyboardSquares
-***** TODO ch20MousePlotPoint
-***** TODO ch20MousePolyline
-***** TODO ch20PickOperations
-***** TODO ch23MandelbrotSet
-***** TODO ch23SelfSquaringFractal
-**** TODO Metal
-***** TODO ch3OGLexample
-***** TODO ch4CircleVariations
-***** TODO ch4DispLstReshape
-***** TODO ch4DispLstReshape
-***** TODO ch4LineGraph
-***** TODO ch4PieChart
-***** TODO ch7CompositeTransformation2D
-***** TODO ch8ViewingProgram2D
-***** TODO ch10PerspectiveViewing3D
-***** TODO ch12Animation
-***** TODO ch13Polyhedron
-***** TODO ch13QuadricSurfaces
-***** TODO ch14BezierCurve
-***** TODO ch20GLUTMenu
-***** TODO ch20KeyboardCurveDrawing
-***** TODO ch20MouseKeyboardSquares
-***** TODO ch20MousePlotPoint
-***** TODO ch20MousePolyline
-***** TODO ch20PickOperations
-***** TODO ch23MandelbrotSet
-***** TODO ch23SelfSquaringFractal
-**** TODO DirectX
-***** TODO ch3OGLexample
-***** TODO ch4CircleVariations
-***** TODO ch4DispLstReshape
-***** TODO ch4DispLstReshape
-***** TODO ch4LineGraph
-***** TODO ch4PieChart
-***** TODO ch7CompositeTransformation2D
-***** TODO ch8ViewingProgram2D
-***** TODO ch10PerspectiveViewing3D
-***** TODO ch12Animation
-***** TODO ch13Polyhedron
-***** TODO ch13QuadricSurfaces
-***** TODO ch14BezierCurve
-***** TODO ch20GLUTMenu
-***** TODO ch20KeyboardCurveDrawing
-***** TODO ch20MouseKeyboardSquares
-***** TODO ch20MousePlotPoint
-***** TODO ch20MousePolyline
-***** TODO ch20PickOperations
-***** TODO ch23MandelbrotSet
-***** TODO ch23SelfSquaringFractal
+<2024-01-27 Sat> Not gonna do this anymore.  Sam left the univerity, and I don't like the code from this book.
+It'd be better to do for craft
 *** DONE Port code to modern build systems, windows linux and mac
 **** <2023-11-23 Thu> Told new instructor I'm done unless he has new requests
 **** <2023-11-23 Thu> https://github.com/billsix/hearnBakerCarithers4thEdition
@@ -168,6 +87,11 @@ Make grocery list of fixed size.  Then make grocery list of dynamic size.
 *** TODO 2D, rotate, scale, matrix, column space, inverse, SVD.  Caley graph
 *** TODO 3D, rotate, scale, matrix, column space, inverse, SVD.  Caley graph
 ** TODO Craft
+*** TODO Port to
+**** TODO Metal
+
+**** TODO Vulkan
+**** TODO DX
 *** TODO Start to document using sphinx
 *** TODO add scripting, using protobuf
 **** TODO python on linux
@@ -331,7 +255,8 @@ perhaps I should read up on OpenCL as well.
 *** TODO Software Design For Flexibility, by Hanson and Sussman
 *** TODO USB Complete
 *** TODO RHCSA RedHad Enterprise Linux 8
-*** TODO Introduction to programming using Lambda Calculus
+*** DONE Introduction to programming using Lambda Calculus
+I threw this book away
 *** TODO The Little Typer
 *** TODO The Haskell School of Music, Paul Hudak
 *** Machine Learning
@@ -378,7 +303,8 @@ As a refresher
 *** TODO The Theoretical Minimum: Quantum Mechanics by Susskind and Friedman
 *** TODO The Theoretical Minimum: Special Relativity and Classical Field Theory by Susskind and Hrabovsky
 *** TODO The Theoretical Minimum: General Relativity by Susskind and Hrabovsky
-*** TODO Basic Electricity by US Navy
+*** DONE Basic Electricity by US Navy
+<2024-01-27 Sat> I threw this book away
 ** Chemistry
 *** TODO Chemistry by Silberberg and Amatesis
 *** TODO Organic Chemistry
@@ -483,6 +409,7 @@ Currently on S02E05
 <2024-01-12 Fri> Currently on S01 E08
 **** TODO Avatar the Last Airbender
 **** TODO Legend of Korra
+
 **** TODO Punky Brewster
 *** Movies
 * Video Games
