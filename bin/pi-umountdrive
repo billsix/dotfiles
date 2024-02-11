@@ -1,0 +1,2 @@
+umount /mnt/encrypted-mount
+cryptsetup close encrypted-volume

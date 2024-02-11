@@ -1,0 +1,4 @@
+cryptsetup open --type luks /mnt/usbdrive/encrypted encrypted-volume # this will be under /dev/mapper/encrypted-volume
+mount /dev/mapper/encrypted-volume /mnt/encrypted-mount
+
+
