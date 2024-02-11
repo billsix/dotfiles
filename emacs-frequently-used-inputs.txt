@@ -96,3 +96,9 @@ M-/ - word complete, kind of like autocomplete, but less smart.
 C-x ( - Start recording macro
 C-x ) - Stop recording macro
 C-x e - replay macro
+
+
+# To refresh packages
+M-x package-refresh-contents
+M-x list-packages
+  find packages, press u to mark up upgrade, x to execute

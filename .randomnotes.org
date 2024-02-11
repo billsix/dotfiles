@@ -1,0 +1,12 @@
+* Create an encrypted filesystem
+
+dd if=/dev/zero of=path-to-encrpyted-file bs=1M count=512
+cryptsetup luksFormat path-to-encrpyted-file
+cryptsetup open --type luks path-to-encrpyted-file encrypted-volume # this will be under /dev/mapper/encrypted-volume
+# make filesystem
+mkfs.ext4 /dev/mapper/encrypted-volume
+mount /dev/mapper/encrypted-volume /mnt/myencryptedfs
+
+# to unmount
+umount /mnt/encrypted-volume
+cryptsetup close encrypted-volume

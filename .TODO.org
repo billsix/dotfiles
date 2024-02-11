@@ -89,7 +89,6 @@ Make grocery list of fixed size.  Then make grocery list of dynamic size.
 ** TODO Craft
 *** TODO Port to
 **** TODO Metal
-
 **** TODO Vulkan
 **** TODO DX
 *** TODO Start to document using sphinx
