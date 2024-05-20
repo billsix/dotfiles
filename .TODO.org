@@ -396,7 +396,7 @@ I need to exercise and lose weight.
 ** For Me
 *** Shows
 **** TODO Northern Exposure
-<2024-01-11 Thu> Currently on S01 E03
+<2024-05-19 Sun> Currently on S2 E2
 **** TODO All in the Family
 **** TODO Glee
 **** TODO Buffy
