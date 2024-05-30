@@ -1,0 +1,21 @@
+* build an image from a podman file
+podman build -t [name] .
+* list the images
+podman image list
+* run a container from an image, and have interactivity
+podman run -it [name]
+* run a container from an image, and have interactivity, and delete the container afterwards
+podman run -it --rm [name]
+* get a list of containers
+podman ps -a
+* remove all existed containers
+podman rm $(podman ps -a -q -f status=exited)
+* run a different entrypoint
+podman -run -it --rm [name] /bin/bash
+* do port mapping
+podman -r -p 8888:80 [name]
+* stop a container
+podman stop [name]
+
+* mount a volume
+podman container run --it --rm -v source:dest:U,Z [name] /bin/bash
