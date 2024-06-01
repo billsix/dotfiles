@@ -68,19 +68,24 @@ Got a lot done
 **** Status
 ***** <2023-11-02 Thu> got up to chapter 8 working
 ** Spimulator
-*** TODO update copyright years
-*** TODO rename "in register" "in instruction"
-*** TODO Add equivalent malloc and free syscalls
-**** TODO Show why malloc matters
-Make grocery list of fixed size.  Then make grocery list of dynamic size.
-*** TODO Add tower of hanoi
+*** DONE update copyright years
 *** TODO add printing a diamond
+*** TODO Add tower of hanoi
 *** TODO Make visualization
 **** TODO Make parser on C that uses clang parsing the AST
+**** TODO Visualize, load time.  This probably involves capturing line and column number at parse time
 **** TODO Visualize, highlighting code during execution
 ***** TODO using stack only
 ***** TODO using an few registers as possible
 ***** TODO add some optimizations
+*** TODO make sphinx docs
+**** TODO Go through C code first explaining C
+**** TODO Then go through 'C--" and 'C----" code
+**** TODO take the inline comments and put them in restructured text
+*** TODO rename "in register" "in instruction"
+*** TODO Add equivalent malloc syscalls
+**** TODO Show why malloc matters
+Make grocery list of fixed size.  Then make grocery list of dynamic size.
 ** TODO graphing calculator in OpenGL, 2D and 3D
 ** TODO linear algebra visualizer
 *** TODO 1D
