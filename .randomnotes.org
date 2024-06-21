@@ -25,3 +25,22 @@ cryptsetup close encrypted-volume
 [FEN ""]
 
 1. e4 c5 2. Nf3 d6 3. Nc3 Bg4 4. Be2 e5 5. d3 Qc8 6. Be3 Nf6 7. O-O g6 8. h3 Bxh3 9. gxh3 Qxh3 10. Nh2 Qd7 11. Ng4 Bg7 12. Bg5 Qe6 13. Nb5 Na6 14. c3 O-O 15. Bxf6 Bxf6 16. Nxf6+ Qxf6 17. Bg4 h5 18. Bh3 Qg5+ 19. Bg2 Rad8 20. Nxa7 h4 21. Qf3 Rd7 22. Nb5 f5 23. exf5 Kg7 24. d4 e4 25. Qh3 Rxf5 26. Rad1 Nb8 27. dxc5 Rf3 28. Qh2 d5 29. Nd4 Rf6 30. Qxb8 1-0
+
+ * Qemu debian
+
+   If I want to install from 12 debian isos, chatgpt tells me I can
+
+   qemu-system-x86_64 -cdrom debian-1.iso -boot d -m 2048 -hda debian-vm.img
+
+   to start the process
+
+   and then when it prompts me to change disks I can
+
+   Switching ISOs During Installation: During the installation process, you will need to switch to different ISO images. To do this, follow these steps:
+
+Pause the QEMU emulator by pressing Ctrl+Alt+2 to switch to the QEMU monitor.
+Change the ISO image with the change command. For example, to switch to the second ISO:
+bash
+Copy code
+change ide1-cd0 debian-2.iso
+Press Ctrl+Alt+1 to switch back to the installation process.
