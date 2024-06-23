@@ -32,3 +32,4 @@
   :hook (emacs-lisp-mode . eglot-ensure))
 
 (global-company-mode)
+(setq company-minimum-prefix-length 1)
