@@ -18,7 +18,7 @@
 ;; (load-theme 'material t)
 ;;(load-theme 'the-matrix t)
 (global-auto-revert-mode)
-(setq auto-reve9rt-avoid-polling t)
+(setq auto-revert-avoid-polling t)
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
