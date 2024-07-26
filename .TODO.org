@@ -401,8 +401,10 @@ I need to exercise and lose weight.
 ** For Me
 *** Shows
 **** TODO Northern Exposure
+<2024-07-25 Thu> Next up Season 2 Disc 2
 <2024-05-19 Sun> Currently on S2 E2
 **** TODO All in the Family
+I think I'm on the third episode
 **** TODO Glee
 **** TODO Buffy
 **** TODO Firefly
