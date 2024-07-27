@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml xmlns:e="https://gitlab.gnome.org/GNOME/evolution/-/wikis/home" version="2.0">
   <head>
-    <title>Evolution RSS Feeds (3.52.0)</title>
-    <dateCreated>2024-04-07T03:19:34Z</dateCreated>
+    <title>Evolution RSS Feeds (3.52.3)</title>
+    <dateCreated>2024-07-27T11:34:09Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="BabylonBee" xmlUrl="https://babylonbee.com/feed" e:contentType="html"/>
     <outline type="rss" text="slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" e:contentType="html"/>
-    <outline type="rss" text="whoishiringHN" xmlUrl="https://hnrss.org/whoishiring/jobs" e:contentType="html"/>
     <outline type="rss" text="BBCScience" xmlUrl="https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" e:contentType="html"/>
     <outline type="rss" text="BBCNews" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" e:contentType="html"/>
-    <outline type="rss" text="BBCTechnology" xmlUrl="https://feeds.bbci.co.uk/news/technology/rss.xml" e:contentType="html"/>
-    <outline type="rss" text="Youtube-Zaf" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCm6iWrKyFdVAbcTEgkTJ_cg" e:contentType="html"/>
     <outline type="rss" text="Youtube-Sh0eOnHead" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0aanx5rpr7D1M7KCFYzrLQ" e:contentType="html"/>
     <outline type="rss" text="Youtube-Veritasium" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA" e:contentType="html"/>
     <outline type="rss" text="Youtube-Math-3Blue1Brown" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" e:contentType="html"/>
     <outline type="rss" text="Youtube-Math-TrevorBassett" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9rTsvTxJnx1DNrDA3Rqa6A" e:contentType="html"/>
     <outline type="rss" text="Youtube-GeekAndSundry" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaBf1a-dpIsw8OxqH4ki2Kg" e:contentType="html"/>
-    <outline type="rss" text="Youtube-TheCommentSection" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7bYyWCCCLHDU0ZuNzGNTtg" e:contentType="html"/>
     <outline type="rss" text="Youtube-RyanLong" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzKFvBRI6VT3jYJq6a820nA" e:contentType="html"/>
     <outline type="rss" text="Youtube-SkycorpHomeVideo" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIoDNWuAq3wPv11BXbr5xMg" e:contentType="html"/>
     <outline type="rss" text="Youtube-TLDRDaily" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCz_3xlMTVUYYTQqCfh9lD7w" e:contentType="html"/>
@@ -29,31 +25,27 @@
     <outline type="rss" text="Youtube-PBSSpacetime" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g" e:contentType="html"/>
     <outline type="rss" text="Youtube-BenEater" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCS0N5baNlQWJCUrhCEo8WlA" e:contentType="html"/>
     <outline type="rss" text="Youtube-UpAndAtom" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSIvk78tK2TiviLQn4fSHaw" e:contentType="html"/>
-    <outline type="rss" text="Youtube-MITOpenCourseware" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw" e:contentType="html"/>
     <outline type="rss" text="Youtube-Math-Sudgylacmoe" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEo_JfTH_9FK-7k9-mAWJkQ" e:contentType="html"/>
     <outline type="rss" text="Youtube-Glitch" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn_FAXem2-e3HQvmK-mOH4g" e:contentType="html"/>
-    <outline type="rss" text="HackerNews100points" xmlUrl="https://hnrss.org/newest?points=100" e:contentType="html"/>
     <outline type="rss" text="YouTube-SMG4" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8LcA3grYZg0GNpxlXh8owg" e:contentType="html"/>
     <outline type="rss" text="Music-AlexMeltonPopPunk" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy3jC5OdSSrrkbe_496i6gQ" e:contentType="html"/>
-    <outline type="rss" text="Youtube-Physics-SabineHossenfelder" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw" e:contentType="html"/>
-    <outline type="rss" text="Youtube-HeartSupport" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCO2IpsRMSBaQlFor4NeP6uA" e:contentType="html"/>
     <outline type="rss" text="Youtube-Triggernometry" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7oPkqeHTwuOZ5CZ-R9f-6w" e:contentType="html"/>
     <outline type="rss" text="Youtube-WarrenSmith" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVnBaemGSz05OUyKmQjIJSA" e:contentType="html"/>
     <outline type="rss" text="Youtube-MuscleNoob" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3bSbmoIXXp5Ba1UXGa6ytw" e:contentType="html"/>
     <outline type="rss" text="Youtube-Sandbox" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNPMEL4N_kfEC-w2A6CuPGg" e:contentType="html"/>
-    <outline type="rss" text="Youtube-Chess-AnnaCramling" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOVfq3NNYjlYCz1iou69FwQ" e:contentType="html"/>
-    <outline type="rss" text="Youtube-Chess-DinaBelenkaya" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCE1u2aEeOZn22nsochlieFQ" e:contentType="html"/>
-    <outline type="rss" text="Youtube-Chess-agadmator" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL5YbN5WLFD8dLIegT5QAbA" e:contentType="html"/>
-    <outline type="rss" text="Youtube-MrGregsHowTo" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCrUYhaMP6Ma2uhoFL7r2EA" e:contentType="html"/>
     <outline type="rss" text="Youtube-Math-Numberphile" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A" e:contentType="html"/>
     <outline type="rss" text="Youtube-Chess-BotezLive" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAn8NrZ-J4CRfwodajqFYoQ" e:contentType="html"/>
     <outline type="rss" text="Youtube-RagerDemon" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwaCeAp18GcDnITLteiGe-w" e:contentType="html"/>
     <outline type="rss" text="Youtube-Socratica" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW6TXMZ5Pq6yL6_k5NZ2e0Q" e:contentType="html"/>
     <outline type="rss" text="Youtube-ProgrammersArePeople" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w" e:contentType="html"/>
     <outline type="rss" text="Youtube-Chess-BotezChess" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOFOYJpuxJNfqQeCdQBcnUQ" e:contentType="html"/>
-    <outline type="rss" text="Youtube-TheDailyShow" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwWhs_6x42TyRM4Wstoq8HA" e:contentType="html"/>
     <outline type="rss" text="Youtube-DivorcedDad" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq1xxkzK5OQc6wExu9FH5oA" e:contentType="html"/>
     <outline type="rss" text="Youtube-LewisCapaldi" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCveFkLdSOUsGwMJEgedO9dQ" e:contentType="html"/>
     <outline type="rss" text="Youtube-xNightmareEffectx" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXt_NadoF-0yDLfRBA15XUA" e:contentType="html"/>
+    <outline type="rss" text="Youteb-Spiked" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRK4_2FGAAmajCaB8ZefJHw" e:contentType="html"/>
+    <outline type="rss" text="YouTube-Programming-ThePrimeTime" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUyeluBRhGPCW4rPe_UvBZQ" e:contentType="html"/>
+    <outline type="rss" text="Youtube-TYT" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1yBKRuGpC1tSM73A0ZjYjQ" e:contentType="html"/>
+    <outline type="rss" text="Youtube-WinCompilation" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk_e9rhSH_Gg4Mp44Ut72ZQ" e:contentType="html"/>
+    <outline type="rss" text="FoxNews" xmlUrl="https://moxie.foxnews.com/google-publisher/latest.xml" e:contentType="html"/>
   </body>
 </opml>
