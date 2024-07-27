@@ -2,7 +2,7 @@
 <opml xmlns:e="https://gitlab.gnome.org/GNOME/evolution/-/wikis/home" version="2.0">
   <head>
     <title>Evolution RSS Feeds (3.52.3)</title>
-    <dateCreated>2024-07-27T11:34:09Z</dateCreated>
+    <dateCreated>2024-07-27T11:49:20Z</dateCreated>
   </head>
   <body>
     <outline type="rss" text="BabylonBee" xmlUrl="https://babylonbee.com/feed" e:contentType="html"/>
@@ -47,5 +47,15 @@
     <outline type="rss" text="Youtube-TYT" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1yBKRuGpC1tSM73A0ZjYjQ" e:contentType="html"/>
     <outline type="rss" text="Youtube-WinCompilation" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk_e9rhSH_Gg4Mp44Ut72ZQ" e:contentType="html"/>
     <outline type="rss" text="FoxNews" xmlUrl="https://moxie.foxnews.com/google-publisher/latest.xml" e:contentType="html"/>
+    <outline type="rss" text="YouTube-Piano-CharlesCornellStudios" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4PIiYewI1YGyiZvgNlJNrA" e:contentType="html"/>
+    <outline type="rss" text="YouTube-Music-RickBeato" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJquYOG5EL82sKTfH9aMA9Q" e:contentType="html"/>
+    <outline type="rss" text="YouTube-LanguageJones" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVwfqPkv08OTuHzkPU3EaDw" e:contentType="html"/>
+    <outline type="rss" text="YouTube-History-WeirdHistory" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCc-N24Y5OA0gqbjBwe1ttfA" e:contentType="html"/>
+    <outline type="rss" text="YouTube-TaskAndPurpose" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSq3p5NKEtyp5Rjd4ctiEbg" e:contentType="html"/>
+    <outline type="rss" text="YouTube-Music-SteveWelsh" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5NtMaIHhtg13_fOZK9sFSw" e:contentType="html"/>
+    <outline type="rss" text="YouTube-Computerphile" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA" e:contentType="html"/>
+    <outline type="rss" text="YouTube-HannahBarron" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCglTOXlHB-lhPA9_jofiZwQ" e:contentType="html"/>
+    <outline type="rss" text="YouTube-Ceelows" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn3hD45v7tT1CmbMjKeL5Iw" e:contentType="html"/>
+    <outline type="rss" text="YouTube-JulieHeckman" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLX9HNzy81INY7_XwpYrWwQ" e:contentType="html"/>
   </body>
 </opml>
