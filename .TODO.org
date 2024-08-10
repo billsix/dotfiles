@@ -1,6 +1,11 @@
 #+PRIORITIES: 1 10 5
 
 * Computers
+** TODO Musescore, the entertainer (check if I already have it)
+** TODO [#4] Checkou out Openshot
+** TODO [#2] install LMMS on windows/linux
+*** TODO See if I can get duck game VST working
+** TODO [#3] check out miniflix https://github.com/miniflux/v2
 ** TODO [#7] gaviewer, learn how to build and use
 ** TODO [#7] gaigen2.5, learn how to build and use
 ** TODO [#7] gasandbox, learn how to build and use
