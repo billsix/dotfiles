@@ -7,18 +7,21 @@
 *** TODO [#8] The Brothers Karamozov, Fyodor Dostoevsky
 *** TODO The Silkworn, Robert Gailbraith
 ** Non-Fiction
+*** TODO [#1] Guerilla Mindset (borrowed)
+Read and return to andy
 *** TODO [#10] Five Days at Memorial
 *** TODO The Birth of Plenty
 *** TODO In the Plex by Steven Levy
 ** Language
 *** TODO [#9] The Language Construction Kit
 *** Latin
+**** TODO Puer Romanus
 **** TODO [#4] Ossa Latinitatis Sola
 **** TODO Ossium Carnes Multae
 **** TODO [#2] Getting Started With Latin
 **** TODO [#2] Keep Going With Latin
-**** TODO Familia Romana
-**** TODO Roma Aeterna
+**** TODO [#2] Familia Romana
+***** TODO [#3] Roma Aeterna
 **** TODO [#9] Commentarii De Bello Gallico, by Julius M.F. Caesar
 ** Life Improvement
 *** DONE Dare To Forgive
@@ -148,6 +151,8 @@ going to read this other than for reference.
 *** TODO [#8] Chemistry by Silberberg and Amatesis
 *** TODO [#10] Organic Chemistry
 ** Math
+*** TODO [#3] The Moscow Puzzles
+*** TODO [#4] 300+ Mathematical Pattern Puzzles
 *** TODO Textbook Pre Algebra, based off of Liam's book
 *** TODO Textbook Algebra 1
 *** TODO Textbook Geometry
