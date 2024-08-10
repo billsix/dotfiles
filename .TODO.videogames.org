@@ -45,8 +45,9 @@
 **** TODO DeadCore
 **** TODO Owlboy
 **** TODO Stealth Bastard Deluxe
-**** TODO Shantae and the Pirate's Curse
-<2024-07-12 Fri> Currently working on it.  Fun game, great soundtrack.
+**** DONE Shantae and the Pirate's Curse
+<2024-08-10 Sat> I quit the game.  Too much backtracking.  I had trouble with knowing
+to go, and what to do.
 **** TODO Steamworld Dig 1/2
 **** TODO Day of the Tentacle Remastered
 **** TODO Grim Fandango Remastered
