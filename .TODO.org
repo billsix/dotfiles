@@ -1,3 +1,5 @@
+#+PRIORITIES: 1 10 5
+
 * Computers
 ** TODO gaviewer, learn how to build and use
 ** TODO gaigen2.5, learn how to build and use
