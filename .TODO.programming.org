@@ -27,12 +27,29 @@ Make view rotate while the two axes look stationary because the camera is moving
 ** TODO Calculus book from gutenberg
 *** TODO get working on modern systems (images on build on my rpi)
 ** VLC
-*** TODO get working on mac, fix issue of expanding folders
-*** TODO Android - see if I can make download work like on iOS
-*** TODO iOS - see if I can get it to play ogg files
+*** DONE get working on mac, fix issue of expanding folders
+<2024-08-10 Sat> For the life of me, I cannot build VLC on mac.
+The issue is that when using upnp, (at least), when you expand
+a folder, it starts automatically playing the first item.
+This is infuriating.
+I cannot build on a 2020 intel based mac, I cannot build
+on my 2022 macbook pro.  I switch to Kodi, because it works.
+*** TODO [#10] Android - see if I can make download work like on iOS
+*** DONE iOS - see if I can get it to play ogg files
+<2024-08-10 Sat> Not gonna do that anymore.  I'd rather rip my CDS to mp3
 ** Model View Projection
-*** TODO Finish the chapter on the perspective projection
-*** TODO Make the content for VAO, VBO, shaders, etc, from my class git repo
+*** TODO [#2] Finish the chapter on the perspective projection
+*** TODO [#2] Make the content for VAO, VBO, shaders, etc, from my class git repo
+*** TODO [#1] Change modelspace to be size 1 by 3, instead of 10 by 30
+**** TODO For animated gifs
+**** TODO For code
+**** TODO For mvpVizualations
+*** TODO [#1] Rewrite rotate, and update explanations.
+**** TODO Do it by making relative number lines
+**** TODO Add in _add_ method to add vertices
+**** TODO define translate by add
+**** TODO rotate should be implemented using add, to scaled vectors
+**** TODO update the images.  I'd rather have hand drawn images, then what is currently there
 *** DONE fix warning of matplotlib
 <2024-01-27 Sat> Got that done a few days ago
 *** DONE Change suffix (and emacs mode) of preprocess files so that warnings go away when building docs
@@ -44,8 +61,8 @@ Make view rotate while the two axes look stationary because the camera is moving
 
 **** <2023-11-02 Thu>
 Got through demo 06.  Nofmt is nice to format the transformation pipeline as I see fit.
-** Hearn Baker
-*** TODO Rewrite Hearn Baker code
+** DONE Hearn Baker
+*** DONE Rewrite Hearn Baker code
 <2024-01-27 Sat> Not gonna do this anymore.  Sam left the univerity, and I don't like the code from this book.
 It'd be better to do for craft
 *** DONE Port code to modern build systems, windows linux and mac
@@ -56,7 +73,7 @@ Got a lot done
 <2023-11-23 Thu> Working on mac and Linux
 **** Status
 ***** <2023-11-02 Thu> got up to chapter 8 working
-** Spimulator
+** TODO [#5]  Spimulator
 *** DONE update copyright years
 *** TODO add printing a diamond
 *** TODO Add tower of hanoi
@@ -75,12 +92,12 @@ Got a lot done
 *** TODO Add equivalent malloc syscalls
 **** TODO Show why malloc matters
 Make grocery list of fixed size.  Then make grocery list of dynamic size.
-** TODO graphing calculator in OpenGL, 2D and 3D
-** TODO linear algebra visualizer
+** TODO [#7] graphing calculator in OpenGL, 2D and 3D
+** TODO [#7] linear algebra visualizer
 *** TODO 1D
 *** TODO 2D, rotate, scale, matrix, column space, inverse, SVD.  Caley graph
 *** TODO 3D, rotate, scale, matrix, column space, inverse, SVD.  Caley graph
-** TODO Craft
+** TODO [#8] Craft
 *** TODO Port to
 **** TODO Metal
 **** TODO Vulkan
@@ -102,7 +119,8 @@ Make grocery list of fixed size.  Then make grocery list of dynamic size.
 Run the code in C in all of them.
 Then run the code in assembly
 
-*** TODO Cross product
+*** TODO [#5] Cross product
+**** TODO [#2] rewrite the proof as a sphinx page, not PDF. People don't want to download PDFs
 **** TODO Add images from animation to the proof
 **** TODO Make separate PDF which has
 ***** TODO 2D
@@ -137,13 +155,14 @@ Then run the code in assembly
 ***** TODO Right distributivity
 ***** TODO Scalar multiplication
 **** TODO Make the damn video and publish it Bill
-*** TODO Greene's Theorum
+*** TODO [#5] Greene's Theorum
 **** TODO Show the double integral as a line integral using half of the standard equation
 **** TODO Show the vector field, rotated 90 degress to the right, crossed with the derivative of the path, reduces to the above.
-*** TODO Stoke's Theorum
+*** TODO [#7] Stoke's Theorum
 See if I can do the same to Stokes.
-*** TODO Quaternions
-*** TODO frameworks vs libraries
+*** TODO [#4] Quaternions
+**** TODO [#2] Make proof a sphinx page instead of PDF
+*** TODO [#10] frameworks vs libraries
 
 Use hearnbakercarithers4thedition with glut vs glfw as example
 

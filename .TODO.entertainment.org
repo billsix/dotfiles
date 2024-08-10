@@ -11,19 +11,21 @@ I think I'm on the third episode
 **** TODO [#6] Glee
 **** TODO [#7] Buffy
 **** TODO [#2] Firefly
+**** TODO [#2] Last Man Standing
+**** TODO Ted Lasso
 *** Movies
 **** TODO [#6] Broken Blossom
 **** TODO [#4] Birth of a Nation
 **** TODO [#5] Intolerance
 ** With Kids
 *** Shows
-**** TODO BBC Planet Earth
+**** TODO [#3] BBC Planet Earth
 **** TODO BBC Planet Earth 2
 **** TODO BBC Frozen Planet
 **** TODO BBC Frozen Planet 2
-**** TODO [#2] TMNT Original
+**** TODO [#5] TMNT Original
 Currently on S02E09
-**** TODO [#3] TMNT 2000 series
+**** TODO [#5] TMNT 2000 series
 **** TODO [#1] Home Improvement
 <2024-07-29 Mon> Next up Season 1 Episode 4
 **** TODO [#1] Boy Meets World

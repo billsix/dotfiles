@@ -9,40 +9,43 @@
 **** TODO CoD Black Ops 4
 **** TODO CoD MW Campaign Remastered
 *** Blizzard
-**** TODO Diablo 4
-**** TODO Diablo 3
-**** TODO Warcraft 3
-**** TODO Starcraft
+**** TODO [#7] Diablo 4
+**** TODO [#8] Diablo 3
+**** TODO [#5] Warcraft 3
+**** TODO [#5] Starcraft
 **** TODO Starcraft 2
 *** Steam
-**** TODO Hogwarts Legacy
-**** TODO Red Dead Redemption 2
+**** TODO [#2] Hogwarts Legacy
+<2024-08-10 Sat> This game is a bit slow, and a lot of walking, but
+I like the world
+**** TODO [#2] Red Dead Redemption 2
+I've heard fantastic things about this but have not played yet
 **** TODO Raft
 **** TODO Total War Saga: Thrones of Britannica
 **** TODO War of Rights
-**** TODO God of War (2018)
+**** TODO [#3] God of War (2018)
 **** TODO Final Fantasy 7 remove
 **** TODO Final Fantasy x/x-2 hd remaster
-**** TODO Halo Master Chief Collection
-**** TODO Wolfenstein The New Order
-**** TODO Wolfenstein The Old Blood
+**** TODO [#5] Halo Master Chief Collection
+**** TODO [#4] Wolfenstein The New Order
+**** TODO [#4] Wolfenstein The Old Blood
 **** TODO Dark Souls
 **** TODO Dark Souls 2
 **** TODO Dark Souls 3
-**** TODO Darksiders
-**** TODO Darksiders 2
-**** TODO Darksiders 3
+**** TODO [#3] Darksiders
+**** TODO [#4] Darksiders 2
+**** TODO [#5] Darksiders 3
 **** TODO Sekiro Shadows Die Twice
-**** TODO Eldin Ring
-**** TODO Hollow Knight
-**** TODO Ori and the Will of the Wisps
+**** TODO [#3] Eldin Ring
+**** TODO [#7] Hollow Knight
+**** TODO [#4] Ori and the Will of the Wisps
 **** TODO Baulder's Gate
 **** TODO Dragon Age Inquisition
 **** TODO Monster Hunter World
 **** TODO Civ 6
 **** TODO Stellaris
 **** TODO FEZ
-**** TODO DeadCore
+**** TODO [#3] DeadCore
 **** TODO Owlboy
 **** TODO Stealth Bastard Deluxe
 **** DONE Shantae and the Pirate's Curse
@@ -60,17 +63,18 @@ to go, and what to do.
 **** TODO The Witness
 **** TODO Oceanhorn: Monster of the Uncharted Seas
 **** TODO Kerbal Space Program
-**** TODO  Dead Cells
+**** TODO Dead Cells
 **** TODO PolyBridge
 **** TODO Battlefield 1
 **** TODO Battlefield 4
 **** TODO Battlefield 5
 **** TODO Control
 ** Nintendo
-*** TODO Zelda Skyward Sword
+*** TODO [#1] Zelda Skyward Sword
 Finally finish the damn game
-*** TODO Zelda Tears of the Kingdom
-*** TODO Pikmin 1
-*** TODO Pikmin 2
-*** TODO Pikmin 3
-*** TODO Pikmin 4
+*** TODO [#3] Zelda switch game remake of DS game
+*** TODO [#4] Zelda Tears of the Kingdom
+*** TODO [#7] Pikmin 1
+*** TODO [#7] Pikmin 2
+*** TODO [#3] Pikmin 3
+*** TODO [#6] Pikmin 4
