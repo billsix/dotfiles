@@ -1,0 +1,160 @@
+#+PRIORITIES: 1 10 5
+
+* Projects
+** Math notebooks for my kids
+*** TODO Prealgebra -
+**** TODO do explicit check for negative, and articulate that in the markdown
+**** <2024-01-27 Sat> Got subtraction done last night
+**** <2024-01-11 Thu> Got the first two notebooks done.
+*** TODO Algebra 1
+*** TODO Geometry
+*** TODO Algebra 2
+*** TODO Precalc
+** TODO update github page, make it informational about projects, not about me
+** TODO quaternion
+*** <2023-11-26 Sun>
+Made better variable names
+*** <2023-11-24 Fri>
+This morning got part of it working in tex.  I need to make variable names rather that copy expressions.
+*** <2023-11-24 Fri>
+Made some progress this morning, almost got a rough draft of the proof for the parrallel
+section
+*** TODO replace the repeated calculations with sine and cosine, and list out the properties better
+*** TODO do the perp section
+*** TODO finish devirvation
+*** TODO make animation
+Make view rotate while the two axes look stationary because the camera is moving
+** TODO Calculus book from gutenberg
+*** TODO get working on modern systems (images on build on my rpi)
+** VLC
+*** TODO get working on mac, fix issue of expanding folders
+*** TODO Android - see if I can make download work like on iOS
+*** TODO iOS - see if I can get it to play ogg files
+** Model View Projection
+*** TODO Finish the chapter on the perspective projection
+*** TODO Make the content for VAO, VBO, shaders, etc, from my class git repo
+*** DONE fix warning of matplotlib
+<2024-01-27 Sat> Got that done a few days ago
+*** DONE Change suffix (and emacs mode) of preprocess files so that warnings go away when building docs
+<2024-01-27 Sat> this is a moot point after https://github.com/billsix/modelviewprojection/commit/93daf37105890952ad3d2bc983f1f011927506ce
+*** DONE develop better name other that "begin" "end"
+**** <2023-11-23 Thu> doc-region-begin and doc-region-end
+*** DONE Make the sections line independent
+**** <2023-11-23 Thu> Got that done in general
+
+**** <2023-11-02 Thu>
+Got through demo 06.  Nofmt is nice to format the transformation pipeline as I see fit.
+** Hearn Baker
+*** TODO Rewrite Hearn Baker code
+<2024-01-27 Sat> Not gonna do this anymore.  Sam left the univerity, and I don't like the code from this book.
+It'd be better to do for craft
+*** DONE Port code to modern build systems, windows linux and mac
+**** <2023-11-23 Thu> Told new instructor I'm done unless he has new requests
+**** <2023-11-23 Thu> https://github.com/billsix/hearnBakerCarithers4thEdition
+Got a lot done
+**** TODO got working on mac, verify on windows and on linux
+<2023-11-23 Thu> Working on mac and Linux
+**** Status
+***** <2023-11-02 Thu> got up to chapter 8 working
+** Spimulator
+*** DONE update copyright years
+*** TODO add printing a diamond
+*** TODO Add tower of hanoi
+*** TODO Make visualization
+**** TODO Make parser on C that uses clang parsing the AST
+**** TODO Visualize, load time.  This probably involves capturing line and column number at parse time
+**** TODO Visualize, highlighting code during execution
+***** TODO using stack only
+***** TODO using an few registers as possible
+***** TODO add some optimizations
+*** TODO make sphinx docs
+**** TODO Go through C code first explaining C
+**** TODO Then go through 'C--" and 'C----" code
+**** TODO take the inline comments and put them in restructured text
+*** TODO rename "in register" "in instruction"
+*** TODO Add equivalent malloc syscalls
+**** TODO Show why malloc matters
+Make grocery list of fixed size.  Then make grocery list of dynamic size.
+** TODO graphing calculator in OpenGL, 2D and 3D
+** TODO linear algebra visualizer
+*** TODO 1D
+*** TODO 2D, rotate, scale, matrix, column space, inverse, SVD.  Caley graph
+*** TODO 3D, rotate, scale, matrix, column space, inverse, SVD.  Caley graph
+** TODO Craft
+*** TODO Port to
+**** TODO Metal
+**** TODO Vulkan
+**** TODO DX
+*** TODO Start to document using sphinx
+*** TODO add scripting, using protobuf
+**** TODO python on linux
+**** TODO C# on windows
+**** TODO swift on mac
+*** TODO revert graphics abstraction that I made
+*** TODO figure out how the threads work
+*** TODO get multiplayer working
+** YouTube Vidoes
+*** TODO Gilbert Strang's calculus https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/
+*** TODO Gilbert Strang's linalg
+*** TODO Towers of Hanoi video
+*** TODO Spimulator videos
+
+Run the code in C in all of them.
+Then run the code in assembly
+
+*** TODO Cross product
+**** TODO Add images from animation to the proof
+**** TODO Make separate PDF which has
+***** TODO 2D
+<2023-12-26 Tue> Made some progress.
+****** TODO Make operations on Coordinate System explicit.  Make dot product of coordinates with "Coordinate System" Vector
+****** TODO Rotate x to y
+****** TODO Rotate a to x
+****** TODO Project a to x
+****** TODO Project a to y
+***** TODO 3D
+****** TODO Rotate x to y
+****** TODO Rotate y to z
+****** TODO Rotate z to a
+****** TODO Rotate a to xy
+****** TODO Rotate a to yz
+****** TODO Rotate a to zy
+****** TODO Rotate xy Theta
+****** TODO Rotate yz Theta
+****** TODO Rotate zx Theta
+****** TODO Project a to x
+****** TODO Project a to y
+****** TODO Project a to z
+****** TODO Project a to xy
+****** TODO Project a to yz
+****** TODO Project a to zx
+**** TODO In proof, reference previous equations
+**** TODO Add properties to proof
+***** TODO Right hand rule
+
+***** TODO Anticommutativity
+***** TODO Left distributivity
+***** TODO Right distributivity
+***** TODO Scalar multiplication
+**** TODO Make the damn video and publish it Bill
+*** TODO Greene's Theorum
+**** TODO Show the double integral as a line integral using half of the standard equation
+**** TODO Show the vector field, rotated 90 degress to the right, crossed with the derivative of the path, reduces to the above.
+*** TODO Stoke's Theorum
+See if I can do the same to Stokes.
+*** TODO Quaternions
+*** TODO frameworks vs libraries
+
+Use hearnbakercarithers4thedition with glut vs glfw as example
+
+*** TODO Shorts
+**** TODO Cmd line
+***** TODO ls pwd cd
+***** TODO ampersand
+***** TODO pipes
+***** $()
+***** TODO up down history ctrl r
+**** TODO Emacs
+***** TODO Macros
+***** TODO Basic usage
+***** TODO make/compile

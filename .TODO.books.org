@@ -1,0 +1,225 @@
+#+PRIORITIES: 1 10 5
+
+* Books To Read
+** Fiction
+*** TODO Reacher, by Lee Child
+*** TODO The Idiot, Fyodor Dostoevsky
+*** TODO The Brothers Karamozov, Fyodor Dostoevsky
+*** TODO The Silkworn, Robert Gailbraith
+** Non-Fiction
+*** TODO Five Days at Memorial
+*** TODO The Birth of Plenty
+*** TODO In the Plex by Steven Levy
+** Language
+*** TODO The Language Construction Kit
+*** Latin
+**** TODO Ossa Latinitatis Sola
+**** TODO Ossium Carnes Multae
+**** TODO Getting Started With Latin
+**** TODO Keep Going With Latin
+**** TODO Familia Romana
+**** TODO Roma Aeterna
+**** TODO Commentarii De Bello Gallico, by Julius M.F. Caesar
+** Life Improvement
+*** DONE Dare To Forgive
+<2024-01-11 Thu> Good book
+
+<2023-08-21 Mon> Up to chapter 13
+
+*** TODO Stop Walking On Eggshells
+*** TODO A Lasting Promise
+*** TODO Should I Stay or Should I go?
+*** TODO No Contact
+*** TODO 12 Rules for Life, by Jordan Peterson
+*** TODO Deep Work
+*** TODO Never Split The Difference
+*** TODO Beyond Reason, by Roger Fisher and Daniel Shapiro
+*** TODO All About Asset Allocation
+*** TODO The Power of Habit by Duhigg
+** Divorce
+*** TODO Difficult Questions Kids Ask and are too afraid to ask about Divorce, by Meg Schneider
+*** TODO Dinosaurs Divorce, by Laurie Brow and Marc Brown
+** For Kids
+*** Social Skills, Activities for Kids,by Natasha Daniels
+*** Lauren Ipsum, A Story about computer science and other impossible things, by Carlos Bueno
+**** Current page
+***** <2023-11-02 Thu> Page 35.
+Chapter 4 with my kids was a lot of fun.  It talked about recursion, limits, and different notions of inifinty.
+** Logic/CS/Philosophy
+*** TODO Sophie's World
+*** TODO The Annotated Turing
+*** TODO The Universal Computer
+*** TODO The Stoic Way Of Life
+*** TODO The Story of Philosophy, by Bryan Magee
+** Computers
+*** TODO Learn to Program with Assembly, Jonathan Bartlett
+(His programming from the ground up book was great)
+*** TODO Programming with 64-bit ARM Assembly Language
+*** TODO ARM Assembly Language, Fundamentals and Techniques
+*** TODO Profession Cuda C Progmamming, by Wrox
+
+**** Current page
+67
+**** <2023-08-21 Mon> Up to page 46
+***** Learned today about GPU memory, and pushing data from main memory to GPU memory.
+***** Learned about task-parallell vs data parallel, and the advantages of hetergenious computing.
+***** Learned about how threads determine which data they should act upon without having them explictly pass parameters
+***** Learned that memory transfer operations are blocking, but tasking kernel threads are not blocking
+Like threads, or like linux "sync", sometimes you need to make a call to block to ensure
+all threads have finished their work on the GPU before the CPU should resume.
+**** <2023-08-22 Tue> Through page 61
+***** Learned that for matrix addition, that the block and grid size affects perfomance
+I'm not quite sure why, but the book says chapter 3 will explain it from a hardware perspective
+**** <2023-08-23 Wed> Chapter 3
+Learning about how the threads within a certain subgroup all have the same instruction executed,
+and stalls are used on branches not taken in that thread affects performance, was interesting to read
+about.  Learning about how the hardware actually works is interesting, but it's a lot to take in.
+I think the grid/block/thread stuff will all make more sense once I run cuda on datasets that I care
+about, using nvprof, or the graphical visualizer.
+**** <2023-08-23 Wed> Up to chapter 4
+Chapter 3 was interesting, especially about warps.  I had no idea how much work is required
+to get optimal performance.  I'm curious now to reread my openGL books, especially the section
+that talk about compute shaders.  I remember reading those sections years ago and having no idea
+what was going on.  But now that I know a bit more about graphics hardware, and how it's used
+for general purpose computation, perhaps those sections will make more sense to me now.  Or
+perhaps I should read up on OpenCL as well.
+
+
+*** TODO Code, Second Editon
+*** TODO Getting Started with LLVM Core Libraries
+*** TODO Software Design For Flexibility, by Hanson and Sussman
+*** TODO USB Complete
+*** TODO RHCSA RedHad Enterprise Linux 8
+*** DONE Introduction to programming using Lambda Calculus
+I threw this book away
+*** TODO The Little Typer
+*** TODO The Haskell School of Music, Paul Hudak
+*** Machine Learning
+**** TODO Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow
+**** TODO Deep Learning with Python
+**** TODO Deep Learning with PyTorch by Stevens, Antiga, Viehmann
+*** Languages
+**** TODO Programming Rust
+**** TODO Head First Kotlin
+**** TODO Head First Go
+**** TODO Practical Haskell
+**** TODO Mastering Swift, 5th edition
+**** TODO Effective Modern C++
+**** TODO C++ Templates The Complete Guide
+**** TODO Android Programming, the Big Nerd Ranch Guide
+*** Lang Implementations
+**** TODO CPython Internals
+**** TODO Crafting Interpreters
+*** Linux
+**** TODO Advanced programming in the unix environment
+**** TODO Linux Kernel Development
+*** VMs
+**** TODO Vagrant
+**** TODO Docker
+*** Graphics
+**** TODO Vulkan a programming guide
+**** TODO Vulkan Cookbook
+**** TODO OpenGL RedBook
+As a refresher
+**** TODO OpenGL BlueBook
+As a refresher
+**** TODO Computer Graphics with OpenGL v4 by Hearn Baker
+*** Computer Architecture
+**** TODO Computer Organization and Design, Hennessy and Patterson
+**** TODO Digital Design and Computer Architecture
+**** TODO Modern Computer Architecture and Organization
+** CS Education
+*** TODO Python For Kids, by Jason Briggs
+*** TODO Class Computer Science Problems in Python, by David Kopec
+*** TODO Daily Coding Problems, by Alex Miller and Lawrence Wu
+** Physics
+*** TODO The Theoretical Minimum by Susskind and Hrabovsky
+*** TODO The Theoretical Minimum: Classical Mechanics by Susskind and Hrabovsky
+*** TODO The Theoretical Minimum: Quantum Mechanics by Susskind and Friedman
+*** TODO The Theoretical Minimum: Special Relativity and Classical Field Theory by Susskind and Hrabovsky
+*** TODO The Theoretical Minimum: General Relativity by Susskind and Hrabovsky
+*** DONE Basic Electricity by US Navy
+<2024-01-27 Sat> I threw this book away
+** Chemistry
+*** TODO Chemistry by Silberberg and Amatesis
+*** TODO Organic Chemistry
+** Math
+*** TODO Textbook Pre Algebra, based off of Liam's book
+*** TODO Textbook Algebra 1
+*** TODO Textbook Geometry
+*** TODO Textbook Algebra 2
+*** TODO Textbook Precalculus by Carter, Cuevas, Day, Malloy, Bryan, Holiday and Hovsepian
+*** TODO Calculus by Morris Kline
+*** TODO Logicomix, by Apostolos Doxiadis and Christos H. Papadimitriou
+*** TODO Vector Calculus, by Susan Jane Colley
+*** TODO Linear and Geometric Algebra, by Alan MacDonald
+This book is hard but good, I should start from the beginning again and do all exercises
+*** TODO Vector and Geometric Calculus, by Alan MacDonald
+*** TODO Extension Theory, by Hermann Grassman
+This is the foundation for a lot of multivariate work, and Clifford expanded
+on Grassman's and Hamilton's work to create geometric Algebra.  In particular
+I want to see the section on inner products, as for instance in Geometric Algebra,
+I still don't know how to take the dot product of a vector and a bivector, without
+resorting to upgrading them to a geometric product minus the wedge product
+*** TODO Geometric Algebra for Computer Scientists, by Dorst et. al.
+*** TODO That Geometric Algebra book that I have on Kindle, it's good.
+*** TODO Foundations of Geometric Algebra Computing, by Hildenbrand
+*** TODO Clifford Algebra to Geometric Calculus, by Hestenes and Sobczyk
+I'm looking forward to getting to understand enough of the material to take this
+book on
+*** TODO New Foundations in Mathematics, Sobczyk
+*** TODO An Introduction to Geometric Algebra and Geometric Calculus, M.D. Taylor
+*** TODO Elementary Differential Equations and Bounday Value Problems
+*** TODO Introduction to Linear Algebra, Gilbert Strang
+*** TODO Linear Algebra and Learning from Data, Gilbret Strang
+*** TODO Div Grad Curl and all that,  Schey
+*** TODO An Introduction cto Information Theory, by John R. Pierce
+*** TODO Methods of Multivariate Analysis by R9cencher and Christensen
+*** TODO Signals and Systems Schaums
+*** TODO Design of Experiments
+** Science
+*** TODO Origin Of Time, by Stephen Hawking
+*** TODO Chasing New Horizons
+** SciFi
+*** TODO Snow Crash, by Neal Stephenson
+*** TODO Cryptonomicon, by Neal Stephenson
+*** TODO Foundation, by Asimov
+*** TODO Diasporo, by Greg Egan
+** Software
+*** TODO The Complete Guide to Blender Graphics
+*** TODO Logic Pro X 10.5
+** MISC
+*** TODO Scattered Minds, Gabor Mate
+<2024-04-02 Tue> Up to page 239
+<2024-04-02 Tue> I especially liked the line  on page 208
+where the author mentioned "can avoid painful scenes if they
+learn to respect the motive instead of fixating on the outcome."
+I've dealt with similar issues, but I like the phrasing.
+I try very much when dealing some form of criticism to lead with
+a positive statement.  Growing up, I believe I was taught this,
+but until the last 7 years or so, I hadn't understood the affect
+of a person not doing this.
+<2024-01-11 Thu> up to page 193.
+I find this book much more fascinating than I though I would have.
+A quote i like is "whenever we ascribe a motive to another person, 'you are doing this because...'
+we discard curiosity and immobalize compassion."
+For reasons I won't write publicly, I have observed this, but damn that sentence was written well.
+<2023-12-17 Sun> Up to page 104, this is getting interesteing
+I'm only reading this book because Teresa has our kids tested for ADHD
+<2023-12-17 Sun> Page 77
+*** TODO Thinking Fast and Slow, Daniel Kahneman
+*** TODO FLOW, Mihaly Csikszentmihalyi
+*** DONE Everything is Fucked, Mark Manson
+<2023-12-17 Sun> Finished.
+<2023-11-24 Fri> Up to Page  188
+*** TODO Digital Avionics Handbook
+**** Current page
+67
+**** <2023-11-02 Thu> page 108
+
+** Religion
+*** The Complete Guide to the Bible, Stephen M. Miller
+*** The Good News Bible
+
+** How to Become Alex Jones
+*** None Dare Call it a Conspiracy

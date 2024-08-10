@@ -1,0 +1,7 @@
+#+PRIORITIES: 1 10 5
+
+* Exercise
+
+I need to exercise and lose weight.
+
+** TODO 90 Day Challenge
