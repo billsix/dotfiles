@@ -423,12 +423,7 @@ Currently on S02E09
 **** TODO Home Improvement
 <2024-07-29 Mon> Next up Season 1 Episode 4
 **** TODO Boy Meets World
-<2024-07-27 Sat> Next up Season 3 Episode 11
-<2024-07-24 Wed> Season 3 Episode 9
-<2024-07-15 Mon> Season 3 episode 7
-<2024-07-14 Sun> Next up season 3 episode 4
-<2024-07-14 Sun> Next up season 3 episode 2
-<2024-07-12 Fri> Next up Season 2 episode 23
+<2024-08-10 Sat> Next up Season 3 Episode 13
 **** TODO Avatar the Last Airbender
 **** TODO Legend of Korra
 
