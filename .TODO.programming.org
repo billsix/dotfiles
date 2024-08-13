@@ -1,5 +1,13 @@
 #+PRIORITIES: 1 10 5
 
+* TODO Containers - slim texToPng using strace
+* TODO Containers - Emacs Tutorial
+* TODO [#1] Containers - Emacs as C/C++ IDE (bear, lsp)
+* TODO [#2] Containers - Emacs as Python IDE (lsp)
+* TODO [#3] Containers - Emacs as Java IDE (lsp)
+* TODO [#3] Containers - Neovim as C/C++ IDE (bear, lsp)
+* TODO [#3] Containers - Neovim as Python IDE (lsp)
+* TODO [#3] Containers - Neovim as Java IDE (lsp)
 * Math notebooks for my kids
 ** TODO Prealgebra -
 *** TODO do explicit check for negative, and articulate that in the markdown
