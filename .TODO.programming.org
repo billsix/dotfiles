@@ -31,9 +31,9 @@
 * TODO [#1] Model View Projection
     - [ ] Finish the chapter on the perspective projection
     - [ ] Make the content for VAO, VBO, shaders, etc, from my class git repo
-    - [0%] Change modelspace to be size 1 by 3, instead of 10 by 30
-      - [ ] TODO For animated gifs
-      - [ ] For code
+    - [66%] Change modelspace to be size 1 by 3, instead of 10 by 30
+      - [X] TODO For animated gifs
+      - [X] For code
       - [ ] For mvpVizualations
     - [0%] Rewrite rotate, and update explanations.
       - [ ] Do it by making relative number lines
