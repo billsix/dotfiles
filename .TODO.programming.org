@@ -37,6 +37,8 @@
       - [X] For code
       - [ ] For mvpVizualations
     - [0%] Rewrite rotate, and update explanations.
+      - [ ] Use inkscape to modify the SVGs
+        - [ ] Make the placement of 'x' 'y' and 'z' off of the arrow
       - [ ] Do it by making relative number lines
       - [ ] Add in _add_ method to add vertices
       - [ ] define translate by add
