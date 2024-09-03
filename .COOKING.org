@@ -4,9 +4,12 @@
 Temp: 147 degrees farenheight.
 Time: 27 hours
 Bake after at 400 degrees farenheight for 15 minutes
-*** Chicken Brease
+*** Chicken Breast
 Temp: 150
 Time: 1.5 - 3 hours
+*** Eggs
+Temp: 145
+Time: at least 2 hours
 ** Slow cook
 *** Mashed potates
 Wash and peel potatoes
