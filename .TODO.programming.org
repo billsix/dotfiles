@@ -25,7 +25,8 @@
     - [ ] make animation
     - [ ] Make view rotate while the two axes look stationary because the camera is moving
 * TODO [#6] Calculus book from gutenberg
-    - [ ] get working on modern systems (images on build on my rpi)
+    - [X] get working on modern systems (images on build on my rpi)
+      Moot point, I just built in with docker on an old debian
 * [0%] VLC
     - [ ] Android - see if I can make download work like on iOS
 * TODO [#1] Model View Projection
@@ -36,14 +37,15 @@
       - [X] TODO For animated gifs
       - [X] For code
       - [ ] For mvpVizualations
-    - [0%] Rewrite rotate, and update explanations.
-      - [ ] Use inkscape to modify the SVGs
-        - [ ] Make the placement of 'x' 'y' and 'z' off of the arrow
+    - [71%] Rewrite rotate, and update explanations.
+      - [X] Use inkscape to modify the SVGs
+        - [X] Make the placement of 'x' 'y' and 'z' off of the arrow
       - [ ] Do it by making relative number lines
-      - [ ] Add in _add_ method to add vertices
-      - [ ] define translate by add
-      - [ ] rotate should be implemented using add, to scaled vectors
-      - [ ] update the images.  I'd rather have hand drawn images, then what is currently there
+      - [X] Add in _add_ method to add vertices
+      - [X] define translate by add
+      - [X] rotate should be implemented using add, to scaled vectors
+      - [X] update the images.  I'd rather have hand drawn images, then what is currently there
+      - [ ] Update for chapter 18+
     - [X] fix warning of matplotlib
     <2024-01-27 Sat> Got that done a few days ago
     - [X] Change suffix (and emacs mode) of preprocess files so that warnings go away when building docs
