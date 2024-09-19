@@ -222,6 +222,136 @@ For reasons I won't write publicly, I have observed this, but damn that sentence
 I'm only reading this book because Teresa has our kids tested for ADHD
 <2023-12-17 Sun> Page 77
 *** TODO [#2] Thinking Fast and Slow, Daniel Kahneman
+**** <2024-09-18 Wed>
+Introdiuction
+page 1 - "Because it's much easier, as well as far more enjoyable
+to indentify and label the mistakes of others than to recognize our own"
+page 2 - "You believe you know what goes on in your mind... most impressions
+and thoughts arise in your conscience experience without you knowing
+how they got there" Reminds me of what I've been learning about mindfullness,
+and about machine learning
+page 6 - "We invented questions and jointly examined our intuitive answers"
+regarding intuition for statistics, I doubt that we really have that.
+Hell, Anscombe's quartert show's how little mean and variance _can_ mean
+page 8 - we documented systematic errors in the thinking of normal people
+and we traced these errors to the design of the machinery of cognition
+rather than the corruption of thought by emotion"
+"people tend to assess the relative importance of issues by the ease
+with which they are retrieved from memory, largely determined
+by the extent of the coverage in the media"
+page 9 - "a recurrent theme in this book is that luck plays a large
+role in every story of success"
+page 11 - "the accurate intuitions of experts are better explained by
+the effects of prolonged practice than by heuristics"
+I like the example of the firefighter that sensed danger, and ordered
+the team to escape, without himself knowing exactly why.  This also
+reminds me of machine learning
+page 12 - "when faced with a difficult question, we often answer an
+easier one instead, usually without noticing the substitution"
+Page 13 - system 1 and system 2 - haha regarding david and his wife "Here!"
+"System 1 os more influential than your experience tells you"
+"the main theme of part 3, which describes a puzzling limitation of our
+mind: our excessive confidence in what we believe we know, and our
+appararent inability to acknowledge the full extent of our ignorance
+and the uncertainty of the world we live in"
+"Illusionary certainty of highsight" - haha captain hindsight
+page 14 "part 4 the assumption that economic agents are rational"
+"address several ways human choices deviate from the rules of rationality
+I forget the page, but the author talks about how a 4 year old, in their
+native language, understands the rules of grammar, but doesn't know
+that their are rules, nor can they articulate the rules.
+This reminds me of reflecting on my confusion with ESL adults, when
+I was a kid, and how they didn't use articles in the correct context.
+I now, can describe when to use a definite article vs an indefinite article,
+but I can't prescribe an exhaustive set of rules to provide to an ESL person.
+
+Part 1 - page 19 " A premonition of what she was going to do next came
+to mind automatically and effortlessly. You did not intend to assess
+her mood or anticipate what she might do...it just happened to you.  It
+was an instance of fast thinking"
+page 20 - regarding the multiplication, it's interesting.  I used to
+like doing mental math as a kid, and now I can't be bothered, for reasons
+that I could program a computer to do it.  I'd be much happier
+writing my own implementation of multiplication function, given an arbtrary
+base, than to manualy do the calculation.  I think about this in terms
+of white box and black box, and how a friend of mine in junior high
+ used to say "why do I need to learn how to do the operation
+ when my calculator can do it for me.  My oldest child ask a similar
+ question recently, but his version of the question seemed to be sparked
+ from genuine curiousity, rather than one of laziness.  It sparked
+ a good conversation between my kids and me.  I explained that understanding
+ things as a black box is good, because it allows us to focus on the important
+ aspects, and to ignore details, however, we still should be able to open
+ the white box, and derive the machinery from scratch --- and then, we can
+ treat it as a black box.  reminds me of what I did with the cross product proof,
+ that for some reason no one else in the world has done, nor cared about, but
+ somehow they got the answer correct.
+
+"You felt the burden of holding much memory in your head, as you needed
+to keep track of where you were and of where you were going, while holding
+onto the intermediate result"  I find this fascinating.  Firstly, before I read
+Strunk and White, and before I learned Latin, I would not have noticed the
+two "of where"s, and if I were to write the sentence, I would have not said
+the second "of".  But also, the content of his sentence reminds me a lot
+about computer program, best exemplified by the towers of hanoi puzzle,
+and how amazed I was the first time I saw a program of like 6 lines
+that could solve it for any number of disks.
+
+Regarding System 1, the description at the bottom of page 20 sounds
+somewhat similar to ML systems, in that they cannot describe how
+they came to their solutions.  Reminds me of Stockfish vs Google's ML
+chess engine.  Stockfish was written by chess experts, and it can explain
+the choices it makes based off of rationality coded in my experts.
+Whereas, from what I understand, Google's engine was meant to learn
+games, and although it was the best engine in the world, it couldn't explain
+why it made the sequence of moves it would do, it just estimated that
+they were optimal.  From what I've heard Magnus Carlsen say, he
+said that the ML system did excellent sacrificies that he would have never
+thought of.
+
+I find that interesting from my own playing of chess.  There are so many
+possible moves to make, I have trouble deciding what to pay attention
+to and what to ignore; perhaps exascerbated by my aphantasia.
+But, perhaps, through enough expercience, an expert develops an
+intuitive sense, as the author had mentioned earlier in the book
+with the firefighter.
+
+As a parent and as a teacher (or having patience with an ESL person
+who struggles with usage of articles), that makes me curious, how does one
+teach, or articulate, the resulting expertise?  I find with my kids at least,
+that when one of my children asks to go on a walk on the concrete without shoes,
+telling him "no" would not impart any knowledge.  So I tell him I advise
+against it, but allow him to anyways.  Halfway through that walk he told
+me his feet hurt.
+
+On page 21, I find his description of the interaction between system 1 and
+system 2 interesting.
+
+on page 22, "System 1... has also learned skills such as reading and
+understanding the nuances of social interactions".  I find that interesting,
+especially when interacting with people who, politely, have less than optimal
+skills in that area.  Reminds me of me explaining to a person "my way" of
+remembering to badge out.  Step 1, recoginize that I am leaving.  Step 2,
+look at my list of things I must do before I leave.  Look at the list,
+there's only one thing on it, badge out.  Step 3, execute badge out.
+I say that as a joke, but it reminds of when I was a kid, and a friend's
+mother would say "Bill remember when you go home to tell your mother X"
+Hours later, I'd go home.  Later that night, the phone would ring,
+and my mother answer, but then start talking to me saying "Bill,
+was there something you were supposed to tell to me when you got home?"
+And I'd say, "Yes, my friend's mom said to tell you X"
+I could remember what the content was, but I could not remember
+a trigger, or an event perhaps, to trigger telling my mom.
+It's funny too, because when I was a kid, as I said above, I could do
+mental math very quickly, and raised my hand first frequently.
+If a fellow student asked me how I did it so quickly, I probably explained
+it like "remember the rules, do the multiplication, hold onto the result,
+and complete the algorithm".  And I would think they weren't trying hard
+enough, and I'd be confused.  It's interesting to think of those types of events
+in my own explanations or in my own judgements, espicially given that I have
+aphanasia, and no matter how much someone tells me to picture something
+in my mind, which comes naturally to them, I likely never will be able to.
+
 *** TODO [#2] FLOW, Mihaly Csikszentmihalyi
 *** DONE Everything is Fucked, Mark Manson
 <2023-12-17 Sun> Finished.
