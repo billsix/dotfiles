@@ -11,6 +11,17 @@ mount /dev/mapper/encrypted-volume /mnt/myencryptedfs
 umount /mnt/encrypted-volume
 cryptsetup close encrypted-volume
 
+* Turn Linux file into swap space
+
+export SWAPFILE=/mnt/sda/SWAPFILE
+export SWAPSIZE=32G
+
+fallocate -l $SWAPSIZE $SWAPFILE
+fallocate -z -o 0 -l $SWAPSIZE $SWAPFILE
+chmod 600 $SWAPFILE
+mkswap $SWAPFILE
+swapon $SWAPFILE
+
 
 * Best game of chess I ever played, against Jay
 
