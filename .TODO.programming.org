@@ -33,10 +33,10 @@
     - [ ] Finish the chapter on the perspective projection
     - [ ] Make the content for VAO, VBO, shaders, etc, from my class git repo
     - [X] make function names on Cayley graphs look better using images
-    - [66%] Change modelspace to be size 1 by 3, instead of 10 by 30
+    - [100%] Change modelspace to be size 1 by 3, instead of 10 by 30
       - [X] TODO For animated gifs
       - [X] For code
-      - [ ] For mvpVizualations
+      - [X] For mvpVizualations
     - [71%] Rewrite rotate, and update explanations.
       - [X] Use inkscape to modify the SVGs
         - [X] Make the placement of 'x' 'y' and 'z' off of the arrow
