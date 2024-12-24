@@ -91,6 +91,10 @@
         - [ ] inverse
         - [ ] SVD
         - [ ] Caley graph
+* TODO [#2] Advanced Programming in the unix environment
+    - [0%] Progress
+      - [ ] build library using cmake
+      - [ ] build chapters using cmake
 * TODO [#8] Craft
 ** TODO Port to
 *** TODO Metal
