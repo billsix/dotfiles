@@ -50,10 +50,10 @@
       <outline text="SMG4" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8LcA3grYZg0GNpxlXh8owg" htmlUrl="https://www.youtube.com/channel/UC8LcA3grYZg0GNpxlXh8owg"/>
     </outline>
     <outline text="MSM">
-      <outline text="BBC News" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.co.uk/news" description="BBC News - News Front Page"/>
-      <outline text="BBC News" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="https://www.bbc.co.uk/news/science_and_environment" description="BBC News - Science &amp; Environment"/>
-      <outline text="BBC News" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/technology/rss.xml" htmlUrl="https://www.bbc.co.uk/news/technology" description="BBC News - Technology"/>
-      <outline text="BBC News" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" htmlUrl="https://www.bbc.co.uk/news/entertainment_and_arts" description="BBC News - Culture"/>
+      <outline text="BBC News - News" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.co.uk/news" description="BBC News - News Front Page"/>
+      <outline text="BBC News - Science And Environment" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="https://www.bbc.co.uk/news/science_and_environment" description="BBC News - Science &amp; Environment"/>
+      <outline text="BBC News - Technology" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/technology/rss.xml" htmlUrl="https://www.bbc.co.uk/news/technology" description="BBC News - Technology"/>
+      <outline text="BBC News - Entertainment And Arts" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" htmlUrl="https://www.bbc.co.uk/news/entertainment_and_arts" description="BBC News - Culture"/>
       <outline text="NPR Topics: Business" type="rss" xmlUrl="https://feeds.npr.org/1006/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1006" description="Find the latest business news with reports on Wall Street, interest rates, banking, companies, and U.S. and world financial markets. Subscribe to the Business Story of the Day podcast."/>
       <outline text="NPR Topics: Education" type="rss" xmlUrl="https://feeds.npr.org/1013/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1013" description="We've been to school. We know how education works. Right? In fact, many aspects of learning — in homes, at schools, at work and elsewhere — are evolving rapidly, along with our understanding of learning. Join us as we explore how learning happens."/>
       <outline text="NPR Topics: News" type="rss" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1001" description="NPR news, audio, and podcasts. Coverage of breaking stories, national and world news, politics, business, science, technology, and extended coverage of major national and world events."/>
@@ -61,7 +61,6 @@
     </outline>
     <outline text="MathScieneAndComputers">
       <outline text="3Blue1Brown" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" htmlUrl="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"/>
-      <outline text="BBCScience" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="https://www.bbc.co.uk/news/science_and_environment" description="BBC News - Science &amp; Environment"/>
       <outline text="BenEater" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCS0N5baNlQWJCUrhCEo8WlA" htmlUrl="https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA"/>
       <outline text="Computerphile" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA" htmlUrl="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA"/>
       <outline text="MarkRober" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg" htmlUrl="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg"/>
@@ -103,7 +102,6 @@
     </outline>
     <outline text="YouTube">
       <outline text="HannahBarron" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCglTOXlHB-lhPA9_jofiZwQ" htmlUrl="https://www.youtube.com/channel/UCglTOXlHB-lhPA9_jofiZwQ"/>
-      <outline text="YouTube-Ceelows" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn3hD45v7tT1CmbMjKeL5Iw"/>
     </outline>
   </body>
 </opml>
