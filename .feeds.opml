@@ -2,9 +2,19 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Wed, 25 Dec 2024 03:01:54 +0000</dateCreated>
+    <dateCreated>Wed, 25 Dec 2024 19:08:42 +0000</dateCreated>
   </head>
   <body>
+    <outline text="Adam">
+      <outline text="aCookieGod" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIVSqoHCUN1XdEpiVItxfoQ" htmlUrl="https://www.youtube.com/channel/UCIVSqoHCUN1XdEpiVItxfoQ"/>
+      <outline text="Lowest Percent" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxQrToVDBwHKuyIr47X04yA" htmlUrl="https://www.youtube.com/channel/UCxQrToVDBwHKuyIr47X04yA"/>
+    </outline>
+    <outline text="Books">
+      <outline text="NPR Topics: Art &amp; Design" type="rss" xmlUrl="https://feeds.npr.org/1047/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1047" description="NPR explores the visual arts including design, photography, sculpture, and architecture. Interviews, commentary, and audio. Subscribe to the RSS feed."/>
+      <outline text="NPR Topics: Book Reviews" type="rss" xmlUrl="https://feeds.npr.org/1034/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1034" description="Summary judgment on books of note, from NPR personalities, independent booksellers and critics from across the public-radio spectrum."/>
+      <outline text="NPR Topics: Books" type="rss" xmlUrl="https://feeds.npr.org/1032/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1032" description="NPR's brings you news about books and authors along with our picks for great reads. Interviews, reviews, and much more."/>
+      <outline text="NPR Topics: Performing Arts" type="rss" xmlUrl="https://feeds.npr.org/1046/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1046" description="News, interviews, and commentary on theater, the arts, music, and dance."/>
+    </outline>
     <outline text="Chess">
       <outline text="BotezChess" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOFOYJpuxJNfqQeCdQBcnUQ" htmlUrl="https://www.youtube.com/channel/UCOFOYJpuxJNfqQeCdQBcnUQ"/>
       <outline text="BotezLive" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAn8NrZ-J4CRfwodajqFYoQ" htmlUrl="https://www.youtube.com/channel/UCAn8NrZ-J4CRfwodajqFYoQ"/>
@@ -16,8 +26,15 @@
       <outline text="WinCompilation" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk_e9rhSH_Gg4Mp44Ut72ZQ" htmlUrl="https://www.youtube.com/channel/UCk_e9rhSH_Gg4Mp44Ut72ZQ"/>
     </outline>
     <outline text="Commentary">
+      <outline text="Breaking Points" type="rss" xmlUrl="https://rss.app/feeds/xH0npYJi4lOfaGsL.xml" htmlUrl="https://www.youtube.com/@breakingpoints" description="Breaking Points with Krystal and Saagar is a fearless anti-establishment Youtube show and podcast."/>
+      <outline text="Kim Iversen" type="rss" xmlUrl="https://rss.app/feeds/59E3ctUzPA7WttHi.xml" htmlUrl="https://rumble.com/c/KimIversen" description="Browse the most recent videos from channel &quot;Kim Iversen&quot; uploaded to Rumble.com"/>
+      <outline text="Russell Brand" type="rss" xmlUrl="https://rss.app/feeds/GE9CpPOifY9TPFN5.xml" htmlUrl="https://rumble.com/c/russellbrand" description="Browse the most recent videos from channel &quot;Russell Brand&quot; uploaded to Rumble.com"/>
       <outline text="Sh0eOnHead" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0aanx5rpr7D1M7KCFYzrLQ" htmlUrl="https://www.youtube.com/channel/UC0aanx5rpr7D1M7KCFYzrLQ"/>
+      <outline text="Steven Crowder" type="rss" xmlUrl="https://rss.app/feeds/KcvB2uiztmmT8Jv4.xml" htmlUrl="https://rumble.com/c/StevenCrowder" description="Browse the most recent videos from channel &quot;Steven Crowder&quot; uploaded to Rumble.com"/>
       <outline text="WarrenSmith" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVnBaemGSz05OUyKmQjIJSA" htmlUrl="https://www.youtube.com/channel/UCVnBaemGSz05OUyKmQjIJSA"/>
+    </outline>
+    <outline text="Food">
+      <outline text="NPR Topics: Food" type="rss" xmlUrl="https://feeds.npr.org/1053/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1053" description="Stories on food, nutrition, recipes, cooking, cookbook reviews, and health. Download Food and Hidden Kitchen podcasts and subscribe to RSS feeds."/>
     </outline>
     <outline text="Health">
       <outline text="Jaydygains" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDVdJhhqPPTJc5k02weSbAg" htmlUrl="https://www.youtube.com/channel/UCDVdJhhqPPTJc5k02weSbAg"/>
@@ -25,13 +42,22 @@
     <outline text="Interesting">
       <outline text="GeekAndSundry" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaBf1a-dpIsw8OxqH4ki2Kg" htmlUrl="https://www.youtube.com/channel/UCaBf1a-dpIsw8OxqH4ki2Kg"/>
       <outline text="LanguageJones" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVwfqPkv08OTuHzkPU3EaDw" htmlUrl="https://www.youtube.com/channel/UCVwfqPkv08OTuHzkPU3EaDw"/>
-      <outline text="Sandbox" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNPMEL4N_kfEC-w2A6CuPGg" htmlUrl="https://www.youtube.com/channel/UCNPMEL4N_kfEC-w2A6CuPGg"/>
       <outline text="SmarterEveryDay" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA" htmlUrl="https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA"/>
       <outline text="WeirdHistory" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCc-N24Y5OA0gqbjBwe1ttfA" htmlUrl="https://www.youtube.com/channel/UCc-N24Y5OA0gqbjBwe1ttfA"/>
     </outline>
-    <outline text="KidsEntertainment">
+    <outline text="Liam">
       <outline text="Glitch" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn_FAXem2-e3HQvmK-mOH4g" htmlUrl="https://www.youtube.com/channel/UCn_FAXem2-e3HQvmK-mOH4g"/>
       <outline text="SMG4" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8LcA3grYZg0GNpxlXh8owg" htmlUrl="https://www.youtube.com/channel/UC8LcA3grYZg0GNpxlXh8owg"/>
+    </outline>
+    <outline text="MSM">
+      <outline text="BBC News" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.co.uk/news" description="BBC News - News Front Page"/>
+      <outline text="BBC News" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="https://www.bbc.co.uk/news/science_and_environment" description="BBC News - Science &amp; Environment"/>
+      <outline text="BBC News" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/technology/rss.xml" htmlUrl="https://www.bbc.co.uk/news/technology" description="BBC News - Technology"/>
+      <outline text="BBC News" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" htmlUrl="https://www.bbc.co.uk/news/entertainment_and_arts" description="BBC News - Culture"/>
+      <outline text="NPR Topics: Business" type="rss" xmlUrl="https://feeds.npr.org/1006/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1006" description="Find the latest business news with reports on Wall Street, interest rates, banking, companies, and U.S. and world financial markets. Subscribe to the Business Story of the Day podcast."/>
+      <outline text="NPR Topics: Education" type="rss" xmlUrl="https://feeds.npr.org/1013/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1013" description="We've been to school. We know how education works. Right? In fact, many aspects of learning — in homes, at schools, at work and elsewhere — are evolving rapidly, along with our understanding of learning. Join us as we explore how learning happens."/>
+      <outline text="NPR Topics: News" type="rss" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1001" description="NPR news, audio, and podcasts. Coverage of breaking stories, national and world news, politics, business, science, technology, and extended coverage of major national and world events."/>
+      <outline text="NPR Topics: Politics" type="rss" xmlUrl="https://feeds.npr.org/1014/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1014" description="NPR's expanded coverage of U.S. and world politics, the latest news from Congress and the White House and elections."/>
     </outline>
     <outline text="MathScieneAndComputers">
       <outline text="3Blue1Brown" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" htmlUrl="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"/>
@@ -53,13 +79,19 @@
       <outline text="AlexMeltonPopPunk" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy3jC5OdSSrrkbe_496i6gQ" htmlUrl="https://www.youtube.com/channel/UCy3jC5OdSSrrkbe_496i6gQ"/>
       <outline text="LewisCapaldi" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCveFkLdSOUsGwMJEgedO9dQ" htmlUrl="https://www.youtube.com/channel/UCveFkLdSOUsGwMJEgedO9dQ"/>
       <outline text="NinjaSexParty" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs7yDP7KWrh0wd_4qbDP32g" htmlUrl="https://www.youtube.com/channel/UCs7yDP7KWrh0wd_4qbDP32g"/>
+      <outline text="NPR Topics: Music News" type="rss" xmlUrl="https://feeds.npr.org/1106/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1106" description="Current music news, artist interviews, album reviews, and music industry news from NPR Music."/>
       <outline text="Piano-CharlesCornellStudios" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4PIiYewI1YGyiZvgNlJNrA" htmlUrl="https://www.youtube.com/channel/UC4PIiYewI1YGyiZvgNlJNrA"/>
       <outline text="RickBeato" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJquYOG5EL82sKTfH9aMA9Q" htmlUrl="https://www.youtube.com/channel/UCJquYOG5EL82sKTfH9aMA9Q"/>
       <outline text="SteveWelsh" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5NtMaIHhtg13_fOZK9sFSw" htmlUrl="https://www.youtube.com/channel/UC5NtMaIHhtg13_fOZK9sFSw"/>
     </outline>
     <outline text="News">
+      <outline text="Sandbox" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNPMEL4N_kfEC-w2A6CuPGg" htmlUrl="https://www.youtube.com/channel/UCNPMEL4N_kfEC-w2A6CuPGg"/>
       <outline text="TaskAndPurpose" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSq3p5NKEtyp5Rjd4ctiEbg" htmlUrl="https://www.youtube.com/channel/UCSq3p5NKEtyp5Rjd4ctiEbg"/>
       <outline text="TLDRDaily" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCz_3xlMTVUYYTQqCfh9lD7w" htmlUrl="https://www.youtube.com/channel/UCz_3xlMTVUYYTQqCfh9lD7w"/>
+      <outline text="Undercurrents" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp8gH5eyQupeTPKuJu1VpGg" htmlUrl="https://www.youtube.com/channel/UCp8gH5eyQupeTPKuJu1VpGg"/>
+    </outline>
+    <outline text="Theater">
+      <outline text="NPR Topics: Theater" type="rss" xmlUrl="https://feeds.npr.org/1144/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1144" description="Theater"/>
     </outline>
     <outline text="Uncategorized">
       <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub"/>
@@ -71,6 +103,7 @@
     </outline>
     <outline text="YouTube">
       <outline text="HannahBarron" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCglTOXlHB-lhPA9_jofiZwQ" htmlUrl="https://www.youtube.com/channel/UCglTOXlHB-lhPA9_jofiZwQ"/>
+      <outline text="YouTube-Ceelows" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn3hD45v7tT1CmbMjKeL5Iw"/>
     </outline>
   </body>
 </opml>
