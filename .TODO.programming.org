@@ -30,7 +30,28 @@
 * [0%] VLC
     - [ ] Android - see if I can make download work like on iOS
 * TODO [#1] Model View Projection
-    - [ ] Finish the chapter on the perspective projection
+    - [ ] Ch 03
+      - [ ] Add univariate example/problem for temperature
+        - [ ] Discuss Top Level space, why kelvin, why celcius
+      - [ ] Add univariate example/problem for measurement
+      - [ ] Add 2D example/problem for rotating 45 degrees
+    - [ ] Ch 4
+      - [ ] Introduct vector additon, use math notation
+        - [ ] Coordinate Free
+        - [ ] With coordinates
+        - [ ] explain thinking about the two forms, coordinate free is easier to visualize and simpler, coordinates for when the work has to get done
+      - [ ] rename p1oy p2oy
+        - [ ] update plot3.gp
+        - [ ] update plot4.gp
+      - [ ] put in example values for when the user pressed a/e
+        - [ ] say number of times that e has been pressed
+    - [ ] Ch 5
+      - [ ] Add unit test for translate
+      - [ ] Replace inlined example codes with unit test
+    - [ ] Ch 6
+      - [ ] explain a, b, c, d, with names like from geometry
+      - [ ] make tables for whole chapter
+    - [ ] Ch 21 Finish the chapter on the perspective projection
     - [ ] Make the content for VAO, VBO, shaders, etc, from my class git repo
     - [X] make function names on Cayley graphs look better using images
     - [100%] Change modelspace to be size 1 by 3, instead of 10 by 30
