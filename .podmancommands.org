@@ -12,7 +12,7 @@ podman ps -a
 podman rm $(podman ps -a -q -f status=exited)
 * run a different entrypoint
 podman -run -it --rm [name] /bin/bash
-* do port mapping
+* do port mapping hostport:containerport
 podman -r -p 8888:80 [name]
 * stop a container
 podman stop [name]
@@ -22,3 +22,6 @@ podman container run --it --rm -v source:dest:U,Z [name] /bin/bash
 
 * remove a container
 podman rmi containername
+
+* allow container to access host's ports
+--network=host
