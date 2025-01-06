@@ -22,6 +22,16 @@ chmod 600 $SWAPFILE
 mkswap $SWAPFILE
 swapon $SWAPFILE
 
+* Makefile, list targets
+** put this at the top
+.DEFAULT_GOAL := help
+** add comments to each target, like so
+.PHONY: build
+build: ## Build a Podman image
+** put this at bottom
+.PHONY: help
+help:
+        @grep --extended-regexp '^[a-zA-Z0-9_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
 
 * Best game of chess I ever played, against Jay
 
