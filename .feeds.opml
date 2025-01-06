@@ -2,7 +2,7 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 06 Jan 2025 22:34:43 +0000</dateCreated>
+    <dateCreated>Mon, 06 Jan 2025 22:41:50 +0000</dateCreated>
   </head>
   <body>
     <outline text="Adam">
@@ -29,14 +29,17 @@
     <outline text="Commentary">
       <outline text="Ben Shapiro" type="rss" xmlUrl="http://192.168.1.186:8090/?link=https://rumble.com/c/BenShapiro" htmlUrl="https://rumble.com/c/BenShapiro"/>
       <outline text="Breaking Points" type="rss" xmlUrl="https://rss.app/feeds/xH0npYJi4lOfaGsL.xml" htmlUrl="https://www.youtube.com/@breakingpoints" description="Breaking Points with Krystal and Saagar is a fearless anti-establishment Youtube show and podcast."/>
+      <outline text="Donald J. Trump" type="rss" xmlUrl="http://192.168.1.186:8090/?link=https://rumble.com/c/DonaldTrump" htmlUrl="https://rumble.com/c/DonaldTrump"/>
       <outline text="FreshandFit" type="rss" xmlUrl="http://192.168.1.186:8090/?link=https://rumble.com/c/freshandfit" htmlUrl="https://rumble.com/c/freshandfit"/>
       <outline text="Kimberly Guilfoyle" type="rss" xmlUrl="http://192.168.1.186:8090/?link=https://rumble.com/c/KimberlyGuilfoyle" htmlUrl="https://rumble.com/c/KimberlyGuilfoyle"/>
       <outline text="Kim Iversen" type="rss" xmlUrl="http://192.168.1.186:8090/?link=https://rumble.com/c/KimIversen" htmlUrl="https://rumble.com/c/KimIversen"/>
       <outline text="Matt Walsh" type="rss" xmlUrl="http://192.168.1.186:8090/?link=https://rumble.com/c/MattWalsh" htmlUrl="https://rumble.com/c/MattWalsh"/>
+      <outline text="Outspoken_Samantha" type="rss" xmlUrl="http://192.168.1.186:8090/?link=https://rumble.com/c/OutspokenSamantha" htmlUrl="https://rumble.com/c/OutspokenSamantha"/>
       <outline text="Redacted News" type="rss" xmlUrl="http://192.168.1.186:8090/?link=https://rumble.com/c/Redacted" htmlUrl="https://rumble.com/c/Redacted"/>
       <outline text="Russell Brand" type="rss" xmlUrl="http://192.168.1.186:8090/?link=https://rumble.com/c/russellbrand" htmlUrl="https://rumble.com/c/russellbrand" description="Browse the most recent videos from channel &quot;Russell Brand&quot; uploaded to Rumble.com"/>
       <outline text="Sh0eOnHead" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0aanx5rpr7D1M7KCFYzrLQ" htmlUrl="https://www.youtube.com/channel/UC0aanx5rpr7D1M7KCFYzrLQ"/>
       <outline text="Steven Crowder" type="rss" xmlUrl="http://192.168.1.186:8090/?link=https://rumble.com/c/StevenCrowder" htmlUrl="https://rumble.com/c/StevenCrowder"/>
+      <outline text="Sydney Watson" type="rss" xmlUrl="http://192.168.1.186:8090/?link=https://rumble.com/c/sydneywatson" htmlUrl="https://rumble.com/c/sydneywatson"/>
       <outline text="Tate Speech by Andrew Tate" type="rss" xmlUrl="http://192.168.1.186:8090/?link=https://rumble.com/c/TateSpeech" htmlUrl="https://rumble.com/c/TateSpeech"/>
       <outline text="The Jimmy Dore Show" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3M7l8ved_rYQ45AVzS0RGA" htmlUrl="https://www.youtube.com/channel/UC3M7l8ved_rYQ45AVzS0RGA"/>
       <outline text="WarrenSmith" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVnBaemGSz05OUyKmQjIJSA" htmlUrl="https://www.youtube.com/channel/UCVnBaemGSz05OUyKmQjIJSA"/>
