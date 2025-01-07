@@ -35,15 +35,16 @@
         - [ ] Discuss Top Level space, why kelvin, why celcius
       - [ ] Add univariate example/problem for measurement
       - [ ] Add 2D example/problem for rotating 45 degrees
-    - [ ] Ch 4
-      - [ ] Introduct vector additon, use math notation
-        - [ ] Coordinate Free
-        - [ ] With coordinates
+    - [-] Ch 4
+      * [-] Introduct vector additon, use math notation
+        - [X] Coordinate Free
+        - [X] With coordinates
         - [ ] explain thinking about the two forms, coordinate free is easier to visualize and simpler, coordinates for when the work has to get done
-      - [ ] rename p1oy p2oy
-        - [ ] update plot3.gp
-        - [ ] update plot4.gp
-      - [ ] put in example values for when the user pressed a/e
+        - [ ] explain notation, and how x means two different things, and sub 1 and sub 2 mean something different
+      * [X] rename p1oy p2oy
+        - [X] update plot3.gp
+        - [X] update plot4.gp
+      * [ ] put in example values for when the user pressed a/e
         - [ ] say number of times that e has been pressed
     - [ ] Ch 5
       - [ ] Add unit test for translate
