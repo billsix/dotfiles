@@ -2,7 +2,7 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 06 Jan 2025 22:41:50 +0000</dateCreated>
+    <dateCreated>Thu, 09 Jan 2025 20:40:10 -0500</dateCreated>
   </head>
   <body>
     <outline text="Adam">
@@ -22,6 +22,7 @@
     </outline>
     <outline text="Comedy">
       <outline text="DivorcedDad" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq1xxkzK5OQc6wExu9FH5oA" htmlUrl="https://www.youtube.com/channel/UCq1xxkzK5OQc6wExu9FH5oA"/>
+      <outline text="MaximBady" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJY2MPA8T9OTG7dw_MqDlUg" htmlUrl="https://www.youtube.com/channel/UCJY2MPA8T9OTG7dw_MqDlUg"/>
       <outline text="RyanLong" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzKFvBRI6VT3jYJq6a820nA" htmlUrl="https://www.youtube.com/channel/UCzKFvBRI6VT3jYJq6a820nA"/>
       <outline text="SkycorpHomeVideo" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIoDNWuAq3wPv11BXbr5xMg" htmlUrl="https://www.youtube.com/channel/UCIoDNWuAq3wPv11BXbr5xMg"/>
       <outline text="WinCompilation" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk_e9rhSH_Gg4Mp44Ut72ZQ" htmlUrl="https://www.youtube.com/channel/UCk_e9rhSH_Gg4Mp44Ut72ZQ"/>
@@ -82,6 +83,7 @@
       <outline text="BenEater" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCS0N5baNlQWJCUrhCEo8WlA" htmlUrl="https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA"/>
       <outline text="Computerphile" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA" htmlUrl="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA"/>
       <outline text="MarkRober" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg" htmlUrl="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg"/>
+      <outline text="Math Queen" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJG3WmULyY_bZftxF00mXsA" htmlUrl="https://www.youtube.com/channel/UCJG3WmULyY_bZftxF00mXsA"/>
       <outline text="Numberphile" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A" htmlUrl="https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A"/>
       <outline text="PBSSpacetime" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g" htmlUrl="https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g"/>
       <outline text="ProgrammersArePeople" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w" htmlUrl="https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w"/>
