@@ -31,8 +31,7 @@
     - [ ] Android - see if I can make download work like on iOS
 * TODO [#1] Model View Projection
     - [ ] remove all del() code, make destruction explicit at end
-    - [ ] Switch all instructions to use spyder as ide
-    - [ ] refactor framerate code to variable - this will make formatting better
+    - [X] Switch all instructions to use spyder as ide
     - [ ] Ch 01
       - [ ] Fix proportions of monitors
       - [ ] Fix doc regions line 23, line 27, line 32
