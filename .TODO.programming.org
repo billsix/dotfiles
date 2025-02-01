@@ -32,11 +32,11 @@
 * TODO [#1] Model View Projection
     - [ ] remove all del() code, make destruction explicit at end
     - [X] Switch all instructions to use spyder as ide
-    - [ ] Ch 01
-      - [ ] Fix proportions of monitors
-      - [ ] Fix doc regions line 23, line 27, line 32
-      - [ ] Line 51, mention no idea what None, Noe means, mention looking up API vs keyword arguments
-      - [ ] doubler, print out it's values
+    - [X] Ch 01
+      - [X] Fix proportions of monitors
+      - [X] Fix doc regions line 23, line 27, line 32
+      - [X] Line 51, mention no idea what None, Noe means, mention looking up API vs keyword arguments
+      - [X] doubler, print out it's values
     - [ ] Ch 02
       - [ ] Cayley graph example of temperature, kelvin centegrade farenheight
     - [ ] Ch 03
