@@ -37,14 +37,14 @@
       - [X] Fix doc regions line 23, line 27, line 32
       - [X] Line 51, mention no idea what None, Noe means, mention looking up API vs keyword arguments
       - [X] doubler, print out it's values
-    - [ ] Ch 02
-      - [ ] Cayley graph example of temperature, kelvin centegrade farenheight
-    - [ ] Ch 03
-      - [ ] Add univariate example/problem for temperature
-        - [ ] Discuss Top Level space, why kelvin, why celcius
+    - [X] Ch 02
+      - [X] Cayley graph example of temperature, kelvin centegrade farenheight
+    - [-] Ch 03
+      - [X] Add univariate example/problem for temperature
+        - [X] Discuss Top Level space, why kelvin, why celcius
       - [ ] Add univariate example/problem for measurement
       - [ ] Add 2D example/problem for rotating 45 degrees
-      - [ ] lines 90-96 mention keyword arguments again
+      - [X] lines 90-96 mention keyword arguments again
     - [-] Ch 4
       * [-] Introduct vector additon, use math notation
         - [X] Coordinate Free
