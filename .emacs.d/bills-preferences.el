@@ -34,3 +34,8 @@
 
 (global-company-mode)
 (setq company-minimum-prefix-length 1)
+
+; force transparancy for streaming
+(if (eq (framep (selected-frame)) 't)
+    (custom-set-faces
+     '(default ((t (:background "unspecified-bg"))))))
