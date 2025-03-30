@@ -1,8 +1,8 @@
 
 * TODO Indoor [%]
-** TODO Basement [%]
+** TODO Basement [11%]
 *** TODO Each basket of kids' clothes to appropriate bed.  Make them put it away.  Take baskets back to laundry room.
-*** TODO Donation items moved to bin in dining room
+*** DONE Donation items moved to bin in dining room
 *** TODO Adam's Monster Smash (or whatever) stuff in the storage area.
 *** TODO Clean-up and organize your computer desk
 *** TODO Clean-up and organize all of your music-y stuff.  Drum sticks off floor.
@@ -28,12 +28,14 @@ Any plastic wrap or related stuff - cabinet under the air fryer or basement kitc
 *** TODO Miscellany on the mantle - put away
 *** TODO Fish tank aquarium thing - to the basement
 
-** TODO Office (15-20 minutes, max, for you, plus 10ish minutes for and with the kids) [%]
-*** TODO Stuff off tops of bookshelves - stick it in a cabinet, or take it downstairs and put it on the bigger shelves there
-*** TODO Your bin of miscellany - please figure it out - I feel like things go there to die.
-*** TODO The shelves with controllers, half of which I haven't seen anyone touch in the entire time we've been dating: do these all need to live upstairs, or can they go in the basement?  If not, or if some must live upstairs, can they live in the (currently) empty drawer in the shelves with the games?  I feel like this shelf is just a dust-catcher and another place for the kids to throw random things (I've picked so many food wrappers and small toys off of these shelves).  If the shelves end up empty, please break down and move to the basement storage room with the other parts.
+** TODO Office (15-20 minutes, max, for you, plus 10ish minutes for and with the kids) [66%]
+*** DONE Stuff off tops of bookshelves - stick it in a cabinet, or take it downstairs and put it on the bigger shelves there
+*** DONE Your bin of miscellany - please figure it out - I feel like things go there to die.
+*** DONE The shelves with controllers, half of which I haven't seen anyone touch in the entire time we've been dating: do these all need to live upstairs, or can they go in the basement?  If not, or if some must live upstairs, can they live in the (currently) empty drawer in the shelves with the games?  I feel like this shelf is just a dust-catcher and another place for the kids to throw random things (I've picked so many food wrappers and small toys off of these shelves).  If the shelves end up empty, please break down and move to the basement storage room with the other parts.
+<2025-03-30 Sun 16:55> It's good for the controllers.  I want to keep it here.  I put the non video games stuff downstairs
 *** TODO The "subject to purge" bin in the labeled rolling cart thing - re-allocate to appropriate other bins, or actually purge.
-*** TODO Your bin - please put your stuff away, where it belongs.
+*** DONE Your bin - please put your stuff away, where it belongs.
+<2025-03-30 Sun 16:56>  Duplicate of "Your bin of miscellany"
 *** TODO The kids' bins - have the kids put the stuff AWAY.  This may require you taking one kid at a time and following them around (basement, bathroom, bedroom) to put the stuff away.  Most of that stuff has been there since you put it in the bins.  These are meant to be staging areas, not collection bins.
 
 ** TODO Dining room [20%]
@@ -60,14 +62,18 @@ Any plastic wrap or related stuff - cabinet under the air fryer or basement kitc
 *** TODO There are literally 9 tubes of open toothpaste for 3 children, and well more than 3 toothbrushes.  WTF.  Figure out who uses what, leave one tube of each, kidnap the others, and put them on my desk.  We will figure out where to put them to have them RATIONED back out as tubes are actually emptied. Discard excess toothbrushes.
 *** TODO Figure out what is in the drawers. Take it out.  Assign a drawer to each child.  Label each.  Have said child put their crap in their drawer.
 
-** TODO Your Bedroom [22%]
+** TODO Your Bedroom [33%]
 *** TODO Put clothes away - hamper, laundry, whatever - as applicable
 *** TODO Billapalooza "art" (stuff of nightmares) and Welcome to Billville sign to basement
 *** TODO Suitcase - empty it, put the stuff inside where it belongs (hung in entryway closet, on shoe rack in entryway closet, in laundry, in your closet/dresser, etc.), put the suitcase AND THE ONE IN YOUR CLOSET ON THE SHELF in the basement storage room with the other suitcases
 *** TODO Books in closet - please put away either in office or in basement
-*** TODO Comforter and blanket on the floor of closet - need a visit to a laundrymat.  Once clean, put IN A BASKET (!!!) and leave for me to put away, please
+*** DONE Comforter and blanket on the floor of closet - need a visit to a laundrymat.  Once clean, put IN A BASKET (!!!) and leave for me to put away, please
+<2025-03-30 Sun 16:46> In blue tub in laundry room
 *** TODO Random crap on top of dresser - please put away/throw away
-*** TODO Laundry - to basement.  Needs to be washed AND THEN FOLDED AND PUT AWAY. Return laundry baskets to laundry room once empty.
+*** TODO Laundry - to basement. [%]
+**** TODO Needs to be washed AND
+**** TODO THEN FOLDED AND PUT AWAY.
+**** TODO Return laundry baskets to laundry room once empty.
 *** DONE Put a bag in the empty white trash bin and put this trash bin in Adam & Kate's room
 <2025-03-30 Sun> threw trash can away, as I hadn't read this on before I threw it away
 *** DONE Lamp on floor - suggest this goes on your dresser once clean.
