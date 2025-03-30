@@ -12,10 +12,16 @@
 *** TODO If you have time and motivation, organize the cords in the entertainment center.  Doesn't have to be perfect, just needs to be better than it is.
 
 ** TODO Kitchen [%]
-*** TODO Crap off of tops of shelves
--->Pans in the cabinet.  Stick a few paper towels in the cast iron (so it doesn't get scratched) and add it to a stack of pots or something.  Lid off the wok, stack it under the frying pans I bought, add the lid on top.
--->Any plastic wrap or related stuff - cabinet under the air fryer or basement kitchenette (in cabinets that you will CLOSE!!!)
--->HVAC filters to basement storage room
+*** TODO Crap off of tops of shelves [%]
+**** TODO Pans in the cabinet. [%]
+***** TODO Cast Iron
+Stick a few paper towels in the cast iron (so it doesn't get scratched) and add it to a stack of pots or something.
+***** TODO Wok
+Lid off the wok, stack it under the frying pans I bought, add the lid on top.
+***** TODO Plastic Wrap
+Any plastic wrap or related stuff - cabinet under the air fryer or basement kitchenette
+***** TODO Cabinents, close them
+***** TODO HVAC filters to basement storage room
 *** TODO Fix chair with the screws I bought
 
 ** TODO Living room [%]
