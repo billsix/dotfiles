@@ -37,8 +37,6 @@ Any plastic wrap or related stuff - cabinet under the air fryer or basement kitc
 *** TODO The kids' bins - have the kids put the stuff AWAY.  This may require you taking one kid at a time and following them around (basement, bathroom, bedroom) to put the stuff away.  Most of that stuff has been there since you put it in the bins.  These are meant to be staging areas, not collection bins.
 
 ** TODO Dining room [20%]
-*** DONE Bin of stuff to donate to SMILE on Saturday 3/29 - includes pillows, stuff you will have brought up from the basement, and the towel rack
-<2025-03-30 Sun 14:21> A bunch of stuff done yesterday, put the stuff from the basement up in the black bin
 *** TODO Dump [75%]
 **** DONE Cardboard and trash to dump along with contents of
 **** DONE recycling bins in kitchen,
@@ -48,6 +46,8 @@ Any plastic wrap or related stuff - cabinet under the air fryer or basement kitc
 *** TODO What is in your bin?  Please put it away.
 *** TODO Folding basket back in your car. It's been on the shelf
 
+*** DONE Bin of stuff to donate to SMILE on Saturday 3/29 - includes pillows, stuff you will have brought up from the basement, and the towel rack
+<2025-03-30 Sun 14:21> A bunch of stuff done yesterday, put the stuff from the basement up in the black bin
 ** TODO Li's Room [%]
 *** TODO Toys (closet, floor) and bins to the basement; toys on his shelf; bins in the storage area
 *** TODO Shelf he is using as a precarious desk to the basement and in the base of Adam's shelf.  Let's discuss later whether he needs some other flat surface to sit at (I don't think he does but could be convinced otherwise), but if that shelf falls on a foot, it's going to be a couple broken toes.
@@ -63,35 +63,35 @@ Any plastic wrap or related stuff - cabinet under the air fryer or basement kitc
 ** TODO Your Bedroom [22%]
 *** TODO Put clothes away - hamper, laundry, whatever - as applicable
 *** TODO Billapalooza "art" (stuff of nightmares) and Welcome to Billville sign to basement
-*** DONE Put a bag in the empty white trash bin and put this trash bin in Adam & Kate's room
-<2025-03-30 Sun> threw trash can away, as I hadn't read this on before I threw it away
 *** TODO Suitcase - empty it, put the stuff inside where it belongs (hung in entryway closet, on shoe rack in entryway closet, in laundry, in your closet/dresser, etc.), put the suitcase AND THE ONE IN YOUR CLOSET ON THE SHELF in the basement storage room with the other suitcases
 *** TODO Books in closet - please put away either in office or in basement
 *** TODO Comforter and blanket on the floor of closet - need a visit to a laundrymat.  Once clean, put IN A BASKET (!!!) and leave for me to put away, please
 *** TODO Random crap on top of dresser - please put away/throw away
+*** TODO Laundry - to basement.  Needs to be washed AND THEN FOLDED AND PUT AWAY. Return laundry baskets to laundry room once empty.
+*** DONE Put a bag in the empty white trash bin and put this trash bin in Adam & Kate's room
+<2025-03-30 Sun> threw trash can away, as I hadn't read this on before I threw it away
 *** DONE Lamp on floor - suggest this goes on your dresser once clean.
 <2025-03-30 Sun 14:20> I threw it away, no need for it
-*** TODO Laundry - to basement.  Needs to be washed AND THEN FOLDED AND PUT AWAY. Return laundry baskets to laundry room once empty.
 * TODO Outdoor [62%]
-** DONE Weedwack
 ** TODO spray [75%]
+*** TODO If you’re having fun spraying, please also attack the weeds in the driveway.
 *** DONE please spray the roundup that is outside the front door,
 *** DONE by the chair on the right when you walk outside,
 *** DONE on the weeds in the white rocks in front of the porch and around the corner toward the driveway.
-*** TODO If you’re having fun spraying, please also attack the weeds in the driveway.
-** DONE children’s bat in side yard needs to go in the toy bin on the front porch
-** DONE shovel in backyard needs to go in the shed, please
 ** TODO  General debris pick-up from backyard. [55%]
-*** DONE Nutter butter wrapper
-*** DONE green cup
-*** DONE yellow plastic stick
-*** DONE plastic wrapper
 *** TODO At least one banana peel,
 *** TODO a couple bottles,
 *** TODO a can and other detritus.
 *** TODO Janky hose can be disposed of
+*** DONE Nutter butter wrapper
+*** DONE green cup
+*** DONE yellow plastic stick
+*** DONE plastic wrapper
 *** DONE and handles can be disposed of
 **** TODO I will purchase better, less janky ones (gotta be prepared to fill super soakers, duh)
+** TODO please thoroughly mulch leaves in yard - front, back and sides
+** DONE Weedwack
+** DONE children’s bat in side yard needs to go in the toy bin on the front porch
+** DONE shovel in backyard needs to go in the shed, please
 ** DONE please blow leaves and debris off of front porch
 ** DONE please blow leaves out of white gravel areas where you will have sprayed round-up previously
-** TODO please thoroughly mulch leaves in yard - front, back and sides
