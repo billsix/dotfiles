@@ -62,14 +62,17 @@ Any plastic wrap or related stuff - cabinet under the air fryer or basement kitc
 *** TODO There are literally 9 tubes of open toothpaste for 3 children, and well more than 3 toothbrushes.  WTF.  Figure out who uses what, leave one tube of each, kidnap the others, and put them on my desk.  We will figure out where to put them to have them RATIONED back out as tubes are actually emptied. Discard excess toothbrushes.
 *** TODO Figure out what is in the drawers. Take it out.  Assign a drawer to each child.  Label each.  Have said child put their crap in their drawer.
 
-** TODO Your Bedroom [55%]
+** TODO Your Bedroom [77%]
 *** TODO Put clothes away - hamper, laundry, whatever - as applicable
-*** TODO Billapalooza "art" (stuff of nightmares) and Welcome to Billville sign to basement
-*** TODO Random crap on top of dresser - please put away/throw away
-*** TODO Laundry - to basement. [%]
-**** TODO Needs to be washed AND
-**** TODO THEN FOLDED AND PUT AWAY.
-**** TODO Return laundry baskets to laundry room once empty.
+*** DONE Billapalooza "art" (stuff of nightmares) and Welcome to Billville sign to basement
+*** DONE Random crap on top of dresser - please put away/throw away
+*** TODO Laundry - to basement. [16%]
+**** DONE Round 1 Needs to be washed AND
+**** TODO Round 1 THEN FOLDED AND PUT AWAY.
+**** TODO Round 1 Return laundry baskets to laundry room once empty.
+**** TODO Round 2 Needs to be washed AND
+**** TODO Round 2 THEN FOLDED AND PUT AWAY.
+**** TODO Round 2 Return laundry baskets to laundry room once empty.
 *** DONE Suitcase - empty it, put the stuff inside where it belongs (hung in entryway closet, on shoe rack in entryway closet, in laundry, in your closet/dresser, etc.), put the suitcase AND THE ONE IN YOUR CLOSET ON THE SHELF in the basement storage room with the other suitcases
 <2025-03-30 Sun 18:22> Put it in the laundre room, but I don't want to put it on the shelf
 *** DONE Books in closet - please put away either in office or in basement
