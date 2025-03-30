@@ -2,17 +2,17 @@
 * TODO Indoor [%]
 ** TODO Basement [11%]
 *** TODO Each basket of kids' clothes to appropriate bed.  Make them put it away.  Take baskets back to laundry room.
-*** TODO Adam's Monster Smash (or whatever) stuff in the storage area.
+*** TODO [#1] Adam's Monster Smash (or whatever) stuff in the storage area.
 *** TODO Clean-up and organize your computer desk
-*** TODO Clean-up and organize all of your music-y stuff.  Drum sticks off floor.
-*** TODO Miscellaneous stuff around the kitchenette put away or thrown away so that it is not visible.
-*** TODO Extra shelf parts currently on the floor in a ziploc baggie or some other receptacle to be stored in laundry room/storage area.
-*** TODO Extra shelf to shed (built or not doesn't matter at this point)
-*** TODO If you have time and motivation, organize the cords in the entertainment center.  Doesn't have to be perfect, just needs to be better than it is.
+*** TODO [#1] Clean-up and organize all of your music-y stuff.  Drum sticks off floor.
+*** TODO [#1] Miscellaneous stuff around the kitchenette put away or thrown away so that it is not visible.
+*** TODO [#1] Extra shelf parts currently on the floor in a ziploc baggie or some other receptacle to be stored in laundry room/storage area.
+*** TODO [#1] Extra shelf to shed (built or not doesn't matter at this point)
+*** TODO [#10] If you have time and motivation, organize the cords in the entertainment center.  Doesn't have to be perfect, just needs to be better than it is.
 
 *** DONE Donation items moved to bin in dining room
 ** TODO Kitchen [%]
-*** TODO Crap off of tops of shelves [%]
+*** TODO [#2] Crap off of tops of shelves [%]
 **** TODO Pans in the cabinet. [60%]
 ***** TODO Cast Iron
 Stick a few paper towels in the cast iron (so it doesn't get scratched) and add it to a stack of pots or something.
@@ -22,15 +22,15 @@ Lid off the wok, stack it under the frying pans I bought, add the lid on top.
 Any plastic wrap or related stuff - cabinet under the air fryer or basement kitchenette
 ***** DONE Cabinents, close them
 ***** DONE HVAC filters to basement storage room
-*** TODO Fix chair with the screws I bought
+*** TODO [#3] Fix chair with the screws I bought
 
 ** TODO Living room [%]
-*** TODO Miscellany on the mantle - put away
-*** TODO Fish tank aquarium thing - to the basement
+*** TODO [#4] Miscellany on the mantle - put away
+*** TODO [#4] Fish tank aquarium thing - to the basement
 
 ** TODO Office (15-20 minutes, max, for you, plus 10ish minutes for and with the kids) [66%]
-*** TODO The "subject to purge" bin in the labeled rolling cart thing - re-allocate to appropriate other bins, or actually purge.
-*** TODO The kids' bins - have the kids put the stuff AWAY.  This may require you taking one kid at a time and following them around (basement, bathroom, bedroom) to put the stuff away.  Most of that stuff has been there since you put it in the bins.  These are meant to be staging areas, not collection bins.
+*** TODO [#3] The "subject to purge" bin in the labeled rolling cart thing - re-allocate to appropriate other bins, or actually purge.
+*** TODO [#2] The kids' bins - have the kids put the stuff AWAY.  This may require you taking one kid at a time and following them around (basement, bathroom, bedroom) to put the stuff away.  Most of that stuff has been there since you put it in the bins.  These are meant to be staging areas, not collection bins.
 
 *** DONE Stuff off tops of bookshelves - stick it in a cabinet, or take it downstairs and put it on the bigger shelves there
 *** DONE Your bin of miscellany - please figure it out - I feel like things go there to die.
@@ -44,9 +44,9 @@ Any plastic wrap or related stuff - cabinet under the air fryer or basement kitc
 **** DONE recycling bins in kitchen,
 **** DONE kitchen trash
 **** TODO other stuff in shed currently
-*** TODO Empty water bottles back to Weis
-*** TODO What is in your bin?  Please put it away.
-*** TODO Folding basket back in your car. It's been on the shelf
+*** TODO [#5] Empty water bottles back to Weis
+*** TODO [#5] What is in your bin?  Please put it away.
+*** TODO [#2] Folding basket back in your car. It's been on the shelf
 
 *** DONE Bin of stuff to donate to SMILE on Saturday 3/29 - includes pillows, stuff you will have brought up from the basement, and the towel rack
 <2025-03-30 Sun 14:21> A bunch of stuff done yesterday, put the stuff from the basement up in the black bin
