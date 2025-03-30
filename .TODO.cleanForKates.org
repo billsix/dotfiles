@@ -66,20 +66,24 @@
 *** DONE Lamp on floor - suggest this goes on your dresser once clean.
 <2025-03-30 Sun 14:20> I threw it away, no need for it
 *** TODO Laundry - to basement.  Needs to be washed AND THEN FOLDED AND PUT AWAY. Return laundry baskets to laundry room once empty.
-* TODO Outdoor [28%]
-** TODO spray [%]
-*** TODO please spray the roundup that is outside the front door,
-*** TODO by the chair on the right when you walk outside,
-*** TODO on the weeds in the white rocks in front of the porch and around the corner toward the driveway.
+* TODO Outdoor [42%]
+** TODO spray [75%]
+*** DONE please spray the roundup that is outside the front door,
+*** DONE by the chair on the right when you walk outside,
+*** DONE on the weeds in the white rocks in front of the porch and around the corner toward the driveway.
 *** TODO If you’re having fun spraying, please also attack the weeds in the driveway.
 ** DONE children’s bat in side yard needs to go in the toy bin on the front porch
 ** DONE shovel in backyard needs to go in the shed, please
-** TODO  General debris pick-up from backyard. [%]
+** TODO  General debris pick-up from backyard. [50%]
+*** DONE Nutter butter wrapper
+*** DONE green cup
+*** DONE yellow plastic stick
+*** DONE plastic wrapper
 *** TODO At least one banana peel,
 *** TODO a couple bottles,
 *** TODO a can and other detritus.
 *** TODO Janky hose and handles can be disposed of
 **** TODO I will purchase better, less janky ones (gotta be prepared to fill super soakers, duh)
 ** TODO please blow leaves and debris off of front porch
-** TODO please blow leaves out of white gravel areas where you will have sprayed round-up previously
+** DONE please blow leaves out of white gravel areas where you will have sprayed round-up previously
 ** TODO please thoroughly mulch leaves in yard - front, back and sides
