@@ -43,9 +43,26 @@ Bake after at 400 degrees farenheight for 15 minutes
 *** Chicken Breast
 Temp: 150
 Time: 1.5 - 3 hours
+*** Chicken Theigh
+Temp: 170
+Time: 2 - 3 hours
 *** Eggs
 Temp: 145
 Time: at least 2 hours
+*** Salmon
+Temp: 130
+Time: 60-70 minutes
+*** Steak
+**** Medium Rare
+Temp: 130
+Time: 1:30-4 hours
+**** Medium
+Temp: 140
+Time: 1:30-4 hours
+
+**** Medium Well
+Temp: 150
+Time: 1:30-4 hours
 ** Slow cook
 *** Mashed potates
 Wash and peel potatoes
