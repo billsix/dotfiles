@@ -1,10 +1,11 @@
 
 * TODO Indoor [%]
-** TODO Basement [11%]
-*** TODO [#1] Adam's Monster Smash (or whatever) stuff in the storage area.
-*** TODO [#1] Clean-up and organize all of your music-y stuff.  Drum sticks off floor.
+** TODO Basement [40%]
+*** DONE [#1] Adam's Monster Smash (or whatever) stuff in the storage area.
+*** TODO [#1] Clean-up and organize all of your music-y stuff.
+*** DONE Drum sticks off floor.
 *** TODO [#1] Miscellaneous stuff around the kitchenette put away or thrown away so that it is not visible.
-*** TODO [#1] Extra shelf parts currently on the floor in a ziploc baggie or some other receptacle to be stored in laundry room/storage area.
+*** DONE [#1] Extra shelf parts currently on the floor in a ziploc baggie or some other receptacle to be stored in laundry room/storage area.
 *** TODO [#1] Extra shelf to shed (built or not doesn't matter at this point)
 *** TODO [#10] If you have time and motivation, organize the cords in the entertainment center.  Doesn't have to be perfect, just needs to be better than it is.
 
