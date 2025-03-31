@@ -1,18 +1,18 @@
 
 * TODO Indoor [%]
-** TODO Basement [40%]
-*** DONE [#1] Adam's Monster Smash (or whatever) stuff in the storage area.
+** TODO Basement [50%]
 *** TODO [#1] Clean-up and organize all of your music-y stuff.
-*** DONE Drum sticks off floor.
 *** TODO [#1] Miscellaneous stuff around the kitchenette put away or thrown away so that it is not visible.
-*** DONE [#1] Extra shelf parts currently on the floor in a ziploc baggie or some other receptacle to be stored in laundry room/storage area.
-*** TODO [#1] Extra shelf to shed (built or not doesn't matter at this point)
 *** TODO [#10] If you have time and motivation, organize the cords in the entertainment center.  Doesn't have to be perfect, just needs to be better than it is.
 
 *** TODO Each basket of kids' clothes to appropriate bed.  Make them put it away.  Take baskets back to laundry room.
 *** TODO Clean-up and organize your computer desk
+*** DONE [#1] Adam's Monster Smash (or whatever) stuff in the storage area.
+*** DONE Drum sticks off floor.
+*** DONE [#1] Extra shelf parts currently on the floor in a ziploc baggie or some other receptacle to be stored in laundry room/storage area.
+*** DONE [#1] Extra shelf to shed (built or not doesn't matter at this point)
 *** DONE Donation items moved to bin in dining room
-** TODO Kitchen [%]
+** TODO Kitchen [50%]
 *** TODO [#2] Crap off of tops of shelves [%]
 **** TODO Pans in the cabinet. [60%]
 ***** TODO Cast Iron
@@ -23,7 +23,7 @@ Lid off the wok, stack it under the frying pans I bought, add the lid on top.
 Any plastic wrap or related stuff - cabinet under the air fryer or basement kitchenette
 ***** DONE Cabinents, close them
 ***** DONE HVAC filters to basement storage room
-*** TODO [#3] Fix chair with the screws I bought
+*** DONE [#3] Fix chair with the screws I bought
 
 ** TODO Living room [%]
 *** TODO [#4] Miscellany on the mantle - put away
@@ -39,10 +39,7 @@ Any plastic wrap or related stuff - cabinet under the air fryer or basement kitc
 <2025-03-30 Sun 16:55> It's good for the controllers.  I want to keep it here.  I put the non video games stuff downstairs
 *** DONE Your bin - please put your stuff away, where it belongs.
 <2025-03-30 Sun 16:56>  Duplicate of "Your bin of miscellany"
-** TODO Dining room [20%]
-*** TODO [#2] Folding basket back in your car. It's been on the shelf
-
-*** TODO [#5] Empty water bottles back to Weis
+** TODO Dining room [50%]
 *** TODO [#5] What is in your bin?  Please put it away.
 *** TODO Dump [75%]
 **** DONE Cardboard and trash to dump along with contents of
@@ -51,6 +48,9 @@ Any plastic wrap or related stuff - cabinet under the air fryer or basement kitc
 **** TODO other stuff in shed currently
 **** DONE Bin of stuff to donate to SMILE on Saturday 3/29 - includes pillows, stuff you will have brought up from the basement, and the towel rack
 <2025-03-30 Sun 14:21> A bunch of stuff done yesterday, put the stuff from the basement up in the black bin
+*** DONE [#2] Folding basket back in your car. It's been on the shelf
+
+*** DONE [#5] Empty water bottles back to Weis
 ** TODO Li's Room [%]
 *** TODO Toys (closet, floor) and bins to the basement; toys on his shelf; bins in the storage area
 *** TODO Shelf he is using as a precarious desk to the basement and in the base of Adam's shelf.  Let's discuss later whether he needs some other flat surface to sit at (I don't think he does but could be convinced otherwise), but if that shelf falls on a foot, it's going to be a couple broken toes.
