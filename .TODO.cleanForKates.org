@@ -1,11 +1,11 @@
 
 * TODO Indoor [%]
-** TODO Basement [50%]
+** TODO Basement [60%]
 *** TODO [#1] Clean-up and organize all of your music-y stuff.
 *** TODO [#1] Miscellaneous stuff around the kitchenette put away or thrown away so that it is not visible.
 *** TODO [#10] If you have time and motivation, organize the cords in the entertainment center.  Doesn't have to be perfect, just needs to be better than it is.
 
-*** TODO Each basket of kids' clothes to appropriate bed.  Make them put it away.  Take baskets back to laundry room.
+*** DONE Each basket of kids' clothes to appropriate bed.  Make them put it away.  Take baskets back to laundry room.
 *** TODO Clean-up and organize your computer desk
 *** DONE [#1] Adam's Monster Smash (or whatever) stuff in the storage area.
 *** DONE Drum sticks off floor.
@@ -39,8 +39,8 @@ Any plastic wrap or related stuff - cabinet under the air fryer or basement kitc
 <2025-03-30 Sun 16:55> It's good for the controllers.  I want to keep it here.  I put the non video games stuff downstairs
 *** DONE Your bin - please put your stuff away, where it belongs.
 <2025-03-30 Sun 16:56>  Duplicate of "Your bin of miscellany"
-** TODO Dining room [50%]
-*** TODO [#5] What is in your bin?  Please put it away.
+** TODO Dining room [75%]
+*** DONE [#5] What is in your bin?  Please put it away.
 *** TODO Dump [75%]
 **** DONE Cardboard and trash to dump along with contents of
 **** DONE recycling bins in kitchen,
@@ -63,15 +63,15 @@ Any plastic wrap or related stuff - cabinet under the air fryer or basement kitc
 *** TODO There are literally 9 tubes of open toothpaste for 3 children, and well more than 3 toothbrushes.  WTF.  Figure out who uses what, leave one tube of each, kidnap the others, and put them on my desk.  We will figure out where to put them to have them RATIONED back out as tubes are actually emptied. Discard excess toothbrushes.
 *** TODO Figure out what is in the drawers. Take it out.  Assign a drawer to each child.  Label each.  Have said child put their crap in their drawer.
 
-** TODO Your Bedroom [77%]
-*** TODO Put clothes away - hamper, laundry, whatever - as applicable
+** TODO Your Bedroom [88%]
+*** DONE Put clothes away - hamper, laundry, whatever - as applicable
 *** DONE Billapalooza "art" (stuff of nightmares) and Welcome to Billville sign to basement
 *** DONE Random crap on top of dresser - please put away/throw away
-*** TODO Laundry - to basement. [16%]
+*** TODO Laundry - to basement. [66%]
 **** DONE Round 1 Needs to be washed AND
-**** TODO Round 1 THEN FOLDED AND PUT AWAY.
-**** TODO Round 1 Return laundry baskets to laundry room once empty.
-**** TODO Round 2 Needs to be washed AND
+**** DONE Round 1 THEN FOLDED AND PUT AWAY.
+**** DONE Round 1 Return laundry baskets to laundry room once empty.
+**** DONE Round 2 Needs to be washed AND
 **** TODO Round 2 THEN FOLDED AND PUT AWAY.
 **** TODO Round 2 Return laundry baskets to laundry room once empty.
 *** DONE Suitcase - empty it, put the stuff inside where it belongs (hung in entryway closet, on shoe rack in entryway closet, in laundry, in your closet/dresser, etc.), put the suitcase AND THE ONE IN YOUR CLOSET ON THE SHELF in the basement storage room with the other suitcases
