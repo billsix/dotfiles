@@ -13,7 +13,7 @@
 (visual-line-mode t)
 (global-visual-line-mode t)
 (global-display-line-numbers-mode t)
-(setq display-line-numbers-type 'relative)
+;;(setq display-line-numbers-type 'relative)
 (set-buffer-file-coding-system 'unix)
 
 (setq make-backup-files nil)
