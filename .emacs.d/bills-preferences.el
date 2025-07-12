@@ -33,7 +33,9 @@
   :hook (emacs-lisp-mode . eglot-ensure))
 
 (global-company-mode)
+(setq company-idle-delay 0)
 (setq company-minimum-prefix-length 1)
+
 
 ; force transparancy for streaming
 (if (eq (framep (selected-frame)) 't)
