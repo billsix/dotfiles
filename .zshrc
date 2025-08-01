@@ -4,5 +4,5 @@ export LSCOLORS=GxFxCxDxBxegedabagaced
 
 export PATH=/opt/homebrew/bin:$PATH
 
-PROMPT='%F{green}➤ %~ %F{black}▸%f '
+PROMPT='%F{green}➤ %F{blue}%1~%f %F{black}▸%f '
 
