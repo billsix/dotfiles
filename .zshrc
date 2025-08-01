@@ -3,3 +3,6 @@ export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
 
 export PATH=/opt/homebrew/bin:$PATH
+
+PROMPT='%F{green}➤ %~ %F{black}▸%f '
+
