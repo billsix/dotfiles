@@ -6,3 +6,4 @@ emerge -uv --keep-going y @world && \
 emerge -uDNv --keep-going y @world && \
 emerge -uv @preserved-rebuild && \
 emerge --depclean
+emerge -v @preserved-rebuild
