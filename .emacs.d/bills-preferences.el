@@ -5,7 +5,7 @@
 (menu-bar-mode -1)
 (setq inhibit-startup-message t)        ; Disable startup message
 (setq-default indent-tabs-mode nil)
-(set-face-attribute 'default nil :height 180)
+(set-face-attribute 'default nil :height 120)
 
 (add-hook 'before-save-hook 'delete-trailing-whitespace)
 
