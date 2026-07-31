@@ -1,3 +1,33 @@
-
 [window]
-opacity = 0.85
+opacity = 0.90
+blur = true                    # Enables background blur (macOS/KDE/Gnome with extensions)
+dynamic_title = true           # Allows apps to change the terminal title
+
+[window.padding]
+x = 12                         # Left/right inner window padding
+y = 12                         # Top/bottom inner window padding
+
+[colors.primary]
+background = "#000000"         # Pure black Matrix void
+foreground = "#00FF66"         # Main default text is green
+
+# Factory standard terminal colors so tmux and CLI tools render properly
+[colors.normal]
+black   = "#000000"
+red     = "#cd0000"
+green   = "#00cd00"
+yellow  = "#cdcd00"
+blue    = "#0000ee"
+magenta = "#cd00cd"
+cyan    = "#00cdcd"
+white   = "#e5e5e5"
+
+[colors.bright]
+black   = "#7f7f7f"
+red     = "#ff0000"
+green   = "#00ff00"
+yellow  = "#ffff00"
+blue    = "#5c5cff"
+magenta = "#ff00ff"
+cyan    = "#00ffff"
+white   = "#ffffff"
