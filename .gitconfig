@@ -33,3 +33,8 @@
 	required = true
 [credential]
 	helper = cache --timeout=3600
+[format]
+	useAutoBase = true
+	coverLetter = auto
+[am]
+	threeWay = true
