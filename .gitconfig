@@ -14,6 +14,7 @@
         dw = diff --word-diff=color
 [log]
 	decorate = true
+	follow = true
 [pull]
 	ff = only
 [rebase]
