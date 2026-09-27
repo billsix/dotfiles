@@ -2,3 +2,14 @@ PS1='\[\e[36m\]┌─(\t) \[\e[32m\]\u@\h:\w\n\[\e[36m\]└─λ \[\e[0m\]'
 
 export USE_EMACS=1
 export VIRTUAL_ENV_DISABLE_PROMPT=1
+
+# Default nested-podman ON for MY dev workflow, set in the HOST env before `make shell`.
+# runClaudeInContainer/runCrushInContainer read $NESTED_PODMAN at Makefile parse time
+# (NESTED_PODMAN ?= 0) to add the podman-in-podman capability flags AND to forward
+# `-e NESTED_PODMAN=1` into the session. It must be set on the host, not inside the
+# container (a container-side .extrabashrc loads too late for the Makefile to see it),
+# and it lives HERE in my personal dotfiles so it isn't forced on anyone who forks those
+# projects. Only defaulted when unset, so `make shell NESTED_PODMAN=0` still wins.
+if [ -z "${NESTED_PODMAN:-}" ]; then
+    export NESTED_PODMAN=1
+fi
