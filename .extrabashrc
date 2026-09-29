@@ -13,3 +13,7 @@ export VIRTUAL_ENV_DISABLE_PROMPT=1
 if [ -z "${NESTED_PODMAN:-}" ]; then
     export NESTED_PODMAN=1
 fi
+
+#export NESTED_PODMAN_STORE_BASE=/mnt/sda1/tmpContainerStorage/
+#export EXTRA_MOUNTS="-v /home/wsix/opt/:/foo/opt/:Z -v /mnt/sda1/:/mnt/sda1/:Z"
+#export USE_CONTROLLER=1
