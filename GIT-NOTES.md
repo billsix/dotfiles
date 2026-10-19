@@ -48,6 +48,13 @@ git reset --soft origin/master && git commit -m "..."
 so all the intervening changes are already staged as one — no diff is lost. Verify
 with `git diff` against the pre-squash state (see "Prove a rewrite changed nothing").
 
+**In a Git LFS repo, `--soft` is the squash that works** — not `--hard`, not an
+interactive rebase. `--soft` does **no working-tree checkout**, so the LFS smudge
+filter never runs and a not-yet-downloaded LFS object (a big `*.hdr`/`*.bin`) can't
+abort the squash. `--hard` and rebase *do* check out the tree and will "crap out"
+naming the LFS file if its object isn't cached or the remote is unreachable (see the
+gotcha below). This is how the OpenGL port squash got unstuck (2026-10-19).
+
 ### `git cherry-pick -n <parent>..<end>` — replay a range of commits without committing
 `-n`/`--no-commit` applies each commit's diff into the index but doesn't commit, so a
 range collapses into one staged set you then commit once. The safe way to lift
@@ -70,8 +77,23 @@ git commit -F /path/to/msg.txt
 - In a headless/no-TTY shell (a sandbox, CI) signing fails with no pinentry.
   `bin/gitGPGsign` (`export GPG_TTY=$(tty)`) points gpg at the terminal; source it
   before committing in a fresh shell. If there's genuinely no agent, the escape hatch
-  is `git -c commit.gpgsign=false commit ...` then re-sign later with the `--exec`
-  rebase.
+  is `git -c commit.gpgsign=false commit ...` (or `git commit --no-gpg-sign`) then
+  re-sign later with the `--exec` rebase.
+- **The exact symptom: a commit "craps out" with `gpg: signing failed: Timeout`**
+  (right after `PINENTRY_LAUNCHED ... gnome3:curses`). Pinentry launches but there's
+  no interactive TTY to type the passphrase into, so it times out and `git commit`
+  dies with `fatal: failed to write commit object`. **This is what breaks a
+  squash/rebase in a container:** with `git squash` / `reset --soft`, the
+  `reset --soft` *succeeds* (branch pointer moved to the base, every change left
+  staged as one commit) and only the *commit* fails — so the fix is just to redo the
+  commit (do NOT re-reset), either after `source bin/gitGPGsign` or unsigned with
+  `git commit --no-gpg-sign`, then optionally re-sign with the `--exec` rebase.
+  Always `git branch backup-xyz` first; the half-done state is fully recoverable from
+  it. (William Emerison Six <billsix@gmail.com>, 2026-10-19)
+- Inside the Claude Code sandbox, the auto-approval classifier blocks `--no-gpg-sign`
+  / `-c commit.gpgsign=false` as a security-weakening action, so the agent can't
+  commit unsigned on its own — it has to ask you to authorize that specific commit (or
+  you run it yourself in a terminal where pinentry works).
 - Check what's signed: `git log --show-signature` (or `%G?` in a `--format`: `G`=good,
   `N`=none, `B`=bad).
 
@@ -133,3 +155,15 @@ Used to reconstruct the decision history into a task doc before squashing it awa
   `:Z` if the host also uses it.
 - **Backup before a history rewrite.** `git branch backup-xyz` first; a rewrite is
   only safe because you can `git reset --hard backup-xyz`.
+- **`git reset --hard` / `rebase` can "crap out" on a Git LFS file** (symptom: an error
+  naming a tracked binary, e.g. `Binaries/doge2.hdr`). Those commands check out the
+  working tree, which runs the LFS *smudge* filter: it swaps each 133-byte pointer for
+  the real object, fetching from the LFS remote when it isn't cached — and that fails
+  offline / with no reachable remote. Fixes: squash with `reset --soft` (no checkout →
+  no smudge); or, when you genuinely need the checkout, skip the smudge with
+  `GIT_LFS_SKIP_SMUDGE=1 git reset --hard ...` (leaves pointers in the worktree) and
+  `git lfs pull` later. **The committed 133-byte pointer is the CORRECT LFS state, not
+  a destroyed file** — the real bytes live in `.git/lfs/objects/`; confirm with
+  `git lfs ls-files` (a `*` = object present) and `git lfs fsck`. `.gitattributes`
+  says what's LFS (here `*.hdr`/`*.bin filter=lfs`). (William Emerison Six
+  <billsix@gmail.com>, 2026-10-19)
