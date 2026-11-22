@@ -171,7 +171,7 @@ settings) are recorded at the end with what they would have done.
 	lgs = log --graph --pretty=format:'%C(auto)%h %G? %d %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
 	last = log -1 --stat
 	unstage = restore --staged --
-	fixup = "!f() { git commit --fixup=$1 && git rebase -i --autosquash $1~; }; f"
+	fixup = "!f() { target=$(git rev-parse --verify \"$1^{commit}\") && git commit --fixup=\"$target\" && git rebase -i --autosquash \"$target~\"; }; f"
 ```
 
 - **`lga`.** The `lg` graph for every branch and remote-tracking branch, not just the current one. Use it
@@ -192,6 +192,9 @@ settings) are recorded at the end with what they would have done.
     not chosen.
   - It opens the rebase editor, so it is for a terminal session.
   - Don't use it on commits that are already pushed somewhere others pull from.
+  - The alias resolves `<sha>` to a commit *before* making the fixup commit; otherwise a relative ref such
+    as `HEAD` would resolve again afterwards and start the rebase too late. It cannot target the root
+    commit, since `<sha>~` does not exist there.
 - Add these to the existing `[alias]` section beside `lg`, `squash` and `dw`, indented with tabs.
 
 ## Plan

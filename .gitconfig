@@ -3,6 +3,8 @@
 	name = William Emerison Six
 [push]
 	default = simple
+	autoSetupRemote = true
+	followTags = true
 [core]
 	editor = emacs -nw
         partialCloneFilter = blob:limit=1m
@@ -12,6 +14,11 @@
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
         squash = "!f() { git reset --soft $1 && git commit ${2:+-m \"$2\"}; }; f"
         dw = diff --word-diff=color
+	lga = lg --all
+	lgs = log --graph --pretty=format:'%C(auto)%h %G? %d %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
+	last = log -1 --stat
+	unstage = restore --staged --
+	fixup = "!f() { target=$(git rev-parse --verify \"$1^{commit}\") && git commit --fixup=\"$target\" && git rebase -i --autosquash \"$target~\"; }; f"
 [log]
 	decorate = true
 	follow = true
@@ -27,6 +34,7 @@
 	prune = true
 [commit]
 	gpgsign = true
+	verbose = true
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
@@ -39,3 +47,20 @@
 	coverLetter = auto
 [am]
 	threeWay = true
+[merge]
+	conflictStyle = zdiff3
+[rerere]
+	enabled = true
+[diff]
+	algorithm = histogram
+	colorMoved = default
+	colorMovedWS = allow-indentation-change
+[tag]
+	sort = version:refname
+	gpgSign = true
+[branch]
+	sort = -committerdate
+[column]
+	ui = auto
+[transfer]
+	fsckObjects = true
