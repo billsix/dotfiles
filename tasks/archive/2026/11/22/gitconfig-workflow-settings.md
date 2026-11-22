@@ -1,44 +1,15 @@
 # Add workflow settings and aliases to `.gitconfig`
 
-**Status:** proposed — needs go-ahead
-**Priority:** 4 **Difficulty:** 1
-**Created:** 2026-11-22 (William Emerison Six <billsix@gmail.com>)
+**Created:** 2026-11-22 (William Emerison Six <billsix@gmail.com>). **Done:** 2026-11-22.
 
-## BLUF
+Eight groups of settings were added to `.gitconfig` (github.com/billsix/dotfiles), merged into its existing
+sections: conflict display and rerere, diffs, a verbose commit editor, sorting, signed tags, push
+conveniences, fetch-time object checks, and log aliases. They suit its linear-history, squash and signing
+workflow. Each setting and its gotchas are described below. The two suggestions not chosen are at the end.
+The minimum git versions are 2.35 for `zdiff3` and 2.37 for `push.autoSetupRemote`; check `git --version` on
+older machines.
 
-Add eight groups of settings to `.gitconfig`. They suit a workflow of linear, curated history, squashing,
-GPG signing and prose diffs:
-
-- conflict display and remembered resolutions;
-- better diffs;
-- a verbose commit editor;
-- sorting;
-- signed tags;
-- push conveniences;
-- object checking on fetch;
-- more log aliases.
-
-Done means:
-- they are in `.gitconfig`, merged into its existing sections (one `[tag]`, one `[push]`, one `[alias]`);
-- `git config --list` parses the file;
-- each setting works in a scratch repo (see Verification).
-
-Two suggestions the maintainer did not choose (rebase autoSquash/updateRefs, and the large-repo speed
-settings) are recorded at the end with what they would have done.
-
-## Context
-
-- The file is `.gitconfig` at this repo's root (github.com/billsix/dotfiles), installed as `~/.gitconfig`.
-- Settings it already has, which the new ones fit beside:
-  - `pull.ff = only`, `commit.gpgsign = true`, `rebase.autoStash`, `fetch.prune`, `push.default = simple`;
-  - the `lg`, `squash` and `dw` aliases;
-  - the `format` and `am` settings for emailed patches.
-- The file mixes tab and space indentation. Indent new lines with a tab, as git writes them.
-- **Minimum git versions:** `zdiff3` needs 2.35 and `push.autoSetupRemote` needs 2.37. The sandbox has
-  2.56.1. Check `git --version` on each machine that uses these dotfiles (Fedora, macOS with Homebrew,
-  Gentoo); an older git warns about or ignores an unknown value.
-
-## The settings to add
+## What was added
 
 ### 1. Conflicts show the base; resolutions are remembered
 
@@ -197,30 +168,22 @@ settings) are recorded at the end with what they would have done.
     commit, since `<sha>~` does not exist there.
 - Add these to the existing `[alias]` section beside `lg`, `squash` and `dw`, indented with tabs.
 
-## Plan
-
-1. Merge the blocks above into `.gitconfig`. Add new keys to existing sections (`[commit]`, `[push]`,
-   `[alias]`) rather than repeating the section headers, and give `[tag]` both `sort` and `gpgSign`.
-2. Check that it parses: `git config --file .gitconfig --list`.
-3. Run the Verification steps in a scratch repo, with `GIT_CONFIG_GLOBAL=$PWD/.gitconfig` so the
-   installed `~/.gitconfig` is not touched.
-4. Stage `.gitconfig` and this task.
-
 ## Verification
 
-In a scratch repo using the new file:
+Checked in a throwaway repo with `GIT_CONFIG_GLOBAL` pointing at the new file, on git 2.56.1:
 
-- `git config --get merge.conflictStyle` prints `zdiff3`. A conflicting merge shows a `|||||||` section.
-- After resolving and aborting, the same merge again prints `Resolved '<file>' using previous resolution`
-  (rerere).
-- `git diff` on a moved function shows the move colours.
-- `git commit` shows the diff in the editor.
-- With tags `v0.0.7` and `v0.0.10`, `git tag` lists `v0.0.10` last.
-- `git tag t1` asks for a message and `git tag -v t1` reports a good signature. This needs gpg in the
-  environment; if it is missing, check `git config --get tag.gpgSign` only and say so.
-- `git push` to a local bare repo sets the upstream and sends an annotated tag.
-- `git lga`, `git lgs -5`, `git last`, `git unstage <f>` and `git fixup <sha>` (with `GIT_SEQUENCE_EDITOR=:`)
-  each run.
+- `git config --file .gitconfig --list` parsed the file.
+- A conflict showed the `|||||||` base section. Repeating the merge printed "Resolved 'f' using previous
+  resolution" (rerere).
+- `git tag` listed `v0.0.7 v0.0.9 v0.0.10`.
+- The first `git push` of a new branch to a bare repo set the upstream and pushed the annotated tag.
+- `lga`, `lgs`, `last` and `unstage` behaved as described.
+- `git tag -m` invoked gpg (it could not sign in the sandbox), which confirms `tag.gpgSign`.
+- The first `fixup` alias, `git commit --fixup=$1 && git rebase -i --autosquash $1~`, left the fixup
+  unfolded for `git fixup HEAD`, because `$1` was read again after the new commit. It was changed to
+  resolve the SHA first, and a retest folded the fixup into its target.
+- How the `diff.colorMoved` colours and the `commit.verbose` editor look was left to the maintainer's
+  terminal.
 
 ## Suggested but not chosen
 
