@@ -1,6 +1,6 @@
 # Add Emacs- and container-friendly settings to `.tmux.conf`
 
-**Status:** proposed — needs go-ahead
+**Status:** in progress: item 11 done 2026-11-22; items 1–10 wait until it is committed
 **Priority:** 4 **Difficulty:** 1
 **Created:** 2026-11-22 (William Emerison Six <billsix@gmail.com>)
 
@@ -188,7 +188,7 @@ set -g set-titles-string "#{user}@#H: #{pane_current_command}"
 ### 11. Show the full pane title in the status bar (do this first)
 
 ```
-set -g status-right "#{pane_title}  %H:%M %d-%b-%y"
+set -g status-right "#{pane_current_command}: #{pane_title}  %H:%M %d-%b-%y"
 set -g status-right-length 200
 set -g status-left-length 40
 ```
@@ -202,7 +202,14 @@ set -g status-left-length 40
   - the whole right side is capped at 40 characters.
 
   The bar has plenty of free space, because the window list is only numbers, but none of it is used.
-- **`status-right`** shows the whole title, then the time and date. The default's quotes and its
+- **`status-right`** shows the active pane's running command, then the whole title, then the time and
+  date.
+  - The command name (`#{pane_current_command}`) is read from the process, so it is always there.
+  - The title is there only when a program sets one. After item 11 first went in with the title alone,
+    `glxgears` showed nothing about itself: it opens an X window and never sends a title. The command name
+    was added for that case (William Emerison Six <billsix@gmail.com>, 2026-11-22).
+  - During an emerge, "emerge" appears twice (`emerge: emerge: (2 of 15) …`), the cost of always showing
+    the command. The default's quotes and its
   `window_bigger` offset prefix are dropped. The prefix only shows when the window is larger than the
   client, which a single-client setup never has.
 - **`status-right-length 200`** raises the cap, so the title can use the free width.
@@ -219,6 +226,15 @@ set -g status-left-length 40
     pushing the clock off. Not chosen: `status-right-length` already bounds the right side, and tmux
     trims it to fit.
   - **The pane border instead of the status bar:** see item 2's alternative.
+- **Done 2026-11-22.**
+  - The three lines are in `.tmux.conf` after `status-left`.
+  - On a scratch tmux 3.8 server (`-L check`): the file loaded with no errors, and the three options read
+    back as set.
+  - With the command name added, `#{T:status-right}` expanded to:
+    - `zsh: 74345296a9e1  …` at an idle prompt (the title defaults to the hostname);
+    - `sleep: 74345296a9e1  …` while a program that sets no title ran;
+    - `sleep: emerge: (2 of 15) dev-libs/foo-1.2 Compile  …` after that pane set an emerge-style title.
+  - A real `emerge` on a display is still for the maintainer to watch.
 - **Verify:**
   - In a scratch server, `printf '\033]2;emerge: (2 of 15) dev-libs/foo-1.2 Compile\033\\'` in a pane sets
     the title.
