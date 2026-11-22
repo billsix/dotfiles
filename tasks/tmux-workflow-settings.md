@@ -1,46 +1,21 @@
 # Add Emacs- and container-friendly settings to `.tmux.conf`
 
-**Status:** in progress: item 11 done 2026-11-22; items 1–10 wait until it is committed
-**Priority:** 4 **Difficulty:** 1
-**Created:** 2026-11-22 (William Emerison Six <billsix@gmail.com>)
+**Created:** 2026-11-22 (William Emerison Six <billsix@gmail.com>). **Done:** 2026-11-22.
 
-## BLUF
+Eleven settings were added to `.tmux.conf` (github.com/billsix/dotfiles), the file mounted into the project
+containers as `~/.tmux.conf`.
 
-Add eleven settings to `.tmux.conf`, **item 11 first, on its own** (the maintainer's order, 2026-11-22: do
-item 11, stage it, and after that is committed do items 1–10). Item 11 shows the full program title, such
-as emerge's `(2 of 15) category/package` progress, in the status bar. Two of the others fix things the
-current config means to do but doesn't:
-- the pane-border label is never shown;
-- Emacs can't be sent `C-t`.
+- **Order.** Item 11 went in first and was committed on its own, at the maintainer's request; items 1–10
+  followed.
+- **Two fixes** to things the config meant to do but didn't:
+  - the pane-border label was never shown;
+  - Emacs could not be sent `C-t`.
+- **The rest** suit `emacs -nw` inside tmux, tmux inside containers, and the Alacritty and iTerm2
+  terminals.
+- **Defaults** quoted below were read from tmux 3.8, which is in the sandbox. Older tmux on other machines
+  may differ; see items 3 and 4.
 
-The other eight fit how the config is used:
-- tmux runs `emacs -nw`;
-- it is mounted into the project containers;
-- the terminals are Alacritty and iTerm2.
-
-Done means the settings are in `.tmux.conf`, a fresh tmux server loads it with no errors, and each setting
-behaves as described in Verification.
-
-## Context
-
-- The file is `.tmux.conf` at this repo's root (github.com/billsix/dotfiles), installed as `~/.tmux.conf`.
-- The project Makefiles mount it into their containers (`-v ~/.tmux.conf:/root/.tmux.conf`). So it also
-  runs inside containers, sometimes under a tmux on the host that uses the same prefix.
-- **What it has now:**
-  - `mouse on`;
-  - prefix `C-t`, which keeps `C-b` (backward-char) for Emacs;
-  - a blue status bar with `{user@host}` on the left;
-  - `default-terminal "xterm-256color"`;
-  - 1-based windows and panes, and `renumber-windows on`;
-  - `history-limit 4000`;
-  - a `pane-border-format`;
-  - windows shown as only their number.
-- The terminals: `configs/.config/alacritty/alacritty.toml`, and iTerm2's `configs/iterm2/Default.json`.
-- **tmux versions differ by machine:** the sandbox has 3.8; macOS gets its tmux from Homebrew; Fedora and
-  Gentoo use their packaged versions. The defaults quoted below were read from tmux 3.8 with
-  `tmux -L probe -f /dev/null start-server \; show -sg escape-time` (and similar).
-
-## The settings to add
+## What was added
 
 ### 1. Send the prefix through to Emacs or a nested tmux
 
@@ -185,7 +160,7 @@ set -g set-titles-string "#{user}@#H: #{pane_current_command}"
   container and what it is running.
 - The default is `off`, which leaves whatever title the terminal or shell set.
 
-### 11. Show the full pane title in the status bar (do this first)
+### 11. Show the full pane title in the status bar (done first)
 
 ```
 set -g status-right "#{pane_current_command}: #{pane_title}  %H:%M %d-%b-%y"
@@ -235,43 +210,30 @@ set -g status-left-length 40
     - `sleep: 74345296a9e1  …` while a program that sets no title ran;
     - `sleep: emerge: (2 of 15) dev-libs/foo-1.2 Compile  …` after that pane set an emerge-style title.
   - A real `emerge` on a display is still for the maintainer to watch.
-- **Verify:**
-  - In a scratch server, `printf '\033]2;emerge: (2 of 15) dev-libs/foo-1.2 Compile\033\\'` in a pane sets
-    the title.
-  - `tmux -L check display -p '#{pane_title}'` shows it in full.
-  - `tmux -L check show -g status-right-length` reports 200.
-  - On a real display, `emerge` shows its whole progress line in the status bar.
-
-## Plan
-
-0. **Item 11 alone first:** add its three lines, verify, and stage. The maintainer commits that, then
-   steps 1–4 do items 1–10.
-1. Add the lines for items 1–10 to `.tmux.conf`:
-   - replace `default-terminal "xterm-256color"` with item 4's two lines;
-   - replace `history-limit 4000` with item 5's line;
-   - group the key bindings (1, 7, 8) after the prefix line.
-2. Load it in a scratch server: `tmux -L check -f .tmux.conf new-session -d \; show -g pane-border-status`.
-   Any error in the file is printed.
-3. Run the Verification steps. Use `-L check` throughout, so a tmux you have running is not touched.
-4. Stage `.tmux.conf` and this task.
 
 ## Verification
 
-In the sandbox (tmux 3.8), on a scratch server (`-L check`):
+On tmux 3.8 in the sandbox, using scratch servers (`-L check`) so no running tmux was touched:
 
-- The file loads with no errors. `show -g` reports:
-  - `pane-border-status top`, `history-limit 50000`, `focus-events on`, `set-titles on`;
-  - `set-clipboard on`, `escape-time 10`;
-  - `default-terminal tmux-256color`.
-- `list-keys` shows the four bindings: `C-t` send-prefix, `"`, `%` and `c` with `-c`, and `r`
-  source-file.
-- In a nested setup (tmux inside tmux, both with this file), `send-keys C-t C-t c` creates a window in the
-  inner server.
-- A split from a pane in a subdirectory starts in that directory: compare `display -p '#{pane_current_path}'`
-  in the old and new panes.
-- For the maintainer on a real display:
-  - item 4: true colour in Emacs (`M-x list-colors-display`);
-  - item 6: OSC 52 copies arriving in the desktop clipboard;
-  - item 10: the window title.
+- **Item 11** is recorded under its own heading above.
+- **Items 1–10.** `.tmux.conf` loaded with no errors, and `show` read back:
+  - `pane-border-status top`, `history-limit 50000`, `focus-events on`, `set-titles on` with its format,
+    `set-clipboard on`, `escape-time 10`;
+  - `default-terminal tmux-256color`, and the `alacritty*:RGB` and `xterm-256color:RGB` terminal features.
 
-  These need a real terminal; the sandbox has none.
+  The pane border expanded to `1: zsh`.
+- **The bindings** (`C-t` send-prefix, `"`, `%`, `c`, `r`) are in `list-keys -T prefix`.
+- **Driving the bindings needs a real client**, because `send-keys` types into a pane and skips the
+  bindings. A first attempt that way showed nothing. The checks were repeated with a client attached
+  inside a second tmux (`-L driver`), sending the keys to that client:
+  - `C-t %` and `C-t c` opened a pane and a window in the current pane's directory, not `/tmp`, where the
+    session started.
+  - With an inner tmux (same config) running in a pane, `C-t C-t c` added a window to the inner server
+    (inner 2, outer unchanged at 2).
+- **Left for the maintainer on a real terminal:**
+  - true colour in Emacs (`M-x list-colors-display`, item 4);
+  - `infocmp tmux-256color` on macOS (item 4);
+  - OSC 52 copies reaching the desktop clipboard, which in iTerm2 needs "Applications in terminal may
+    access clipboard" (item 6);
+  - the window title (item 10);
+  - a real `emerge` progress line (item 11).
